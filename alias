@@ -1,0 +1,1 @@
+alias node="docker run node:22-alpine node"
