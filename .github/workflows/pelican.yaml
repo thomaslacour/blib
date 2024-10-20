@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: ["main"]
-  workflow_dispatch:
+  #workflow_dispatch:
 jobs:
   deploy:
     uses: "getpelican/pelican/.github/workflows/github_pages.yml@main"
@@ -12,6 +12,4 @@ jobs:
       id-token: "write"
     with:
       settings: "publishconf.py"
-      requirements: "pelican"
-      output-path: "output/"
-      theme: "blib"
+      requirements: "pelican[markdown]"
