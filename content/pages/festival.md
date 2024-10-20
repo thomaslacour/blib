@@ -1,7 +1,7 @@
 Title: Le Festival
 save_as: index.html
 
-![banner](./../../images/banner.png "Festival BLIB")
+![banner](./images/banner.png "Festival BLIB")
 
 > " **Bières Libres & Indépendantes à Bordeaux** "
 >
@@ -9,7 +9,7 @@ save_as: index.html
 > Le **BLIB** a su réunir des brasseries artisanales engagées et un public diversifié dans différents lieux de la métropole qui soutiennent la **bière artisanale** : bars, caves, restaurants, brasseries etc. Des dégustations, des rencontres, des ateliers, des conférences.
 
 <center>
-![bliby_rond](./../../images/bliby_rond.png "Festival BLIB")
+![bliby_rond](./images/bliby_rond.png "Festival BLIB")
 </center>
 
 
