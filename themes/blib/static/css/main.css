@@ -108,8 +108,13 @@ pre{background-color:  rgb(238, 238, 238); padding: 10px; margin: 10px; overflow
 
 /* Quotes */
 blockquote {
-    margin: 20px;
-    font-style: italic;
+    margin: 10px;
+    background-color: rgba(253,204,0,255);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-bottom: 40px;
 }
 cite {}
 
@@ -172,7 +177,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 *****************/
 #banner {
     margin: 0 auto;
-    padding: 0.8em 0 0 0;
+    padding: 0.8em 10 0 0;
 }
 
 	/* Banner */
@@ -199,7 +204,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 
 	/* Main Nav */
 #banner nav {
-    background: #000305;
+    background: #759cb9;
     font-size: 1.143em;
     overflow: auto;
     line-height: 30px;
@@ -273,7 +278,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	Body
 *****************/
 #content {
-    background: #fff;
+    background: #f9df76;
     margin-bottom: 2em;
     overflow: hidden;
     padding: 20px 20px;
