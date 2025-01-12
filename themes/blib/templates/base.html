@@ -18,6 +18,7 @@
         </head>
 
         <body id="index" class="home">
+                {% include 'modal.html' %}
                 {% include 'github.html' %}
                 <header id="banner" class="body">
                         <h1><a href="{{ SITEURL }}/">{{ SITENAME }}{% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
@@ -97,6 +98,31 @@ function includeHTML() {
     }
   }
 }
+</script>
+
+
+<script>
+    // Check if the user has already verified their age
+    function checkAgeVerification() {
+        const isVerified = sessionStorage.getItem('ageVerified'); // Use sessionStorage for session-based tracking
+        if (isVerified === 'true') {
+            document.getElementById('age-verification').style.display = 'none';
+        }
+    }
+
+    // Handle age verification
+    function verifyAge(isOldEnough) {
+        if (isOldEnough) {
+            sessionStorage.setItem('ageVerified', 'true'); // Set verification in session storage
+            document.getElementById('age-verification').style.display = 'none';
+        } else {
+            alert('You must be 18 or older to access this site.');
+            window.location.href = 'https://www.google.com'; // Redirect to a neutral site
+        }
+    }
+
+    // Run the check when the page loads
+    document.addEventListener('DOMContentLoaded', checkAgeVerification);
 </script>
 
 
