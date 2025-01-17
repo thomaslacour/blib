@@ -16,8 +16,7 @@ fancyTitle = "FESTIVAL BLiB" # title for frontpage, may include image
 logo = "images/bliby_rond.png"
 copyright = "Festival BLIB"
 description = '''
-Le BLIB fête ses 10 ans ! du 14 au 19 avril
-<br>
+Le BLIB fête ses 10 ans ! du 14 au 19 avril. 
 Final au Hangar 14 : samedi 19 avril de midi a minuit
 '''
 startbuttonText = "Je prends ma place !"

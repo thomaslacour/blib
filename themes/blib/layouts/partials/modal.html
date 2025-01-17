@@ -1,0 +1,30 @@
+
+<script>
+// Check if the user has already verified their age
+function checkAgeVerification() {
+    const isVerified = sessionStorage.getItem('ageVerified'); // Use sessionStorage for session-based tracking
+    if (isVerified === 'true') {
+        document.getElementById('age-verification').style.display = 'none';
+    }
+}
+// Handle age verification
+function verifyAge(isOldEnough) {
+    if (isOldEnough) {
+        sessionStorage.setItem('ageVerified', 'true'); // Set verification in session storage
+        document.getElementById('age-verification').style.display = 'none';
+    } else {
+        alert('You must be 18 or older to access this site.');
+        window.location.href = 'https://www.google.com'; // Redirect to a neutral site
+    }
+}
+// Run the check when the page loads
+document.addEventListener('DOMContentLoaded', checkAgeVerification);
+</script>
+
+<div id="age-verification" style="display: flex; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); color: white; align-items: center; justify-content: center; z-index: 9999;">
+    <div style="text-align: center;">
+        <p>Êtes-vous majeur ?</p>
+        <button onclick="verifyAge(true)">Oui</button>
+        <button onclick="verifyAge(false)">Non</button>
+    </div>
+</div>
