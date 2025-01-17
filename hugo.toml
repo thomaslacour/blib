@@ -4,6 +4,7 @@ languageCode = "fr-FR"
 defaultContentLanguage = "fr"
 paginate = "7"
 theme = "spectral"
+enableEmoji = true
 #googleAnalytics = "G-XXXXXXXXXX"
 
 ################################################################################
