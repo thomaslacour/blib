@@ -11,7 +11,8 @@
 		<ul class="features">
       {{ range .feature }}
       <li class="icon {{ .icon }}">
-        <h3>{{ .title | safeHTML }}</h3>
+        <!-- <h3>{{ .title | safeHTML }}</h3> -->
+        <h3><a href="{{ .link }}">{{ .title | safeHTML }}</a></h3>
         <p>{{ .body | safeHTML }}</p>
 			</li>
       {{ end }}

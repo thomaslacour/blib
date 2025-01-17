@@ -3,7 +3,7 @@ title = "Festival BLIB"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
 paginate = "7"
-theme = "spectral"
+theme = "blib"
 enableEmoji = true
 #googleAnalytics = "G-XXXXXXXXXX"
 
@@ -13,6 +13,7 @@ enableEmoji = true
 
 [params]
 fancyTitle = "FESTIVAL BLiB" # title for frontpage, may include image
+banner = "images/banner.jpg"
 copyright = "Festival BLIB"
 description = '''
 Le BLIB fête ses 10 ans ! du 14 au 19 avril
@@ -24,7 +25,7 @@ startbuttonLink = "https://www.helloasso.com/associations/blib"
 body_is_markdown = true
 #custom_css = "foo.css"
 #custom_sass = "bar.scss"
-#images = ["path_to_social_image_for_link_previews.jpg"]
+# images = ["path_to_social_image_for_link_previews.jpg"]
 
 ################################################################################
 # MENU
@@ -39,7 +40,7 @@ url = '/blib/posts/brassam'
 title = "Concours Brassam"
 
 [[params.menu.main]]
-url = '/pics/'
+url = '/blib/posts/galerie'
 title = "Galeries"
 
 [[params.menu.main]]
@@ -104,7 +105,7 @@ body = "Un trentaine de lieux partenaires (brasserie, bar, cave, restaurant ...)
 img = "images/visuel_blib3.png"
 title = '60 exposants'
 body = '''
-Lors du grand final qui se déroule depuis plusieurs année au Hangar 14, tous les exposants des brasseries au partenaire pour la restaurant se retrouve pour célébrer la biére craft
+Lors du grand final qui se déroule depuis plusieurs année au Hangar 14, tous les exposants, des brasseries aus partenaires pour la restaurantion, se retrouve pour célébrer la bière craft
 '''
 
 ################################################################################
@@ -113,7 +114,7 @@ Lors du grand final qui se déroule depuis plusieurs année au Hangar 14, tous l
 
 [params.three]
 enable = true
-title = 'Exposants'
+title = 'Exposants 2025'
 # body = '''
 # '''
 
@@ -123,14 +124,12 @@ title = 'Exposants'
 #title = "Title"
 #body = "body"
 # todo (not supported within the template)
-#link = ""
 #img = "..."
 
 [[params.three.feature]]
 title = "Azimut"
 body = "Bordeaux (33), France"
-# TODO: not supported now
-# link = "https://www.azimutbrasserie.com/"
+link = "https://www.azimutbrasserie.com/"
 
 [[params.three.feature]]
 title = "Bee King"
@@ -209,15 +208,15 @@ link = "https://www.dwynbrewing.com/"
 [params.cta]
 enable = true
 title = "Concours brassam"
-body = "Le concours brassam récompense chaque année ..."
+body = "Le concours brassam récompense chaque année le meilleur brassage amateur réalisé pour l'occasion du festival"
 
 [[params.cta.link]]
-href = "#"
+href = "https://forms.gle/oZyWM27vs234TbDY6"
 text = "Inscription"
 special = true
 
 [[params.cta.link]]
-href = "#"
+href = "https://drive.google.com/file/d/166EJDwHGwuAf2WTE6JxzsovlPb4VwVIo/view"
 text = "Informations"
 special = false
 
@@ -226,14 +225,14 @@ special = false
 ################################################################################
 
 [params.contact]
-enable = true
-title = "Contacter"
-body = "Hello le BLIB!"
+email = "asso.blib@gmail.com"
+enable = false
+# title = "Contacter"
+# body = "Hello le BLIB!"
 #phone = "+49 (0) 030 000 000"
 address = "Bordeaux"
-email = "asso.blib@gmail.com"
-subject = "New Submission!"
-formspree_form_id = "example_invalid"
+# subject = "New Submission!"
+# formspree_form_id = "example_invalid"
 
 ################################################################################
 # SOCIAL

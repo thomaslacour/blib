@@ -1,3 +1,7 @@
+/* button.primary */
+/* wrapper.style1 */
+/* menu */
+
 @import url(fontawesome-all.min.css);
 
 /* https://google-webfonts-helper.herokuapp.com/fonts/open-sans */
@@ -2547,7 +2551,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ed4933;
+			background-color: #dd5d90;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2557,7 +2561,8 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #ef5e4a !important;
+				background-color: #ffcc01 !important;
+				color: #000000 !important;
 			}
 
 			input[type="submit"].primary:active,
@@ -2622,45 +2627,24 @@ input, select, textarea {
 			width: 50%;
 		}
 
-			.features li:nth-child(1) {
-				background-color: rgba(0, 0, 0, 0.035);
-			}
-
-			.features li:nth-child(2) {
-				background-color: rgba(0, 0, 0, 0.07);
-			}
-
-			.features li:nth-child(3) {
-				background-color: rgba(0, 0, 0, 0.105);
-			}
-
-			.features li:nth-child(4) {
-				background-color: rgba(0, 0, 0, 0.14);
-			}
-
-			.features li:nth-child(5) {
-				background-color: rgba(0, 0, 0, 0.175);
-			}
-
-			.features li:nth-child(6) {
-				background-color: rgba(0, 0, 0, 0.21);
-			}
-
-			.features li:nth-child(7) {
-				background-color: rgba(0, 0, 0, 0.245);
-			}
-
-			.features li:nth-child(8) {
-				background-color: rgba(0, 0, 0, 0.28);
-			}
-
-			.features li:nth-child(9) {
-				background-color: rgba(0, 0, 0, 0.315);
-			}
-
-			.features li:nth-child(10) {
-				background-color: rgba(0, 0, 0, 0.35);
-			}
+			/* .features li:nth-child(1) { background-color: rgba(0, 0, 0, 0.035); } */
+			/* .features li:nth-child(2) { background-color: rgba(0, 0, 0, 0.07); } */
+			/* .features li:nth-child(3) { background-color: rgba(0, 0, 0, 0.105); } */
+			/* .features li:nth-child(4) { background-color: rgba(0, 0, 0, 0.14); } */
+			/* .features li:nth-child(5) { background-color: rgba(0, 0, 0, 0.175); } */
+			/* .features li:nth-child(6) { background-color: rgba(0, 0, 0, 0.21); } */
+			/* .features li:nth-child(7) { background-color: rgba(0, 0, 0, 0.245); } */
+			/* .features li:nth-child(8) { background-color: rgba(0, 0, 0, 0.28); } */
+			/* .features li:nth-child(9) { background-color: rgba(0, 0, 0, 0.315); } */
+			/* .features li:nth-child(10) { background-color: rgba(0, 0, 0, 0.35); } */
+			/* .features li:nth-child(11) { background-color: rgba(0, 0, 0, 0.38); } */
+			/* .features li:nth-child(12) { background-color: rgba(0, 0, 0, 0.42); } */
+			/* .features li:nth-child(13) { background-color: rgba(0, 0, 0, 0.435); } */
+			/* .features li:nth-child(14) { background-color: rgba(0, 0, 0, 0.468); } */
+			/* .features li:nth-child(15) { background-color: rgba(0, 0, 0, 0.5); } */
+			/* .features li:nth-child(16) { background-color: rgba(0, 0, 0, 0.528); } */
+			/* .features li:nth-child(17) { background-color: rgba(0, 0, 0, 0.587); } */
+			/* .features li:nth-child(18) { background-color: rgba(0, 0, 0, 0.587); } */
 
 			.features li:before {
 				display: block;
@@ -2877,8 +2861,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
-			color: #c8ece9;
+			background-color: #7298b3;
+			color: #ffefe9;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -3040,16 +3024,16 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
-			color: #d3d4e4;
+			background-color: #ffcc01;
+			color: #170600;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style3 hr {
@@ -3411,7 +3395,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #dd5d90;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
