@@ -1,3 +1,6 @@
 venv
 *__pycache__
-output
+public/
+resources
+output/
+*lock
