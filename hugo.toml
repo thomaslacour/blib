@@ -1,7 +1,7 @@
-baseURL = "/"
+baseURL = "https://thomaslacour.github.io/blib/"
 title = "Festival BLIB"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
 paginate = "7"
 theme = "spectral"
 #googleAnalytics = "G-XXXXXXXXXX"
@@ -30,11 +30,11 @@ body_is_markdown = true
 ################################################################################
 
 [[params.menu.main]]
-url = '/'
+url = '/blib'
 title = "Festival BLIB"
 
 [[params.menu.main]]
-url = '/posts/brassam'
+url = '/blib/posts/brassam'
 title = "Concours Brassam"
 
 [[params.menu.main]]
@@ -42,7 +42,7 @@ url = '/pics/'
 title = "Galeries"
 
 [[params.menu.main]]
-url = '/posts/faq'
+url = '/blib/posts/faq'
 title = "FAQ"
 
 [taxonomies]
@@ -253,6 +253,10 @@ helloasso = ""  ##todo
 
 
 # language specific options
+
+[languages.fr]
+weight = 0
+languageName = "French"
 
 [languages.en]
 weight = 0
