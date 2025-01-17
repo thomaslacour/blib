@@ -1,5 +1,5 @@
 PY?=
-PELICAN?=pelican
+PELICAN?=venv/bin/pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
@@ -75,5 +75,8 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)"
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+venv:
+	if [ -d ./venv ]; then python -m venv venv; fi
+	pip install pelican[markdown]
 
 .PHONY: html help clean regenerate serve serve-global devserver devserver-global publish github

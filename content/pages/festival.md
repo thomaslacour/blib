@@ -24,7 +24,6 @@ La jauge du site étant limitée, il est conseillé d'arriver avant 20h le samed
 
 ## Les évènements
 
-
 # Nous rejoindre
 
 Si tu souhaites rejoindre l’aventure pour contribuer et participer à l’organisation du festival, n’hesite plus une seconde : deviens bénévole !
