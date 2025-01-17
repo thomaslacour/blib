@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brassam on Festival BLIB</title>
+    <link>//localhost:1313/tags/brassam/</link>
+    <description>Recent content in Brassam on Festival BLIB</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/brassam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concours brassage amateur</title>
+      <link>//localhost:1313/posts/brassam/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/brassam/</guid>
+      <description>&lt;h1 id=&#34;concours-brassage-amateur&#34;&gt;Concours brassage amateur&lt;/h1&gt;&#xA;&lt;p&gt;Le concours de brassage amateur du BLIB 2025 est ouvert !&#xA;La date limite de reception des echantillons est fixée au &lt;strong&gt;vendredi 22 mars 2025&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;La participation est gratuite.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/166EJDwHGwuAf2WTE6JxzsovlPb4VwVIo/view&#34;&gt;Règlement&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://forms.gle/oZyWM27vs234TbDY6&#34;&gt;Inscription&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

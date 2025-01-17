@@ -1,0 +1,267 @@
+baseURL = "/"
+title = "Festival BLIB"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+#googleAnalytics = "G-XXXXXXXXXX"
+
+################################################################################
+# TOP
+################################################################################
+
+[params]
+fancyTitle = "FESTIVAL BLiB" # title for frontpage, may include image
+copyright = "Festival BLIB"
+description = '''
+Le BLIB fête ses 10 ans ! du 14 au 19 avril
+<br>
+Final au Hangar 14 : samedi 19 avril de midi a minuit
+'''
+startbuttonText = "Je prends ma place !"
+startbuttonLink = "https://www.helloasso.com/associations/blib"
+body_is_markdown = true
+#custom_css = "foo.css"
+#custom_sass = "bar.scss"
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+################################################################################
+# MENU
+################################################################################
+
+[[params.menu.main]]
+url = '/'
+title = "Festival BLIB"
+
+[[params.menu.main]]
+url = '/posts/brassam'
+title = "Concours Brassam"
+
+[[params.menu.main]]
+url = '/pics/'
+title = "Galeries"
+
+[[params.menu.main]]
+url = '/posts/faq'
+title = "FAQ"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
+################################################################################
+# TOP INFOS
+################################################################################
+
+[params.one]
+enable = true
+title = 'Bières Libres & Indépendantes à Bordeaux'
+body = '''
+Le BLIB est le 1er festival bordelais dédié à la bière artisanale.
+
+Créé en 2015, l’association est menée par un collectif regroupant professionnels indépendants et particuliers, amateurs et connaisseurs du monde brassicole.
+
+Le BLIB a su réunir des brasseries artisanales engagées et un public diversifié dans différents lieux de la métropole qui soutiennent la bière artisanale : bars, caves, restaurants, brasseries etc.
+Des dégustations, des rencontres, des ateliers, des conférences.
+'''
+
+# [[params.one.icon]]
+# icon = "fa-beer"
+# style = "1"
+# label = "Lorem"
+
+# [[params.one.icon]]
+# icon = "fa-heart"
+# style = "2"
+# label = "Ipsum"
+
+# [[params.one.icon]]
+# icon = "solid fa-code"
+# style = "3"
+# label = "Dolor"
+
+################################################################################
+# MIDDLE INFOS
+################################################################################
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+img_alt = "blurry background: white/grey"
+title = '6 jours de festivités'
+body = "Le BLIB se déroule sur un ensemble d'évènements ponctuels du lundi au vendredi et se termine par un grand final le samedi de midi à minuit"
+
+[[params.two.section]]
+img = "img/pic02.jpg"
+title = '30 lieux partenaires'
+body = "Un trentaine de lieux partenaires (brasserie, bar, cave, restaurant ...) s'associent chaque année avec nous pour vous proposer des évènements variés autour de la biére (découverte et dégustation) !"
+
+[[params.two.section]]
+img = "img/pic03.jpg"
+title = '60 exposants'
+body = '''
+Lors du grand final qui se déroule depuis plusieurs année au Hangar 14, tous les exposants des brasseries au partenaire pour la restaurant se retrouve pour célébrer la biére craft
+'''
+
+################################################################################
+# EXPOSANTS
+################################################################################
+
+[params.three]
+enable = true
+title = 'Exposants'
+# body = '''
+# '''
+
+# TEMPLATE
+#[[params.three.feature]]
+#icon = "fa-paper-plane"
+#title = "Title"
+#body = "body"
+# todo (not supported within the template)
+#link = ""
+#img = "..."
+
+[[params.three.feature]]
+title = "Azimut"
+body = "Bordeaux (33), France"
+# TODO: not supported now
+# link = "https://www.azimutbrasserie.com/"
+
+[[params.three.feature]]
+title = "Bee King"
+body = "Saint Priest (69), France"
+link = "https://www.beeking.fr/"
+
+[[params.three.feature]]
+title = "Moustous"
+body = "Beauregard (33), France"
+link = "https://www.xn--microbrasseries-franaises-dhc.fr"
+
+[[params.three.feature]]
+title = "KAPSYL"
+body = "Chambray-lés-Tours (37), France"
+link = "https://www.instagram.com/brasseriekapsyl/"
+
+[[params.three.feature]]
+title = "Jukebox"
+body = "Cognac (16), France"
+link = "https://brasseriejukebox.com/"
+
+[[params.three.feature]]
+title = "Effet Papillon"
+body = "Mérignac (33), France"
+link = "https://www.brasserieffetpapillon.com/"
+
+[[params.three.feature]]
+title = "Maison PIP"
+body = "Bègles (33), France"
+link = "https://maisonpip.com/"
+
+[[params.three.feature]]
+title = "La Gang"
+body = "Biscarosse (33), France"
+link = "https://lagang.fr/"
+
+[[params.three.feature]]
+title = "Rosny"
+body = "Seignoss (40), France"
+link = "https://lagang.fr/"
+
+[[params.three.feature]]
+title = "Sidras"
+body = "Nantes (44), France"
+link = "https://www.sidras.fr/"
+
+[[params.three.feature]]
+title = "Zebra"
+body = "Preignac (33), France"
+link = "https://brasseriezebra.fr/"
+
+[[params.three.feature]]
+title = "Burdigala"
+body = "Bordeaux (33), France"
+link = "https://www.bieredebordeaux.com/"
+
+[[params.three.feature]]
+title = "Le bercail WUB"
+body = "Saint-Magne-de-Castillon (33), France"
+link = "https://lebercail-wub.fr/"
+
+[[params.three.feature]]
+title = "Brasseurs Cueilleurs"
+body = "Landrais (17), France"
+link = "https://brasseurscueilleurs.fr/"
+
+[[params.three.feature]]
+title = "DWYN"
+body = "Montagny (67), France"
+link = "https://www.dwynbrewing.com/"
+
+################################################################################
+# BRASSAM
+################################################################################
+
+[params.cta]
+enable = true
+title = "Concours brassam"
+body = "Le concours brassam récompense chaque année ..."
+
+[[params.cta.link]]
+href = "#"
+text = "Inscription"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "Informations"
+special = false
+
+################################################################################
+# CONTACT
+################################################################################
+
+[params.contact]
+enable = true
+title = "Contacter"
+body = "Hello le BLIB!"
+#phone = "+49 (0) 030 000 000"
+address = "Bordeaux"
+email = "asso.blib@gmail.com"
+subject = "New Submission!"
+formspree_form_id = "example_invalid"
+
+################################################################################
+# SOCIAL
+################################################################################
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = ""
+facebook = "https://www.facebook.com/AssoBLIB"
+youtube = ""
+instagram = "https://www.instagram.com/festival_blib/"
+dribble = ""
+helloasso = ""  ##todo
+
+
+
+
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
+
+[languages.es]
+weight = 10
+languageName = "Español"
