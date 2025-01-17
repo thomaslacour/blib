@@ -90,18 +90,18 @@ Des dégustations, des rencontres, des ateliers, des conférences.
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
+img = "images/visuel_blib2.jpg"
 img_alt = "blurry background: white/grey"
 title = '6 jours de festivités'
-body = "Le BLIB se déroule sur un ensemble d'évènements ponctuels du lundi au vendredi et se termine par un grand final le samedi de midi à minuit"
+body = "Le BLIB se déroule en région Bordelaise sur un ensemble d'évènements ponctuels du lundi au vendredi et il se termine par un grand final le samedi"
 
 [[params.two.section]]
-img = "img/pic02.jpg"
+img = "images/visuel_blib4.png"
 title = '30 lieux partenaires'
 body = "Un trentaine de lieux partenaires (brasserie, bar, cave, restaurant ...) s'associent chaque année avec nous pour vous proposer des évènements variés autour de la biére (découverte et dégustation) !"
 
 [[params.two.section]]
-img = "img/pic03.jpg"
+img = "images/visuel_blib3.png"
 title = '60 exposants'
 body = '''
 Lors du grand final qui se déroule depuis plusieurs année au Hangar 14, tous les exposants des brasseries au partenaire pour la restaurant se retrouve pour célébrer la biére craft
