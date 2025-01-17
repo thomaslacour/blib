@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 fancyTitle = "FESTIVAL BLiB" # title for frontpage, may include image
-banner = "images/banner.jpg"
+logo = "images/bliby_rond.png"
 copyright = "Festival BLIB"
 description = '''
 Le BLIB fête ses 10 ans ! du 14 au 19 avril

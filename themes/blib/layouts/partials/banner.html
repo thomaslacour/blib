@@ -1,6 +1,9 @@
 <section id="banner">
 	<div class="inner">
     <h2>{{ .Site.Params.fancytitle | safeHTML }}</h2>
+    {{ if .Site.Params.logo }}
+    <img src="{{ .Site.Params.logo }}" alt="logo" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
+    {{ end }}
     <p>{{ .Site.Params.description | safeHTML }}</p>
     {{ if and .Site.Params.startbuttonText .Site.Params.startbuttonLink }}
 		<ul class="actions special">
