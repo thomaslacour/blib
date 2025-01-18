@@ -16,8 +16,9 @@ fancyTitle = "FESTIVAL BLiB" # title for frontpage, may include image
 logo = "images/bliby_rond.png"
 copyright = "Festival BLIB"
 description = '''
-Le BLIB fête ses 10 ans ! du 14 au 19 avril. 
-Final au Hangar 14 : samedi 19 avril de midi a minuit
+Le BLIB fête ses 10 ans !<br>
+Du 14 au 19 avril. <br>
+Le grand final au Hangar 14 : samedi 19 avril de midi a minuit
 '''
 startbuttonText = "Je prends ma place !"
 startbuttonLink = "https://www.helloasso.com/associations/blib"
@@ -104,7 +105,7 @@ body = "Un trentaine de lieux partenaires (brasserie, bar, cave, restaurant ...)
 img = "images/visuel_blib3.png"
 title = '60 exposants'
 body = '''
-Lors du grand final qui se déroule depuis plusieurs année au Hangar 14, tous les exposants, des brasseries aus partenaires pour la restaurantion, se retrouve pour célébrer la bière craft
+Lors du grand final qui se déroule depuis plusieurs années au Hangar 14, tous les exposants, des brasseries aux partenaires de la restauration, se retrouvent pour célébrer la bière craft
 '''
 
 ################################################################################
