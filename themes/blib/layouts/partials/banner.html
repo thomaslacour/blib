@@ -2,12 +2,15 @@
 	<div class="inner">
     <h2>{{ .Site.Params.fancytitle | safeHTML }}</h2>
     {{ if .Site.Params.logo }}
-    <img src="{{ .Site.Params.logo }}" alt="logo" style="max-width: 40%; height: auto; display: block; margin: 0 auto;">
+    <img src="{{ .Site.Params.logo }}" alt="logo" style="max-width: 40%; height: auto; display: block; margin: 0 auto; padding: 2%;">
     {{ end }}
-    <p>{{ .Site.Params.description | safeHTML }}</p>
+    <p><span>{{ .Site.Params.description | safeHTML }}</span></p>
     {{ if and .Site.Params.startbuttonText .Site.Params.startbuttonLink }}
 		<ul class="actions special">
       <li><a href="{{ .Site.Params.StartbuttonLink }}" class="button primary">{{ .Site.Params.StartbuttonText }}</a></li>
+    {{ if and .Site.Params.ExtrabuttonText .Site.Params.ExtrabuttonLink }}
+      <li><a href="{{ .Site.Params.ExtrabuttonLink }}" class="button">{{ .Site.Params.ExtrabuttonText }}</a></li>
+    {{ end }}
 		</ul>
     {{ end }}
 	</div>

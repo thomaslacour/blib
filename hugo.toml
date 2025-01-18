@@ -18,11 +18,13 @@ copyright = "Festival BLIB"
 description = '''
 Le BLIB fête ses 10 ans !<br>
 Du 14 au 19 avril. <br>
-Le grand final au Hangar 14 : samedi 19 avril de midi a minuit
+Le grand final au Hangar 14 : samedi 19 avril de midi à minuit
 '''
 startbuttonText = "Je prends ma place !"
 startbuttonLink = "https://www.helloasso.com/associations/blib"
 body_is_markdown = true
+extrabuttonText = "Concours brassam"
+extrabuttonLink = "posts/brassam"
 #custom_css = "foo.css"
 #custom_sass = "bar.scss"
 # images = ["path_to_social_image_for_link_previews.jpg"]
