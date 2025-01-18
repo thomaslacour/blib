@@ -113,6 +113,7 @@ Lors du grand final qui se déroule depuis plusieurs années au Hangar 14, tous 
 ################################################################################
 # EXPOSANTS
 ################################################################################
+# remove bg: https://www.remove.bg/fr/upload
 
 [params.three]
 enable = true
@@ -132,76 +133,92 @@ title = 'Exposants 2025'
 title = "Azimut"
 body = "Bordeaux (33), France"
 link = "https://www.azimutbrasserie.com/"
+icon = "test"
+logo = "images/logos/azimut.png"
 
 [[params.three.feature]]
 title = "Bee King"
 body = "Saint Priest (69), France"
 link = "https://www.beeking.fr/"
+logo = "images/logos/beeking.png"
 
 [[params.three.feature]]
 title = "Moustous"
-body = "Beauregard (33), France"
-link = "https://www.xn--microbrasseries-franaises-dhc.fr"
+body = "Cours-les-Bains (33), France"
+link = "https://www.facebook.com/FermeBrasserieMoustous"
+logo = "images/logos/moustous.png"
 
 [[params.three.feature]]
 title = "KAPSYL"
 body = "Chambray-lés-Tours (37), France"
 link = "https://www.instagram.com/brasseriekapsyl/"
+logo = "images/logos/kapsyl.png"
 
 [[params.three.feature]]
 title = "Jukebox"
 body = "Cognac (16), France"
 link = "https://brasseriejukebox.com/"
+logo = "images/logos/jukebox.png"
 
 [[params.three.feature]]
 title = "Effet Papillon"
 body = "Mérignac (33), France"
 link = "https://www.brasserieffetpapillon.com/"
+logo = "images/logos/pap.png"
 
 [[params.three.feature]]
 title = "Maison PIP"
 body = "Bègles (33), France"
 link = "https://maisonpip.com/"
+logo = "images/logos/pip.png"
 
 [[params.three.feature]]
 title = "La Gang"
 body = "Biscarosse (33), France"
 link = "https://lagang.fr/"
+logo = "images/logos/gang.png"
 
 [[params.three.feature]]
 title = "Rosny"
 body = "Seignoss (40), France"
-link = "https://lagang.fr/"
+link = "https://www.rosny-beer.com/"
+logo = "images/logos/rosny.png"
 
 [[params.three.feature]]
 title = "Sidras"
 body = "Nantes (44), France"
 link = "https://www.sidras.fr/"
+logo = "images/logos/sidras.png"
 
 [[params.three.feature]]
 title = "Zebra"
 body = "Preignac (33), France"
 link = "https://brasseriezebra.fr/"
+logo = "images/logos/zebra.png"
 
 [[params.three.feature]]
 title = "Burdigala"
 body = "Bordeaux (33), France"
 link = "https://www.bieredebordeaux.com/"
+logo = "images/logos/burdigala.png"
 
 [[params.three.feature]]
 title = "Le bercail WUB"
-body = "Saint-Magne-de-Castillon (33), France"
+body = "St-Magne-de-Castillon (33), France"
 link = "https://lebercail-wub.fr/"
+logo = "images/logos/wub.png"
 
 [[params.three.feature]]
 title = "Brasseurs Cueilleurs"
 body = "Landrais (17), France"
 link = "https://brasseurscueilleurs.fr/"
+logo = "images/logos/cueilleurs.png"
 
 [[params.three.feature]]
 title = "DWYN"
 body = "Montagny (67), France"
 link = "https://www.dwynbrewing.com/"
+logo = "images/logos/dwyn.png"
 
 ################################################################################
 # BRASSAM

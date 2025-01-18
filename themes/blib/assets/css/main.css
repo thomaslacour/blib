@@ -2679,7 +2679,7 @@ input, select, textarea {
 
 				.features li {
 					padding: 3em 2em 1em 2em ;
-					text-align: center;
+					text-align: left;
 				}
 
 					.features li:before {
@@ -2705,6 +2705,92 @@ input, select, textarea {
 					}
 
 			}
+
+/* hoover ---------------------- */
+
+.feature-item {
+  position: relative; /* Ensure proper stacking for hover effect */
+  width: 100%; /* Full width of the container */
+  height: 100px; /* Match the fixed image height */
+  overflow: hidden; /* Clip content that overflows */
+}
+
+.feature-image-wrapper {
+  display: flex; /* Use flexbox for centering */
+  justify-content: center; /* Horizontally center the image */
+  align-items: center; /* Vertically center the image */
+  overflow: hidden; /* Clip overflowing parts of the image */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1; /* Image appears on top by default */
+}
+
+.feature-image {
+  max-width: 100%; /* Scale down the image if it overflows horizontally */
+  max-height: 100%; /* Scale down the image if it overflows vertically */
+  object-fit: contain; /* Ensures the image scales correctly */
+  display: block; /* Ensures proper rendering */
+  margin: auto; /* Centers image in container */
+  padding-bottom: 0px;
+  /* border-radius: 50px; */
+  /* filter: grayscale(1); */
+}
+
+.feature-content, .feature-content-no-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #333; /* Text color */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.feature-content {
+  opacity: 0; /* Hidden by default */
+  visibility: hidden; /* Prevents it from being interactive */
+  z-index: 2; /* Content appears on top of the image */
+  -moz-transition: opacity 0.2s ease-in-out, color 0.2s ease-in-out;
+  -webkit-transition: opacity 0.2s ease-in-out, color 0.2s ease-in-out;
+  -ms-transition: opacity 0.2s ease-in-out, color 0.2s ease-in-out;
+  transition: opacity 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.feature-item:hover .feature-content {
+  opacity: 1; /* Fully visible on hover */
+  visibility: visible; /* Makes it interactive */
+}
+
+.feature-item:hover .feature-image-wrapper {
+  opacity: 0; /* Hides the image on hover */
+  visibility: hidden; /* Prevents the image from being interactive */
+}
+
+/* no hoover ---------------------- */
+
+/* .feature-item { */
+/*   display: flex; */
+/*   align-items: center; */
+/*   gap: 25px; */
+/* } */
+
+/* .feature-image { */
+/*   width: 50px; /1* Fixed width *1/ */
+/*   /1* height: 50px; /2* Fixed height *2/ *1/ */
+/*   object-fit: cover; /1* Ensures the image scales correctly *1/ */
+/*   border-radius: 0px; /1* Optional: Adds rounded corners *1/ */
+/* } */
+
+/* .feature-content { */
+/*   flex: 1; /1* Ensures the content takes the remaining space *1/ */
+/* } */
 
 /* Spotlight */
 
