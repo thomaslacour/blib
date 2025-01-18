@@ -38,6 +38,10 @@ url = '/blib'
 title = "Festival BLIB"
 
 [[params.menu.main]]
+url = '/blib/posts/h14'
+title = "Final au H14"
+
+[[params.menu.main]]
 url = '/blib/posts/brassam'
 title = "Concours Brassam"
 
