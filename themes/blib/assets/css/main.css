@@ -3765,6 +3765,14 @@ input, select, textarea {
 		#banner p {
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
+			white-space: pre-wrap;
+			line-height: 1.6;
+		}
+
+		#banner p br {
+			content: '';
+			font-size: 1em;
+			display: block;
 		}
 
 			#banner p a {
@@ -4131,3 +4139,13 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+.grayscale-image {
+  display: block;
+  filter: grayscale(100%); /* Start in grayscale */
+  transition: filter 0.5s ease; /* Smooth transition */
+}
+
+.grayscale-image:hover {
+  filter: grayscale(0%); /* Remove grayscale on hover */
+}

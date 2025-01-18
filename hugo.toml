@@ -18,7 +18,7 @@ copyright = "Festival BLIB"
 description = '''
 Le BLIB fête ses 10 ans !<br>
 Du 14 au 19 avril. <br>
-Le grand final au Hangar 14 : samedi 19 avril de midi à minuit
+Le grand final au H14 : samedi 19 avril
 '''
 startbuttonText = "Je prends ma place !"
 startbuttonLink = "https://www.helloasso.com/associations/blib"
@@ -269,7 +269,7 @@ facebook = "AssoBLIB"
 youtube = ""
 instagram = "festival_blib"
 dribble = ""
-helloasso = ""  ##todo
+helloasso = "blib"  ##todo
 
 
 
