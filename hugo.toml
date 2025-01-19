@@ -228,6 +228,120 @@ body = "Montagny (67), France"
 link = "https://www.dwynbrewing.com/"
 logo = "images/logos/dwyn.png"
 
+# [[params.three.feature]]
+# title = "Arcka"
+# body = "Gières (38), France"
+# link = "https://brasserie-arcka.fr/"
+# logo = "images/logos/arcka.png"
+
+# [[params.three.feature]]
+# title = "Bam"
+# body = "Périgueux (24), France"
+# link = "https://www.bam-brasserie.fr/"
+# logo = "images/logos/bam.png"
+
+# [[params.three.feature]]
+# title = "Blind Pigs"
+# body = "Pau (64), France"
+# link = "https://www.blindpigs.fr/"
+# logo = "images/logos/blindpigs.png"
+
+# [[params.three.feature]]
+# title = "Blue Coast"
+# body = "Nice (06), France"
+# link = "https://bluecoastbrewing.com/"
+# logo = "images/logos/bluecoast.png"
+
+# [[params.three.feature]]
+# title = "Boerenerf"
+# body = "Belgique"
+# link = "https://www.boerenerf.bio/"
+# logo = "images/logos/boerenerf.png"
+
+# [[params.three.feature]]
+# title = "Bruel"
+# body = "Tarnos (40), France"
+# link = "https://brasseriebruel.fr/"
+# logo = "images/logos/bruel.png"
+
+# [[params.three.feature]]
+# title = "Brunack"
+# body = "Assac-sur-Vienne (16), France"
+# link = "https://brunack.com/"
+# logo = "images/logos/brunack.png"
+
+# [[params.three.feature]]
+# title = "Chubby Brew"
+# body = "Bouafle (78), France"
+# link = "https://www.instagram.com/chubbybrewing/"
+# logo = "images/logos/chubbybrew.png"
+
+# [[params.three.feature]]
+# title = "Drunk Beard"
+# body = "Morrens, Suisse"
+# link = "https://drunkbeard.ch/"
+# logo = "images/logos/drunkbeard.png"
+
+# [[params.three.feature]]
+# title = "Eighty One"
+# body = "Soual (81), France"
+# link = "https://www.eightyonebrewing.fr/"
+# logo = "images/logos/81.png"
+
+# [[params.three.feature]]
+# title = "Fauve"
+# body = "Montpellier (34), France"
+# link = "https://fauvebiere.com/"
+# logo = "images/logos/fauve.png"
+
+# [[params.three.feature]]
+# title = "Fusion"
+# body = "Bourgbarré (35), France"
+# link = "https://www.instagram.com/fusionbrasserie_/"
+# logo = "images/logos/fusion.png"
+
+# [[params.three.feature]]
+# title = "Gekko"
+# body = "Tourrettes (83), France"
+# link = "https://www.gekkobeers.com/"
+# logo = "images/logos/gekko.png"
+
+# [[params.three.feature]]
+# title = "Gentleman Pirate Club"
+# body = "Bouaye (44), France"
+# link = "https://gentlemanpirateclub.com/"
+# logo = "images/logos/gentleman-pirate-club.png"
+
+# [[params.three.feature]]
+# title = "Hoodo"
+# body = "Tarare (69), France"
+# link = "https://hoodo.fr/"
+# logo = "images/logos/hoodo.png"
+
+# [[params.three.feature]]
+# title = "Horla"
+# body = "Grand-Champ (56), France"
+# link = "https://www.facebook.com/microbrasseriehorla/"
+# logo = "images/logos/horla.png"
+
+# [[params.three.feature]]
+# title = "BAle"
+# body = "Blanquefort (33), France"
+# link = "https://brasserie-juliens.fr/biere-b-ale/"
+# logo = "images/logos/bale.png"
+
+# [[params.three.feature]]
+# title = "L'Instant"
+# body = "Pontault-Combo (77), France"
+# link = "https://bieres-linstant.fr/"
+# logo = "images/logos/linstant.png"
+
+# [[params.three.feature]]
+# title = "La Bestiole"
+# body = "Saint-Barthélemy-d'Anjou (49), France"
+# link = "https://www.brasserielabestiole.fr/"
+# logo = "images/logos/labestiole.webp"
+
 ################################################################################
 # BRASSAM
 ################################################################################

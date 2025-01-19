@@ -9,7 +9,7 @@
 {{ partial "body_text.html" (dict "context" . "md" $md) }}
 		</header>
 		<ul class="features">
-{{ range .feature }}
+{{ range (sort .feature "title") }}
 			<li class="icon {{ .icon }}">
 {{ if .logo }}
 				<div class="feature-item">
