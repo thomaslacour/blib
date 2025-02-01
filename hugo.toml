@@ -192,11 +192,23 @@ body = "Seignoss (40), France"
 link = "https://www.rosny-beer.com/"
 logo = "images/logos/rosny.png"
 
+# [[params.three.feature]]
+# title = "Sidras"
+# body = "Nantes (44), France"
+# link = "https://www.sidras.fr/"
+# logo = "images/logos/sidras.png"
+
 [[params.three.feature]]
-title = "Sidras"
-body = "Nantes (44), France"
-link = "https://www.sidras.fr/"
-logo = "images/logos/sidras.png"
+title = "Mūrbūdu"
+body = "Letonie"
+link = "https://www.murbuduveikals.lv/"
+logo = "images/logos/murbudu.png"
+
+[[params.three.feature]]
+title = "La Galotière"
+body = "Crouttes (61), France"
+link = "https://www.lagalotiere.fr/"
+logo = "images/logos/galotiere.png"
 
 [[params.three.feature]]
 title = "Zebra"
@@ -228,11 +240,11 @@ body = "Montagny (67), France"
 link = "https://www.dwynbrewing.com/"
 logo = "images/logos/dwyn.png"
 
-# [[params.three.feature]]
-# title = "Arcka"
-# body = "Gières (38), France"
-# link = "https://brasserie-arcka.fr/"
-# logo = "images/logos/arcka.png"
+[[params.three.feature]]
+title = "Arcka"
+body = "Gières (38), France"
+link = "https://brasserie-arcka.fr/"
+logo = "images/logos/arcka.svg"
 
 # [[params.three.feature]]
 # title = "Bam"
@@ -252,11 +264,11 @@ logo = "images/logos/dwyn.png"
 # link = "https://bluecoastbrewing.com/"
 # logo = "images/logos/bluecoast.png"
 
-# [[params.three.feature]]
-# title = "Boerenerf"
-# body = "Belgique"
-# link = "https://www.boerenerf.bio/"
-# logo = "images/logos/boerenerf.png"
+[[params.three.feature]]
+title = "Boerenerf"
+body = "Belgique"
+link = "https://www.boerenerf.bio/"
+logo = "images/logos/boerenerf.png"
 
 # [[params.three.feature]]
 # title = "Bruel"
@@ -270,17 +282,17 @@ logo = "images/logos/dwyn.png"
 # link = "https://brunack.com/"
 # logo = "images/logos/brunack.png"
 
-# [[params.three.feature]]
-# title = "Chubby Brew"
-# body = "Bouafle (78), France"
-# link = "https://www.instagram.com/chubbybrewing/"
-# logo = "images/logos/chubbybrew.png"
+[[params.three.feature]]
+title = "Chubby Brew"
+body = "Bouafle (78), France"
+link = "https://www.instagram.com/chubbybrewing/"
+logo = "images/logos/chubbybrew.png"
 
-# [[params.three.feature]]
-# title = "Drunk Beard"
-# body = "Morrens, Suisse"
-# link = "https://drunkbeard.ch/"
-# logo = "images/logos/drunkbeard.png"
+[[params.three.feature]]
+title = "Drunk Beard"
+body = "Morrens, Suisse"
+link = "https://drunkbeard.ch/"
+logo = "images/logos/drunkbeard.png"
 
 # [[params.three.feature]]
 # title = "Eighty One"
@@ -294,11 +306,11 @@ logo = "images/logos/dwyn.png"
 # link = "https://fauvebiere.com/"
 # logo = "images/logos/fauve.png"
 
-# [[params.three.feature]]
-# title = "Fusion"
-# body = "Bourgbarré (35), France"
-# link = "https://www.instagram.com/fusionbrasserie_/"
-# logo = "images/logos/fusion.png"
+[[params.three.feature]]
+title = "Fusion"
+body = "Bourgbarré (35), France"
+link = "https://www.instagram.com/fusionbrasserie_/"
+logo = "images/logos/fusion.png"
 
 # [[params.three.feature]]
 # title = "Gekko"
@@ -306,17 +318,17 @@ logo = "images/logos/dwyn.png"
 # link = "https://www.gekkobeers.com/"
 # logo = "images/logos/gekko.png"
 
-# [[params.three.feature]]
-# title = "Gentleman Pirate Club"
-# body = "Bouaye (44), France"
-# link = "https://gentlemanpirateclub.com/"
-# logo = "images/logos/gentleman-pirate-club.png"
+[[params.three.feature]]
+title = "Gentleman Pirate Club"
+body = "Bouaye (44), France"
+link = "https://gentlemanpirateclub.com/"
+logo = "images/logos/gentleman-pirate-club.png"
 
-# [[params.three.feature]]
-# title = "Hoodo"
-# body = "Tarare (69), France"
-# link = "https://hoodo.fr/"
-# logo = "images/logos/hoodo.png"
+[[params.three.feature]]
+title = "Hoodo"
+body = "Tarare (69), France"
+link = "https://hoodo.fr/"
+logo = "images/logos/hoodo.png"
 
 # [[params.three.feature]]
 # title = "Horla"
@@ -341,6 +353,42 @@ logo = "images/logos/dwyn.png"
 # body = "Saint-Barthélemy-d'Anjou (49), France"
 # link = "https://www.brasserielabestiole.fr/"
 # logo = "images/logos/labestiole.webp"
+
+[[params.three.feature]]
+title = "Piggy"
+body = "Liverdun (54), France"
+link = "https://thepiggybrewingcompany.com/"
+logo = "images/logos/piggy.png"
+
+[[params.three.feature]]
+title = "La Superbe"
+body = "Anglet (64), France"
+link = "https://www.lasuperbe.fr/"
+logo = "images/logos/lasuperbe.png"
+
+[[params.three.feature]]
+title = "La Chouette"
+body = "St-Jean-de-Muzols (64), France"
+link = "https://www.instagram.com/la_chouette_brasserie/"
+logo = "images/logos/lachouette.png"
+
+[[params.three.feature]]
+title = "Smash"
+body = "Rennes (35), France"
+link = "https://smash.bzh/"
+logo = "images/logos/smash.png"
+
+[[params.three.feature]]
+title = "Sauvage"
+body = "St-Jacues-de-la-Lande (35), France"
+link = "https://www.brasseriesauvage.co/"
+logo = "images/logos/sauvage.jpg"
+
+[[params.three.feature]]
+title = "Nautile"
+body = "Rezé (44), France"
+link = "https://brasserienautile.com/"
+logo = "images/logos/nautile.png"
 
 ################################################################################
 # BRASSAM
