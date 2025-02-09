@@ -4087,6 +4087,15 @@ input, select, textarea {
 
 				}
 
+		#footer .legal {
+			color: rgba(255, 255, 255, 0.5);
+			font-size: 0.7em;
+			letter-spacing: 0.22em;
+			list-style: none;
+			padding: 0;
+			text-transform: uppercase;
+		}
+
 		@media screen and (max-width: 980px) {
 
 			#footer {

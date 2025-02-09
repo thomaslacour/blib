@@ -29,13 +29,18 @@
               <li><a href="tel:{{ . }}" class="icon solid fa-phone"><span class="label">Phone</span></a></li>
               {{ end }}
               {{ with .Site.Params.social.helloasso }}
-              <li><a href="https://www.helloasso.com/associations/{{ . }}" alt="HelloAsso"><span class="label"><img src="images/logos/helloasso.png" style="width: 18px; height: 18px;"></span></a></li>
+              <li><a href="https://www.helloasso.com/associations/{{ . }}" alt="HelloAsso"><span class="label"><img src="{{ $.Site.BaseURL }}/images/logos/helloasso.png" style="width: 18px; height: 18px;"></span></a></li>
               {{ end }}
 
 						</ul>
 						<ul class="copyright">
               <li>&copy; {{ now.Year }} {{.Site.Params.copyright | safeHTML }}</li>
               <li><a href="https://html5up.net/">HTML5 UP!</a></li>
+						</ul>
+						<ul class="legal">
+              {{ with .Site.Params.legal }}
+              <li><a href="{{ relURL "/blib/legal" }}">Mentions Légales</a></li>
+              {{ end}}
 						</ul>
 					</footer>
 

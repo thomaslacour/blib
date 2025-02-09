@@ -491,9 +491,16 @@ instagram = "festival_blib"
 dribble = ""
 helloasso = "blib"  ##todo
 
+################################################################################
+# LEGAL
+################################################################################
 
-
-
+[params.legal]
+name = "Association BLIB"
+address = "111 rue Lagrange -- 33000 Bordeaux"
+contact = "asso.blib[at]gmail.com"
+website = "SAS Github France, 37 Quai du Président Roosevelt (92130) Issy-Les-Moulineaux"
+comment = "Nos évènements sont interdits aux mineurs non accompagné d’une personne majeure. L'abus d'alcool est dangereux pour la santé, à consommer avec modération"
 
 # language specific options
 
