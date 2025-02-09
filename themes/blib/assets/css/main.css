@@ -2729,7 +2729,7 @@ input, select, textarea {
 }
 
 .feature-image {
-  max-width: 100%; /* Scale down the image if it overflows horizontally */
+  max-width: 120px; /* Scale down the image if it overflows horizontally */
   max-height: 100%; /* Scale down the image if it overflows vertically */
   object-fit: contain; /* Ensures the image scales correctly */
   display: block; /* Ensures proper rendering */

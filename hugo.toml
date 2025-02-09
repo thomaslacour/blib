@@ -300,11 +300,11 @@ logo = "images/logos/drunkbeard.png"
 # link = "https://www.eightyonebrewing.fr/"
 # logo = "images/logos/81.png"
 
-# [[params.three.feature]]
-# title = "Fauve"
-# body = "Montpellier (34), France"
-# link = "https://fauvebiere.com/"
-# logo = "images/logos/fauve.png"
+[[params.three.feature]]
+title = "Fauve"
+body = "Montpellier (34), France"
+link = "https://fauvebiere.com/"
+logo = "images/logos/fauve.png"
 
 [[params.three.feature]]
 title = "Fusion"
@@ -330,11 +330,11 @@ body = "Tarare (69), France"
 link = "https://hoodo.fr/"
 logo = "images/logos/hoodo.png"
 
-# [[params.three.feature]]
-# title = "Horla"
-# body = "Grand-Champ (56), France"
-# link = "https://www.facebook.com/microbrasseriehorla/"
-# logo = "images/logos/horla.png"
+[[params.three.feature]]
+title = "Horla"
+body = "Grand-Champ (56), France"
+link = "https://www.facebook.com/microbrasseriehorla/"
+logo = "images/logos/horla.png"
 
 # [[params.three.feature]]
 # title = "BAle"
@@ -342,11 +342,11 @@ logo = "images/logos/hoodo.png"
 # link = "https://brasserie-juliens.fr/biere-b-ale/"
 # logo = "images/logos/bale.png"
 
-# [[params.three.feature]]
-# title = "L'Instant"
-# body = "Pontault-Combo (77), France"
-# link = "https://bieres-linstant.fr/"
-# logo = "images/logos/linstant.png"
+[[params.three.feature]]
+title = "L'Instant"
+body = "Pontault-Combo (77), France"
+link = "https://bieres-linstant.fr/"
+logo = "images/logos/linstant.png"
 
 # [[params.three.feature]]
 # title = "La Bestiole"
@@ -389,6 +389,60 @@ title = "Nautile"
 body = "Rezé (44), France"
 link = "https://brasserienautile.com/"
 logo = "images/logos/nautile.png"
+
+[[params.three.feature]]
+title = "Sake Chevalier"
+body = "Capbreton (40), France"
+link = "https://www.brasseriechevalier.com/"
+logo = "images/logos/sakechevalier.png"
+
+[[params.three.feature]]
+title = "Little Atlantique"
+body = "Nantes (44), France"
+link = "https://little-atlantique-brewery.fr/"
+logo = "images/logos/littleatlantique.png"
+
+[[params.three.feature]]
+title = "Noktua Brama"
+body = "Saint-Estèphe (33), France"
+link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
+logo = "images/logos/noktuabrama.png"
+
+[[params.three.feature]]
+title = "La Fracasse Coquille"
+body = "Libourne (33), France"
+link = "https://la-fracasse-coquille.fr/"
+logo = "images/logos/fracasse.png"
+
+[[params.three.feature]]
+title = "La Tute"
+body = "Nousty (64), France"
+link = "http://bieres-lagrange.fr/"
+logo = "images/logos/latute.png"
+
+[[params.three.feature]]
+title = "Salama"
+body = "Finlande"
+link = "https://www.salamabrewing.com/"
+logo = "images/logos/salama.png"
+
+[[params.three.feature]]
+title = "Landberry"
+body = "Anglet (64), France"
+link = "https://landberry.fr/"
+logo = "images/logos/landberry.png"
+
+[[params.three.feature]]
+title = "Pyraser"
+body = "Allemagne"
+link = "https://www.pyraser.de/"
+logo = "images/logos/pyraser.svg"
+
+[[params.three.feature]]
+title = "La P'tite Maiz"
+body = "Notre-Dame-D'Oé (37), France"
+link = "https://www.laptitemaiz.com/"
+logo = "images/logos/maiz.png"
 
 ################################################################################
 # BRASSAM
