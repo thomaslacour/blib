@@ -46,7 +46,7 @@ url = '/blib/posts/brassam'
 title = "Concours Brassam"
 
 [[params.menu.main]]
-url = 'https://docs.google.com/forms/d/12DBKenVWmtImmkxeixueG8Vo8-Tg7RaCkwLlJ7ipO4Y/viewform'
+url = 'https://forms.gle/BjCg2zdzeX7VBZTh8'
 title = "Devenir Bénévole"
 
 [[params.menu.main]]
