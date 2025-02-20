@@ -1,4 +1,5 @@
-baseURL = "https://thomaslacour.github.io/blib/"
+#baseURL = "https://thomaslacour.github.io/blib/"
+baseURL = "https://festivalbieresbordeaux.fr/"
 title = "Festival BLIB"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
