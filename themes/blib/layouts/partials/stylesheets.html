@@ -1,3 +1,13 @@
+{{ "<!-- CSS -->" | safeHTML }}
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/carousel.css" />
+<noscript><link rel="stylesheet" href="{{ .Site.BaseURL }}/css/noscript.css" /></noscript>
+{{ if .Site.Params.custom_css }}
+{{ range .Site.Params.custom_css }}
+<link rel="stylesheet" href="{{ . | absURL }}">
+{{ end }}
+{{ end }}
+
 {{ $css := resources.Get "css/main.css" | minify | fingerprint "sha512" }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 

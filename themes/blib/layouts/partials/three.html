@@ -8,32 +8,32 @@
 			<h2>{{ .title | safeHTML }}</h2>
 {{ partial "body_text.html" (dict "context" . "md" $md) }}
 		</header>
-		<ul class="features">
-{{ range (sort .feature "title") }}
-			<li class="icon {{ .icon }}">
-{{ if .logo }}
-				<div class="feature-item">
-					<div class="feature-image-wrapper">
-						<img src="{{ .logo }}" alt="Logo {{ .title }}" class="feature-image">
-					</div>
-					<div class="feature-content">
-						<!-- <h3>{{ .title | safeHTML }}</h3> -->
-						<h3><a href="{{ .link }}">{{ .title | safeHTML }}</a></h3>
-						<p>{{ .body | safeHTML }}</p>
-					</div>
+		
+		<div class="logo-carousel">
+			<div class="carousel-container">
+				<!-- Premier ensemble de logos -->
+				{{ range (sort .feature "title") }}
+				{{ if .logo }}
+				<div class="carousel-item">
+					<a href="{{ .link }}" target="_blank" title="{{ .title }} - {{ .body }}">
+						<img src="{{ .logo }}" alt="Logo {{ .title }}" class="partner-logo">
+					</a>
 				</div>
-{{ else }}
-				<div class="feature-item">
-					<div class="feature-content-no-image">
-						<!-- <h3>{{ .title | safeHTML }}</h3> -->
-						<h3><a href="{{ .link }}">{{ .title | safeHTML }}</a></h3>
-						<p>{{ .body | safeHTML }}</p>
-					</div>
+				{{ end }}
+				{{ end }}
+				
+				<!-- Deuxième ensemble de logos (dupliqué pour le défilement infini) -->
+				{{ range (sort .feature "title") }}
+				{{ if .logo }}
+				<div class="carousel-item">
+					<a href="{{ .link }}" target="_blank" title="{{ .title }} - {{ .body }}">
+						<img src="{{ .logo }}" alt="Logo {{ .title }}" class="partner-logo">
+					</a>
 				</div>
-{{ end }}
-			</li>
-{{ end }}
-		</ul>
+				{{ end }}
+				{{ end }}
+			</div>
+		</div>
 	</div>
 </section>
 {{ end }}
