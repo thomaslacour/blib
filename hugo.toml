@@ -35,15 +35,15 @@ extrabuttonLink = "posts/brassam"
 ################################################################################
 
 [[params.menu.main]]
-url = '/blib'
+url = '/'
 title = "Festival BLIB"
 
 [[params.menu.main]]
-url = '/blib/posts/h14'
+url = '/posts/h14'
 title = "Final au H14"
 
 [[params.menu.main]]
-url = '/blib/posts/brassam'
+url = '/posts/brassam'
 title = "Concours Brassam"
 
 [[params.menu.main]]
@@ -51,11 +51,11 @@ url = 'https://forms.gle/BjCg2zdzeX7VBZTh8'
 title = "Devenir Bénévole"
 
 [[params.menu.main]]
-url = '/blib/posts/galerie'
+url = '/posts/galerie'
 title = "Galeries"
 
 [[params.menu.main]]
-url = '/blib/posts/faq'
+url = '/posts/faq'
 title = "FAQ"
 
 [taxonomies]
