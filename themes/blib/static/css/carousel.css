@@ -1,0 +1,58 @@
+.logo-carousel {
+    width: 100%;
+    overflow: hidden;
+    padding: 20px 0;
+    background: transparent;
+}
+
+.carousel-container {
+    display: flex;
+    animation: scroll 30s linear infinite;
+    gap: 40px;
+}
+
+.carousel-item {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.partner-logo {
+    height: 80px;
+    width: auto;
+    object-fit: contain;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+}
+
+.partner-logo:hover {
+    filter: grayscale(0%);
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(calc(-100% - 40px));
+    }
+}
+
+/* Pour que l'animation soit plus fluide, on duplique les logos */
+.carousel-container {
+    display: flex;
+}
+
+.carousel-container > * {
+    flex-shrink: 0;
+}
+
+/* On duplique le contenu pour un défilement infini */
+.carousel-container {
+    animation: scroll 30s linear infinite;
+}
+
+.carousel-container:hover {
+    animation-play-state: paused;
+} 
