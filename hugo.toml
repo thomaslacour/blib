@@ -253,17 +253,17 @@ logo = "images/logos/arcka.svg"
 # link = "https://www.bam-brasserie.fr/"
 # logo = "images/logos/bam.png"
 
-# [[params.three.feature]]
-# title = "Blind Pigs"
-# body = "Pau (64), France"
-# link = "https://www.blindpigs.fr/"
-# logo = "images/logos/blindpigs.png"
+[[params.three.feature]]
+title = "Blind Pigs"
+body = "Pau (64), France"
+link = "https://www.blindpigs.fr/"
+logo = "images/logos/blindpigs.png"
 
-# [[params.three.feature]]
-# title = "Blue Coast"
-# body = "Nice (06), France"
-# link = "https://bluecoastbrewing.com/"
-# logo = "images/logos/bluecoast.png"
+[[params.three.feature]]
+title = "Blue Coast"
+body = "Nice (06), France"
+link = "https://bluecoastbrewing.com/"
+logo = "images/logos/bluecoast.jpeg"
 
 [[params.three.feature]]
 title = "Boerenerf"
@@ -277,11 +277,11 @@ logo = "images/logos/boerenerf.png"
 # link = "https://brasseriebruel.fr/"
 # logo = "images/logos/bruel.png"
 
-# [[params.three.feature]]
-# title = "Brunack"
-# body = "Assac-sur-Vienne (16), France"
-# link = "https://brunack.com/"
-# logo = "images/logos/brunack.png"
+[[params.three.feature]]
+title = "Brunack"
+body = "Assac-sur-Vienne (16), France"
+link = "https://brunack.com/"
+logo = "images/logos/brunack.png"
 
 [[params.three.feature]]
 title = "Chubby Brew"
@@ -295,12 +295,6 @@ body = "Morrens, Suisse"
 link = "https://drunkbeard.ch/"
 logo = "images/logos/drunkbeard.png"
 
-# [[params.three.feature]]
-# title = "Eighty One"
-# body = "Soual (81), France"
-# link = "https://www.eightyonebrewing.fr/"
-# logo = "images/logos/81.png"
-
 [[params.three.feature]]
 title = "Fauve"
 body = "Montpellier (34), France"
@@ -313,11 +307,11 @@ body = "Bourgbarré (35), France"
 link = "https://www.instagram.com/fusionbrasserie_/"
 logo = "images/logos/fusion.png"
 
-# [[params.three.feature]]
-# title = "Gekko"
-# body = "Tourrettes (83), France"
-# link = "https://www.gekkobeers.com/"
-# logo = "images/logos/gekko.png"
+[[params.three.feature]]
+title = "Gekko"
+body = "Tourrettes (83), France"
+link = "https://www.gekkobeers.com/"
+logo = "images/logos/gekko.png"
 
 [[params.three.feature]]
 title = "Gentleman Pirate Club"
@@ -337,11 +331,11 @@ body = "Grand-Champ (56), France"
 link = "https://www.facebook.com/microbrasseriehorla/"
 logo = "images/logos/horla.png"
 
-# [[params.three.feature]]
-# title = "BAle"
-# body = "Blanquefort (33), France"
-# link = "https://brasserie-juliens.fr/biere-b-ale/"
-# logo = "images/logos/bale.png"
+[[params.three.feature]]
+title = "Juliens B.Ale"
+body = "Blanquefort (33), France"
+link = "https://brasserie-juliens.fr/biere-b-ale/"
+logo = "images/logos/bale.png"
 
 [[params.three.feature]]
 title = "L'Instant"
@@ -349,11 +343,11 @@ body = "Pontault-Combo (77), France"
 link = "https://bieres-linstant.fr/"
 logo = "images/logos/linstant.png"
 
-# [[params.three.feature]]
-# title = "La Bestiole"
-# body = "Saint-Barthélemy-d'Anjou (49), France"
-# link = "https://www.brasserielabestiole.fr/"
-# logo = "images/logos/labestiole.webp"
+[[params.three.feature]]
+title = "La Bestiole"
+body = "Saint-Barthélemy-d'Anjou (49), France"
+link = "https://www.brasserielabestiole.fr/"
+logo = "images/logos/bestiole.png"
 
 [[params.three.feature]]
 title = "Piggy"
@@ -444,6 +438,120 @@ title = "La P'tite Maiz"
 body = "Notre-Dame-D'Oé (37), France"
 link = "https://www.laptitemaiz.com/"
 logo = "images/logos/maiz.png"
+
+[[params.three.feature]]
+title = "Borinage"
+body = "Belgique"
+link = "https://brasserieduborinage.be/"
+logo = "images/logos/borinage.png"
+
+[[params.three.feature]]
+title = "Bouillant"
+body = "Fleurey-sur-Ouche (21), France"
+link = "https://brasseriebouillant.fr/"
+logo = "images/logos/bouillant.png"
+
+[[params.three.feature]]
+title = "Bouquier"
+body = "Ludon-Médoc (33), France"
+link = "https://www.azatobu.com/bouquier/"
+logo = "images/logos/bouquier.png"
+
+[[params.three.feature]]
+title = "Brasserie Dac"
+body = "Tarnos (33), France"
+link = "https://www.instagram.com/brasserie_dac/"
+logo = "images/logos/dac.png"
+
+[[params.three.feature]]
+title = "Eighty One"
+body = "Soual (81), France"
+link = "https://www.eightyonebrewing.fr/"
+logo = "images/logos/81.png"
+
+[[params.three.feature]]
+title = "La Canaulaise"
+body = "Lacanau (33), France"
+link = "https://www.lacanaulaise.com/"
+logo = "images/logos/canaulaise.png"
+
+[[params.three.feature]]
+title = "La Débauche"
+body = "Angoulème (16), France"
+link = "https://www.brasserie-ladebauche.com/"
+logo = "images/logos/debauche.png"
+
+[[params.three.feature]]
+title = "La Lune"
+body = "Bordeaux (33), France"
+link = "https://brasseurs-lalune.fr/"
+logo = "images/logos/lune.png"
+
+[[params.three.feature]]
+title = "Maltolab"
+body = "Gommerville (28), France"
+link = "https://www.instagram.com/brasserie_maltolab/"
+logo = "images/logos/maltolab.png"
+
+[[params.three.feature]]
+title = "Merlin"
+body = "Pen'March (29), France"
+link = "https://www.merlin.beer/"
+logo = "images/logos/merlin.png"
+
+[[params.three.feature]]
+title = "Moersleutel"
+body = "Pays-Bas"
+link = "https://moersleutel.com/"
+logo = "images/logos/moersleutel.png"
+
+[[params.three.feature]]
+title = "Parallele"
+body = "Floirac (33), France"
+link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
+logo = "images/logos/parallele.png"
+
+[[params.three.feature]]
+title = "Schlag"
+body = "Castelnau-De-Mandailles (12), France"
+link = "https://www.instagram.com/schlag.brastylerie/"
+logo = "images/logos/schlag.png"
+
+[[params.three.feature]]
+title = "Second Degré"
+body = "Magny-Le-Hongre (77), France"
+link = "https://www.instagram.com/microbrasserie_seconddegre"
+logo = "images/logos/second.png"
+
+[[params.three.feature]]
+title = "Spore"
+body = "Gravigny (27), France"
+link = "https://www.brasserie-spore.com/"
+logo = "images/logos/spore.png"
+
+[[params.three.feature]]
+title = "Tipsip"
+body = "Brassy (58), France"
+link = "https://www.tipsip.fr/"
+logo = "images/logos/tipsip.png"
+
+[[params.three.feature]]
+title = "Uncle"
+body = "Etables-sur-Mer (22), France"
+link = "https://www.brasserie-uncle.com/"
+logo = "images/logos/uncle.png"
+
+[[params.three.feature]]
+title = "Winterholer"
+body = "Villenave D'Ornon (33), France"
+link = "https://brasserie.bio/"
+logo = "images/logos/winter.png"
+
+[[params.three.feature]]
+title = "Witty Kitty"
+body = "Escalquens (31), France"
+link = "https://www.thewittykitty.fr/"
+logo = "images/logos/kitty.png"
 
 ################################################################################
 # BRASSAM
