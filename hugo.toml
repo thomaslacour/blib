@@ -319,11 +319,11 @@ body = "Bouaye (44), France"
 link = "https://gentlemanpirateclub.com/"
 logo = "images/logos/gentleman-pirate-club.png"
 
-[[params.three.feature]]
-title = "Hoodo"
-body = "Tarare (69), France"
-link = "https://hoodo.fr/"
-logo = "images/logos/hoodo.png"
+# [[params.three.feature]]
+# title = "Hoodo"
+# body = "Tarare (69), France"
+# link = "https://hoodo.fr/"
+# logo = "images/logos/hoodo.png"
 
 [[params.three.feature]]
 title = "Horla"
