@@ -29,12 +29,14 @@ Oui, les préventes ne représentent qu'une petite partie des tickets mis en ven
 *Il est conseillé d'arriver tôt afin d'être sûr de pouvoir entrer.*
 Les tarifs sont de
 
-- 9€ le samedi (10€ sur place)
+- 7€ en préventes (9€ sur place)
 - Gratuit pour les moins de 18 ans
+
+[Préventes ici](https://www.helloasso.com/associations/blib)
 
 ## Quels sont les horaires pour le final ?
 
-12h à 22h
+De midi à minuit.
 
 Pour les tenaces: dernière conso 30 minutes avant l'heure de fermeture.
 
@@ -46,7 +48,7 @@ Vous pouvez dès à présent vous inscrire via le formulaire suivant
 
 ## Y a t'il du sans-alcool ?
 
-Le festival propose chaque année du sans alcool (kefir, kombucha).
+Le festival propose chaque année du sans alcool (kefir).
 Le craft est partout !
 
 ## Puis-je venir avec mon animal de compagnie ?
