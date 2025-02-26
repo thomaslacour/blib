@@ -51,6 +51,10 @@ url = 'https://forms.gle/BjCg2zdzeX7VBZTh8'
 title = "Devenir Bénévole"
 
 [[params.menu.main]]
+url = 'https://drive.google.com/file/d/1aj4r36f6ez3T8O01BdShOE9MQazFAti1/view?usp=sharing'
+title = "Dossier de presse"
+
+[[params.menu.main]]
 url = '/posts/galerie'
 title = "Galeries"
 
