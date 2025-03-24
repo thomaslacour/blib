@@ -3427,6 +3427,16 @@ input, select, textarea {
 					background-color: rgba(0, 0, 0, 0.1);
 				}
 
+                                .wrapper.style5 img {
+                                          max-width: 220px;  /* Set a max width */
+                                          max-height: 220px;  /* Set a max width */
+                                          width: 100%;       /* Make images responsive */
+                                          height: auto;      /* Maintain aspect ratio */
+                                          margin: 0 auto;    /* Center the image */
+                                          vertical-align: middle;
+                                          display: flex;
+                                        }
+
 			@media screen and (max-width: 736px) {
 
 				.wrapper.style5 .features li {

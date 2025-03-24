@@ -62,6 +62,10 @@ title = "Galeries"
 url = '/posts/faq'
 title = "FAQ"
 
+[[params.menu.main]]
+url = '/posts/partenaires'
+title = "Nos partenaires"
+
 [taxonomies]
 tag = "tags"
 category = "categories"
