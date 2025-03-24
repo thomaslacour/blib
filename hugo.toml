@@ -272,12 +272,12 @@ title = "Blue Coast"
 body = "Nice (06), France"
 link = "https://bluecoastbrewing.com/"
 logo = "images/logos/bluecoast.jpeg"
-
-[[params.three.feature]]
-title = "Boerenerf"
-body = "Belgique"
-link = "https://www.boerenerf.bio/"
-logo = "images/logos/boerenerf.png"
+#
+# [[params.three.feature]]
+# title = "Boerenerf"
+# body = "Belgique"
+# link = "https://www.boerenerf.bio/"
+# logo = "images/logos/boerenerf.png"
 
 # [[params.three.feature]]
 # title = "Bruel"
