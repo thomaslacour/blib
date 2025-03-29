@@ -283,11 +283,11 @@ logo = "images/logos/bluecoast.jpeg"
 # link = "https://www.boerenerf.bio/"
 # logo = "images/logos/boerenerf.png"
 
-# [[params.three.feature]]
-# title = "Bruel"
-# body = "Tarnos (40), France"
-# link = "https://brasseriebruel.fr/"
-# logo = "images/logos/bruel.png"
+[[params.three.feature]]
+title = "Bruel"
+body = "Tarnos (40), France"
+link = "https://brasseriebruel.fr/"
+logo = "images/logos/bruel.png"
 
 [[params.three.feature]]
 title = "Brunack"
@@ -564,6 +564,18 @@ title = "Witty Kitty"
 body = "Escalquens (31), France"
 link = "https://www.thewittykitty.fr/"
 logo = "images/logos/kitty.png"
+
+[[params.three.feature]]
+title = "Haacht"
+body = "Belgique"
+link = "https://haacht.com/"
+logo = "images/logos/haacht.png"
+
+[[params.three.feature]]
+title = "Overground"
+body = "Strasbourg (67), France"
+link = "https://www.instagram.com/overgroundbrewing"
+logo = "images/logos/overground.png"
 
 ################################################################################
 # BRASSAM
