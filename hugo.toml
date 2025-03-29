@@ -326,10 +326,10 @@ link = "https://www.gekkobeers.com/"
 logo = "images/logos/gekko.png"
 
 [[params.three.feature]]
-title = "Gentleman Pirate Club"
-body = "Bouaye (44), France"
-link = "https://gentlemanpirateclub.com/"
-logo = "images/logos/gentleman-pirate-club.png"
+title = "Gentlemen Pirates"
+body = "Nantes (44), France"
+link = "https://gentlemenpirates.my.canva.site/"
+logo = "images/logos/pirates.png"
 
 # [[params.three.feature]]
 # title = "Hoodo"
@@ -569,7 +569,7 @@ logo = "images/logos/kitty.png"
 title = "Haacht"
 body = "Belgique"
 link = "https://haacht.com/"
-logo = "images/logos/haacht.png"
+logo = "images/logos/haacht.jpg"
 
 [[params.three.feature]]
 title = "Overground"
