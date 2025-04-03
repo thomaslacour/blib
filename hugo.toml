@@ -577,6 +577,12 @@ body = "Strasbourg (67), France"
 link = "https://www.instagram.com/overgroundbrewing"
 logo = "images/logos/overground.png"
 
+[[params.three.feature]]
+title = "Boneless"
+body = "Châtillon (92), France"
+link = "http://www.bonelessbrewing.com/"
+logo = "images/logos/boneless.png"
+
 # ################################################################################
 # # BRASSAM
 # ################################################################################
