@@ -24,8 +24,8 @@ Le grand final au H14 : samedi 19 avril
 startbuttonText = "Je prends ma place !"
 startbuttonLink = "https://www.helloasso.com/associations/blib/evenements/prevente-blib-2025-au-hangar-14"
 body_is_markdown = true
-extrabuttonText = "Concours brassam"
-extrabuttonLink = "posts/brassam"
+# extrabuttonText = "Concours brassam"
+# extrabuttonLink = "posts/brassam"
 #custom_css = "foo.css"
 #custom_sass = "bar.scss"
 # images = ["path_to_social_image_for_link_previews.jpg"]
@@ -42,9 +42,9 @@ title = "Festival BLIB"
 url = '/posts/h14'
 title = "Final au H14"
 
-[[params.menu.main]]
-url = '/posts/brassam'
-title = "Concours Brassam"
+# [[params.menu.main]]
+# url = '/posts/brassam'
+# title = "Concours Brassam"
 
 [[params.menu.main]]
 url = 'https://forms.gle/BjCg2zdzeX7VBZTh8'
@@ -577,24 +577,24 @@ body = "Strasbourg (67), France"
 link = "https://www.instagram.com/overgroundbrewing"
 logo = "images/logos/overground.png"
 
-################################################################################
-# BRASSAM
-################################################################################
-
-[params.cta]
-enable = true
-title = "Concours brassam"
-body = "Le concours brassam récompense chaque année le meilleur brassage amateur réalisé pour l'occasion du festival"
-
-[[params.cta.link]]
-href = "https://forms.gle/oZyWM27vs234TbDY6"
-text = "Inscription"
-special = true
-
-[[params.cta.link]]
-href = "https://drive.google.com/file/d/166EJDwHGwuAf2WTE6JxzsovlPb4VwVIo/view"
-text = "Informations"
-special = false
+# ################################################################################
+# # BRASSAM
+# ################################################################################
+#
+# [params.cta]
+# enable = true
+# title = "Concours brassam"
+# body = "Le concours brassam récompense chaque année le meilleur brassage amateur réalisé pour l'occasion du festival"
+#
+# [[params.cta.link]]
+# href = "https://forms.gle/oZyWM27vs234TbDY6"
+# text = "Inscription"
+# special = true
+#
+# [[params.cta.link]]
+# href = "https://drive.google.com/file/d/166EJDwHGwuAf2WTE6JxzsovlPb4VwVIo/view"
+# text = "Informations"
+# special = false
 
 ################################################################################
 # CONTACT
