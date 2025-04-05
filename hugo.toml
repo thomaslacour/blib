@@ -18,8 +18,8 @@ logo = "images/bliby_rond.png"
 copyright = "Festival BLIB"
 description = '''
 Le BLIB fête ses 10 ans !<br>
-Du 14 au 19 avril. <br>
-Le grand final au H14 : samedi 19 avril
+<a href="posts/events">Évènements du 14 au 19 avril</a> <br>
+Le grand final au H14 : <a href="posts/h14">samedi 19 avril</a>
 '''
 startbuttonText = "Je prends ma place !"
 startbuttonLink = "https://www.helloasso.com/associations/blib/evenements/prevente-blib-2025-au-hangar-14"
@@ -37,6 +37,10 @@ body_is_markdown = true
 [[params.menu.main]]
 url = '/'
 title = "Festival BLIB"
+
+[[params.menu.main]]
+url = '/posts/events'
+title = "Semaine du BLIB"
 
 [[params.menu.main]]
 url = '/posts/h14'
