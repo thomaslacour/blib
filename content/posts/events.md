@@ -103,3 +103,5 @@ Attention, certains évènements nécessitent une réservation !
 ### Samedi 19 Avril
 
 - [Grand Final](h14.md) - 📍 [H14](https://maps.app.goo.gl/49eCDfdcKjSFceEA7)
+
+Les places sont en ventes [ici](https://www.helloasso.com/associations/blib/evenements/prevente-blib-2025-au-hangar-14) !
