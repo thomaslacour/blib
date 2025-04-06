@@ -1,10 +1,20 @@
 ## Évenements Semaine BLIB
 
-Pendant la semaine du 14 Avril au 18 Avril, différents lieux partenaires verront se déroulés des évènements spécialement organisés pour le festival BLIB : Tap Take Over (TTO), dégustation, visite brasserie, rencotre ou atelier, il y en a pour tous les goûts.
+Pendant la semaine du 14 Avril au 18 Avril, différents lieux partenaires verront se dérouler des évènements spécialement organisés pour le festival BLIB : Tap Take Over (TTO), dégustation, visite de brasserie, rencontre ou atelier, il y en a pour tous les goûts.
 
 Attention, certains évènements nécessitent une réservation !
 
-### Mercredi 10 Avril
+**Cette liste sera mise a jour avec de nouveaux évènements jusqu'au 13 avril.**
+
+<center>
+<iframe src="https://www.google.com/maps/d/embed?mid=1zH75Pm0yPomDC0RmWkSTCAjo8QlSKWs&ehbc=2E312F"></iframe>
+</center>
+
+## Offres spéciales BLIB
+
+- Les Burgers de Colette Grand Théatre : Menu Burger 🍔 + Bière Effet Papillon incluse 🍺  Uniquement du 14 au 19 avril !
+
+### Mercredi 10 Avril - OFF DU BLIB
 
 - TTO [Winterholer](https://brasserie.bio/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
 
@@ -12,14 +22,14 @@ Attention, certains évènements nécessitent une réservation !
 
 - Rencontre [Zebra](https://brasseriezebra.fr/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
 - Visite Brasserie [Zebra](https://brasseriezebra.fr/) & Dégustation - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
-- Atelier [Hélène et les Houblons](https://www.instagram.com/heleneetleshoublons/) - 📍 [Burger de Colette (Grand Théatre)](https://maps.app.goo.gl/PkF7TgXAyUeDAkyM8) ([#lesburgersdecolette](https://www.instagram.com/lesburgersdecolette))
+
 
 ### Mardi 15 Avril
 
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
-- Présentation [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Halles de Bacalan](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#hallesdebacalan](https://www.instagram.com/hallesdebacalan))
-- Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
-- Visite Brasserie [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) avec Dégustation (⚠️  *sur réservation*) [18h] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
+- Présentation Gamme [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Halles de Bacalan](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#hallesdebacalan](https://www.instagram.com/hallesdebacalan))
+- Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
+- Visite Brasserie [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) avec Dégustation (⚠️  *gratuit sur réservation*) [18h] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - Visite Brasserie [Zebra](https://brasseriezebra.fr/) & Dégustation - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - Chasse aux Tickets d'Or - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
 
@@ -27,7 +37,7 @@ Attention, certains évènements nécessitent une réservation !
 
 - Quizz Bières - 📍 [Space Factory]() <!--?-->
 - Rencontre [Dac](https://www.instagram.com/brasserie_dac/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
-- Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) et dégustation commentée (⚠️  *sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
+- Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) et dégustation commentée (⚠️  *gratuit sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - Quizz Buveuses de Bière [20h-22h] - 📍 [Le Beau Jeu](https://maps.app.goo.gl/8phCwineumHHwB5L8) ([#lebeaujeu.bordeaux](https://www.instagram.com/lebeaujeu.bordeaux))
 - Visite Brasserie [Zebra](https://brasseriezebra.fr/) & Dégustation - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Firewalk](https://maps.app.goo.gl/bA7Fp21qpxyenDA18a) ([#firewalkbar](https://www.instagram.com/firewalkbar))
@@ -41,7 +51,7 @@ Attention, certains évènements nécessitent une réservation !
 - Rencontre [Maison PIP](https://www.instagram.com/maison.pip/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
 - Rencontre [Overground](https://www.instagram.com/overgroundbrewing/) - 📍 [Malt&Co](https://maps.app.goo.gl/PZUZt1eaHw9iqQGP7) ([#maltandco)](https://www.instagram.com/maltandco))
 - Masterclass / Mini TTO [Moersleutel](https://www.instagram.com/moersleutelcraftbrewery/) (⚠️  *sur réservation*) [17h] - 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
-- Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *sur réservation*) avec DJ Set Mojo / Hotdogs / Pétanque / Babyfoot [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
+- Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) avec DJ Set Mojo / Hotdogs / Pétanque / Babyfoot [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - TTO [Borinage](https://brasserieduborinage.be/) - 📍 [Ambrosia](https://maps.app.goo.gl/V6w8b5LVpU4QX9qB9) ([#bar_ambrosia](https://www.instagram.com/bar_ambrosia))
 - TTO [Brasseurs Cueuilleurs](https://www.instagram.com/brasseurscueilleurs/) - 📍 [Cervoiserie de Pessac](https://maps.app.goo.gl/J3vJpMUctBaVgkM47) ([#la_cervoiserie_pessac](https://www.instagram.com/la_cervoiserie_pessac))
 - TTO [Dac](https://www.instagram.com/brasserie_dac/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
@@ -55,12 +65,10 @@ Attention, certains évènements nécessitent une réservation !
 
 ### Vendredi 18 Avril
 
-- Masterclass [Sake Chevalier](https://www.instagram.com/brasseriechevalier/) - 📍 [Frou-Frou](https://maps.app.goo.gl/JYtJWxNXfunTxWab6) ([#froufrou_bordeaux](https://www.instagram.com/froufrou_bordeaux))
-- Masterclass Gin et Liqueur [BlindPigs](https://www.instagram.com/blindpigsdistillers/) - 📍 [La Madrague](https://maps.app.goo.gl/SMkeJrxjvDPRDEN46) ([#la_madrague_bdx](https://www.instagram.com/la_madrague_bdx))
 - Masterclass Torrefaction [Garagar](https://www.instagram.com/garagar.torrefaction/) - 📍 [Verde Nero](https://maps.app.goo.gl/YnahYYnFZGqArECj7) ([#verdenero_bordeaux](https://www.instagram.com/verdenero_bordeaux))
 - Rencontre [Rosny](https://www.instagram.com/rosnybeer/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
 - Atelier dégustation avec [Hélène et les Houblons](https://www.instagram.com/heleneetleshoublons/) (⚠️  *sur réservation*) [18h30] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
-- Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *sur réservation*) avec Quizz & Blind Test *Bières et Culture Générale* [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
+- Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) avec Quizz & Blind Test *Bières et Culture Générale* [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Apollo](https://maps.app.goo.gl/zu4kHTzxwMtCZ1baA) ([#apollobarbdx](https://www.instagram.com/apollobarbdx))
 - TTO [Bam](https://www.instagram.com/bam_brasserie/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
 - TTO [Chubby Brewing](https://www.instagram.com/chubbybrewing/) et *Concours Gaming* - 📍 [Back To](https://maps.app.goo.gl/uuboeWyJVSwW4u5v9) ([#backto_bdx](https://www.instagram.com/backto_bdx))
@@ -80,7 +88,3 @@ Attention, certains évènements nécessitent une réservation !
 - GIGA TTO [Piggy Brewing](https://www.instagram.com/thepiggybrew/) + [Nautile](https://www.instagram.com/brasserienautile/) + [La Superbe](https://www.instagram.com/brasserielasuperbe/) + [La Galotière](https://www.instagram.com/lagalotiere/) + [Murbudu](https://www.instagram.com/murbudu_sidrs/) - 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
 
 <!-- ######### -->
-
-## Offres spéciales BLIB
-
-- Burger de Colette : Menu Burger 🍔 + Bière Effet Papillon incluse 🍺  !
