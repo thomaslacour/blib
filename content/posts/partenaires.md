@@ -1,4 +1,17 @@
-## Les partenaires du festival BLIB 2025
++++
+author = "Bliby"
+title = "Les partenaires du festival BLIB 2025"
+date = "2025-01-11"
+description = "Les partenaires du festival BLIB 2025"
+tags = [
+    "Festival",
+]
+categories = [
+    "Festival",
+]
+series = ["Festival BLIB"]
+aliases = ["partenaires"]
++++
 
 <center>
 

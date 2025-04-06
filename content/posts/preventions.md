@@ -1,4 +1,17 @@
-## Prévention & Modération
++++
+author = "Bliby"
+title = "Prévention & Modération"
+date = "2025-01-11"
+description = "Prévention & Modération"
+tags = [
+    "Festival",
+]
+categories = [
+    "Festival",
+]
+series = ["Festival BLIB"]
+aliases = ["preventions"]
++++
 
 ### Consommer modérément, profiter pleinement !
 

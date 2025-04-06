@@ -1,4 +1,17 @@
-## Évenements Semaine BLIB
++++
+author = "Bliby"
+title = 'Évenements Semaine BLIB'
+date = "2025-03-11"
+description = "Évenements Semaine BLIB"
+tags = [
+    "Festival",
+]
+categories = [
+    "Festival",
+]
+series = ["Festival BLIB"]
+aliases = ["events"]
++++
 
 Pendant la semaine du 14 Avril au 18 Avril, différents lieux partenaires verront se dérouler des évènements spécialement organisés pour le festival BLIB : Tap Take Over (TTO), dégustation, visite de brasserie, rencontre ou atelier, il y en a pour tous les goûts.
 
@@ -6,9 +19,7 @@ Attention, certains évènements nécessitent une réservation !
 
 **Cette liste sera mise a jour avec de nouveaux évènements jusqu'au 13 avril.**
 
-<center>
 <iframe src="https://www.google.com/maps/d/embed?mid=1zH75Pm0yPomDC0RmWkSTCAjo8QlSKWs&ehbc=2E312F"></iframe>
-</center>
 
 ## Offres spéciales BLIB
 
