@@ -651,14 +651,14 @@ comment = "Nos évènements sont interdits aux mineurs non accompagné d’une p
 weight = 0
 languageName = "French"
 
-[languages.en]
-weight = 0
-languageName = "English"
-
-[languages.de]
-weight = 10
-languageName = "Deutsch"
-
-[languages.es]
-weight = 10
-languageName = "Español"
+# [languages.en]
+# weight = 0
+# languageName = "English"
+#
+# [languages.de]
+# weight = 10
+# languageName = "Deutsch"
+#
+# [languages.es]
+# weight = 10
+# languageName = "Español"
