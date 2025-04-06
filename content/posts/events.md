@@ -19,8 +19,6 @@ Attention, certains évènements nécessitent une réservation !
 
 **Cette liste sera mise a jour avec de nouveaux évènements jusqu'au 13 avril.**
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1zH75Pm0yPomDC0RmWkSTCAjo8QlSKWs&ehbc=2E312F"></iframe>
-
 ## Offres spéciales BLIB
 
 - Les Burgers de Colette Grand Théatre : Menu Burger 🍔 + Bière Effet Papillon incluse 🍺  Uniquement du 14 au 19 avril !
