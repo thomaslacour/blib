@@ -38,7 +38,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
 - Présentation Gamme [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Halles de Bacalan](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#hallesdebacalan](https://www.instagram.com/hallesdebacalan))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
-- Visite Brasserie [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) avec Dégustation (⚠️  *sur réservation*) [18h] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
+- Visite Brasserie [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) avec Dégustation (⚠️  *sur réservation - 16€*) [18h] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - Visite Brasserie [Zebra](https://brasseriezebra.fr/) & Dégustation - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - Chasse aux Tickets d'Or - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
 
