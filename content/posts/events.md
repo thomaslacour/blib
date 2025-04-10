@@ -23,7 +23,7 @@ Attention, certains évènements nécessitent une réservation !
 
 - Les Burgers de Colette Grand Théatre : Menu Burger 🍔 + Bière Effet Papillon incluse 🍺  Uniquement du 14 au 19 avril !
 
-### Mercredi 10 Avril - OFF DU BLIB
+### Jeudi 10 Avril - OFF DU BLIB
 
 - TTO [Winterholer](https://brasserie.bio/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
 
@@ -53,6 +53,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Canaulaise](https://www.instagram.com/biere.lacanaulaise/) - 📍 [Connor's](https://maps.app.goo.gl/E38ZZhYD5yC6YpkL9) ([#connors.australiansportsbar](https://www.instagram.com/connors.australiansportsbar))
 - TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
 - TTO [La Gang](https://www.instagram.com/brasserielagang/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
+- TTO [Landberry](https://www.instagram.com/landberry.crew/) - 📍 [Topa Comptoir Basque](https://maps.app.goo.gl/qydbc6eCwzeiMXHm7) ([#topa.comptoirbasque](https://www.instagram.com/topa.comptoirbasque))
 
 ### Jeudi 17 Avril
 
@@ -61,7 +62,7 @@ Attention, certains évènements nécessitent une réservation !
 - Masterclass / Mini TTO [Moersleutel](https://www.instagram.com/moersleutelcraftbrewery/) (⚠️  *sur réservation*) [17h] - 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) avec DJ Set Mojo / Hotdogs / Pétanque / Babyfoot [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - TTO [Borinage](https://brasserieduborinage.be/) - 📍 [Ambrosia](https://maps.app.goo.gl/V6w8b5LVpU4QX9qB9) ([#bar_ambrosia](https://www.instagram.com/bar_ambrosia))
-- TTO [Brasseurs Cueuilleurs](https://www.instagram.com/brasseurscueilleurs/) - 📍 [Cervoiserie de Pessac](https://maps.app.goo.gl/J3vJpMUctBaVgkM47) ([#la_cervoiserie_pessac](https://www.instagram.com/la_cervoiserie_pessac))
+- TTO [Brasseurs Cueilleurs](https://www.instagram.com/brasseurscueilleurs/) - 📍 [Cervoiserie de Pessac](https://maps.app.goo.gl/J3vJpMUctBaVgkM47) ([#la_cervoiserie_pessac](https://www.instagram.com/la_cervoiserie_pessac))
 - TTO [Dac](https://www.instagram.com/brasserie_dac/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
 - TTO [DWIN](https://www.dwynbrewing.com/) - 📍 [1001 Bières](https://maps.app.goo.gl/x42AKujbSA23ebvM6) ([#1001bieresbordeaux](https://www.instagram.com/1001bieresbordeaux))
 - TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Berthom](https://maps.app.goo.gl/Qdv7kF9pKuNTtHo68) ([#lesberthom_bordeaux](https://www.instagram.com/lesberthom_bordeaux))
@@ -70,6 +71,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Murbudu](https://www.instagram.com/murbudu_sidrs/) + [La Galotière](https://www.instagram.com/lagalotiere/) - 📍 [Judor](https://maps.app.goo.gl/jiTN5eQrXhE7TAKv7) ([#judor_bar](https://www.instagram.com/judor_bar))
 - TTO [Overground](https://www.instagram.com/overgroundbrewing/) - 📍 [Just One Beer](https://maps.app.goo.gl/bNEQEfCNZKdnWP8y8) ([#justonebeer_officiel_gradignan](https://www.instagram.com/justonebeer_officiel_gradignan))
 - TTO [Zebra](https://brasseriezebra.fr/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
+
 
 ### Vendredi 18 Avril
 
@@ -86,12 +88,13 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Cuv Paludates](https://maps.app.goo.gl/Df69Zs5LWcwQrD97A) ([#lacuvboca](https://www.instagram.com/lacuvboca))
 - TTO [Jukebox](https://www.instagram.com/brasseriejukebox/) [17h30-21h] - 📍 [V and B Merignac](https://maps.app.goo.gl/3CgbiXA7hoHHfB8N9) ([#vandbmerignac](https://www.instagram.com/vandbmerignac))
 - TTO [La Burdigala](https://www.instagram.com/la_burdigala/) - 📍 [Dick Turpins](https://maps.app.goo.gl/BBNErE4YZgb2QMDeA) ([#dick.turpins](https://www.instagram.com/dick.turpins))
-- TTO [Landberry](https://www.instagram.com/landberry.crew/) - 📍 [Topa Comptoir Basque](https://maps.app.goo.gl/qydbc6eCwzeiMXHm7) ([#topa.comptoirbasque](https://www.instagram.com/topa.comptoirbasque))
 - TTO [Horla](https://www.instagram.com/microbrasseriehorla/) - 📍 [Absolem](https://maps.app.goo.gl/ZRgbB8SkKeooM3eY8) ([#bar_absolem](https://www.instagram.com/bar_absolem))
 - TTO [Maison PIP](https://www.instagram.com/maison.pip/) - 📍 [Atelier B](https://maps.app.goo.gl/KuNmFwW5wrosAXhGA) ([#atelier_b_bordeaux](https://www.instagram.com/atelier_b_bordeaux))
 - TTO [Moersleutel](https://www.instagram.com/moersleutelcraftbrewery/) - 📍 [Road House](https://maps.app.goo.gl/Z7x8NiLAXjqLeqVQ7) ([#roadhouse_stpierre](https://www.instagram.com/roadhouse_stpierre))
 - TTO [Salama](https://www.instagram.com/salamabrewing/) - 📍 [Cervoiserie de Bordeaux](https://maps.app.goo.gl/TeY3aJuYvNXE31qC7) ([#la_cervoiserie_bordeaux](https://www.instagram.com/la_cervoiserie_bordeaux))
 - TTO [Zebra](https://brasseriezebra.fr/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
+- TTO [Eighty One](https://www.eightyonebrewing.fr/) - 📍 [Cervoiserie Pessac](https://maps.app.goo.gl/q28Am14JwqifKwTm6) ([#la_cervoiserie_pessac](https://www.instagram.com/la_cervoiserie_pessac/))
+- TTO [Bam](https://www.bam-brasserie.fr/)  - 📍 [Le Lucifer](https://maps.app.goo.gl/yikbCeCeZGkdA2Jn9) ([#le_lucifer](https://www.instagram.com/leluciferbordeaux/))
 - MÉGA TTO [Fauve](https://www.instagram.com/fauvebiere/) + [Kapsyl](https://www.instagram.com/brasseriekapsyl/) + [Schlag](https://www.instagram.com/schlag.brastylerie/) + [Uncle](https://www.instagram.com/brasserie_uncle/) - 📍 [Hecto](https://maps.app.goo.gl/gZM1Gim2moAgrFDc6) ([#hecto.bar](https://www.instagram.com/hecto.bar))
 - GIGA TTO [Piggy Brewing](https://www.instagram.com/thepiggybrew/) + [Nautile](https://www.instagram.com/brasserienautile/) + [La Superbe](https://www.instagram.com/brasserielasuperbe/) + [La Galotière](https://www.instagram.com/lagalotiere/) + [Murbudu](https://www.instagram.com/murbudu_sidrs/) - 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
 
