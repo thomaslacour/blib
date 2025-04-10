@@ -43,7 +43,6 @@ Attention, certains évènements nécessitent une réservation !
 
 ### Mercredi 16 Avril
 
-- Quizz Bières - 📍 [Space Factory]() <!--?-->
 - Rencontre [Dac](https://www.instagram.com/brasserie_dac/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) et dégustation commentée (⚠️  *gratuit sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - Quizz Buveuses de Bière [20h-22h] - 📍 [Le Beau Jeu](https://maps.app.goo.gl/8phCwineumHHwB5L8) ([#lebeaujeu.bordeaux](https://www.instagram.com/lebeaujeu.bordeaux))
@@ -59,12 +58,13 @@ Attention, certains évènements nécessitent une réservation !
 ### Jeudi 17 Avril
 
 - Rencontre [Maison PIP](https://www.instagram.com/maison.pip/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
-- Rencontre [Overground](https://www.instagram.com/overgroundbrewing/) - 📍 [Malt&Co](https://maps.app.goo.gl/PZUZt1eaHw9iqQGP7) ([#maltandco)](https://www.instagram.com/maltandco))
+- Rencontre [Overground](https://www.instagram.com/overgroundbrewing/) - [17h-19h]📍 [Malt&Co](https://maps.app.goo.gl/PZUZt1eaHw9iqQGP7) ([#maltandco)](https://www.instagram.com/maltandco))
 - Masterclass / Mini TTO [Moersleutel](https://www.instagram.com/moersleutelcraftbrewery/) (⚠️  *sur réservation*) [17h] - 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) avec DJ Set Mojo / Hotdogs / Pétanque / Babyfoot [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
+- Concerts avec [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [L'Ether Bar](https://maps.app.goo.gl/mi7fYiJekTcZMhXh9) ([#letherbar](https://www.instagram.com/lether_bar/)
 - TTO [Borinage](https://brasserieduborinage.be/) - 📍 [Ambrosia](https://maps.app.goo.gl/V6w8b5LVpU4QX9qB9) ([#bar_ambrosia](https://www.instagram.com/bar_ambrosia))
 - TTO [Brasseurs Cueilleurs](https://www.instagram.com/brasseurscueilleurs/) - 📍 [Cervoiserie de Pessac](https://maps.app.goo.gl/J3vJpMUctBaVgkM47) ([#la_cervoiserie_pessac](https://www.instagram.com/la_cervoiserie_pessac))
-- TTO [Dac](https://www.instagram.com/brasserie_dac/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
+- TTO [DAC](https://www.instagram.com/brasserie_dac/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
 - TTO [DWYN](https://www.dwynbrewing.com/) - 📍 [1001 Bières](https://maps.app.goo.gl/x42AKujbSA23ebvM6) ([#1001bieresbordeaux](https://www.instagram.com/1001bieresbordeaux))
 - TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Berthom](https://maps.app.goo.gl/Qdv7kF9pKuNTtHo68) ([#lesberthom_bordeaux](https://www.instagram.com/lesberthom_bordeaux))
 - TTO [La Chouette](https://www.instagram.com/la_chouette_brasserie/) - 📍 [Gascopub](https://maps.app.goo.gl/Andmvog1ggLfNXpu8) ([#gascopub_pessac](https://www.instagram.com/gascopub_pessac))
@@ -86,7 +86,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [BAM](https://www.instagram.com/bam_brasserie/) - 📍 [Belga Bar](hhttps://maps.app.goo.gl/pGaVWbpzqeHgQUJ79) ([#belgabordeaux](https://www.instagram.com/belgabordeaux))
 - TTO [Chubby Brewing](https://www.instagram.com/chubbybrewing/) et *Concours Gaming* - 📍 [Back To](https://maps.app.goo.gl/uuboeWyJVSwW4u5v9) ([#backto_bdx](https://www.instagram.com/backto_bdx))
 - TTO [Tipsip](https://www.instagram.com/tipsipbrewing/) + [La Bestiole](https://www.instagram.com/brasserielabestiole/) + [Chubby Brewing](https://www.instagram.com/chubbybrewing/) - 📍 [Space Factory](https://maps.app.goo.gl/rGRurbjsMyZJ3JJWA) ([#space_factory_craft_beer](https://www.instagram.com/space_factory_craft_beer))
-- TTO [Drunk Beard](https://drunkbeard.ch/) + Tournoi [La capsulette](https://www.instagram.com/lacapsulette.officiel/) - 📍 [1001 Bières](https://maps.app.goo.gl/x42AKujbSA23ebvM6) ([#1001bieresbordeaux](https://www.instagram.com/1001bieresbordeaux))
+- TTO [Drunk Beard](https://drunkbeard.ch/) + Demo/Tournoi [La capsulette](https://www.instagram.com/lacapsulette.officiel/) - 📍 [1001 Bières](https://maps.app.goo.gl/x42AKujbSA23ebvM6) ([#1001bieresbordeaux](https://www.instagram.com/1001bieresbordeaux))
 - TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Les Caves René](https://maps.app.goo.gl/5EPzZDjhiVevPqr49) ([#cavesrene](https://www.instagram.com/cavesrene))
 - TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Cuv Paludates](https://maps.app.goo.gl/Df69Zs5LWcwQrD97A) ([#lacuvboca](https://www.instagram.com/lacuvboca))
 - TTO [Jukebox](https://www.instagram.com/brasseriejukebox/) [17h30-21h] - 📍 [V and B Merignac](https://maps.app.goo.gl/3CgbiXA7hoHHfB8N9) ([#vandbmerignac](https://www.instagram.com/vandbmerignac))
