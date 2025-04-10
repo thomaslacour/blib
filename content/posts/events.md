@@ -81,7 +81,7 @@ Attention, certains évènements nécessitent une réservation !
 - Atelier dégustation avec [Hélène et les Houblons](https://www.instagram.com/heleneetleshoublons/) (⚠️  *sur réservation*) [18h30] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) avec Quizz & Blind Test *Bières et Culture Générale* [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Apollo](https://maps.app.goo.gl/zu4kHTzxwMtCZ1baA) ([#apollobarbdx](https://www.instagram.com/apollobarbdx))
-- TTO [Bam](https://www.instagram.com/bam_brasserie/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
+- TTO et rencontre [Bam](https://www.instagram.com/bam_brasserie/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
 - TTO [Chubby Brewing](https://www.instagram.com/chubbybrewing/) et *Concours Gaming* - 📍 [Back To](https://maps.app.goo.gl/uuboeWyJVSwW4u5v9) ([#backto_bdx](https://www.instagram.com/backto_bdx))
 - TTO [Chubby Brewing](https://www.instagram.com/chubbybrewing/) + [Tipsip](https://www.instagram.com/tipsipbrewing/) + [La Bestiole](https://www.instagram.com/brasserielabestiole/) - 📍 [Space Factory](https://maps.app.goo.gl/rGRurbjsMyZJ3JJWA) ([#space_factory_craft_beer](https://www.instagram.com/space_factory_craft_beer))
 - TTO [Drunk Beard](https://drunkbeard.ch/) - 📍 [1001 Bières](https://maps.app.goo.gl/x42AKujbSA23ebvM6) ([#1001bieresbordeaux](https://www.instagram.com/1001bieresbordeaux))
@@ -95,9 +95,10 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Salama](https://www.instagram.com/salamabrewing/) - 📍 [Cervoiserie de Bordeaux](https://maps.app.goo.gl/TeY3aJuYvNXE31qC7) ([#la_cervoiserie_bordeaux](https://www.instagram.com/la_cervoiserie_bordeaux))
 - TTO [Zebra](https://brasseriezebra.fr/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
 - TTO [Eighty One](https://www.eightyonebrewing.fr/) - 📍 [Cervoiserie Pessac](https://maps.app.goo.gl/q28Am14JwqifKwTm6) ([#la_cervoiserie_pessac](https://www.instagram.com/la_cervoiserie_pessac/))
-- TTO [Bam](https://www.bam-brasserie.fr/)  - 📍 [Le Lucifer](https://maps.app.goo.gl/yikbCeCeZGkdA2Jn9) ([#le_lucifer](https://www.instagram.com/leluciferbordeaux/))
+- TTO [Bam](https://www.instagram.com/bam_brasserie/) - 📍 [Belga Bar](hhttps://maps.app.goo.gl/pGaVWbpzqeHgQUJ79) ([#belgabordeaux](https://www.instagram.com/belgabordeaux))
 - MÉGA TTO [Fauve](https://www.instagram.com/fauvebiere/) + [Kapsyl](https://www.instagram.com/brasseriekapsyl/) + [Schlag](https://www.instagram.com/schlag.brastylerie/) + [Uncle](https://www.instagram.com/brasserie_uncle/) - 📍 [Hecto](https://maps.app.goo.gl/gZM1Gim2moAgrFDc6) ([#hecto.bar](https://www.instagram.com/hecto.bar))
 - GIGA TTO [Piggy Brewing](https://www.instagram.com/thepiggybrew/) + [Nautile](https://www.instagram.com/brasserienautile/) + [La Superbe](https://www.instagram.com/brasserielasuperbe/) + [La Galotière](https://www.instagram.com/lagalotiere/) + [Murbudu](https://www.instagram.com/murbudu_sidrs/) - 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
+
 
 <!-- ######### -->
 
