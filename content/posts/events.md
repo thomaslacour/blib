@@ -21,7 +21,7 @@ Attention, certains évènements nécessitent une réservation !
 
 # ## Offres spéciales BLIB
 #
-# - Les Burgers de Colette Grand Théatre : Menu Burger 🍔 + Bière Effet Papillon incluse 🍺  Uniquement du 14 au 19 # avril !
+# - Les Burgers de Colette Grand Théatre : Menu Burger  + Bière Effet Papillon incluse  Uniquement du 14 au 19 # avril !
 
 ### Jeudi 10 Avril - OFF DU BLIB
 
