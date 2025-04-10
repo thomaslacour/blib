@@ -35,26 +35,27 @@ Attention, certains évènements nécessitent une réservation !
 ### Mardi 15 Avril
 
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
-- Présentation Gamme [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Halles de Bacalan](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#hallesdebacalan](https://www.instagram.com/hallesdebacalan))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - Visite Brasserie [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) avec Dégustation (⚠️  *sur réservation - 16€*) [18h] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - Visite Brasserie [Zebra](https://brasseriezebra.fr/) & Dégustation - (⚠️  *gratuit sur réservation*) [17h-19h]📍 [Brasserie Zebra](https://maps.app.goo.gl/omhfT3VfY46Bs2987)) ([#Zebra](https://www.instagram.com/brasseriezebra))
 - Chasse aux Tickets d'Or - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
+- TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Halles de Bacalan](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#hallesdebacalan](https://www.instagram.com/hallesdebacalan))
 
 ### Mercredi 16 Avril
 
 - Rencontre [Dac](https://www.instagram.com/brasserie_dac/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) et dégustation commentée (⚠️  *gratuit sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
-- Quizz Buveuses de Bière [20h-22h] - 📍 [Le Beau Jeu](https://maps.app.goo.gl/8phCwineumHHwB5L8) ([#lebeaujeu.bordeaux](https://www.instagram.com/lebeaujeu.bordeaux))
+- Quizz [Buveuses de Bière](https://www.instagram.com/buveusesdebieres/) [20h-22h] - 📍 [Le Beau Jeu](https://maps.app.goo.gl/8phCwineumHHwB5L8) ([#lebeaujeu.bordeaux](https://www.instagram.com/lebeaujeu.bordeaux))
 - Visite Brasserie [Zebra](https://brasseriezebra.fr/) & Dégustation - (⚠️  *gratuit sur réservation*) [17h-19h]📍 [Brasserie Zebra](https://maps.app.goo.gl/omhfT3VfY46Bs2987) ([#Zebra](https://www.instagram.com/brasseriezebra))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Firewalk](https://maps.app.goo.gl/bA7Fp21qpxyenDA18a) ([#firewalkbar](https://www.instagram.com/firewalkbar))
-- TTO [Bruel](https://www.instagram.com/brasseriebruel/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
+# - TTO [Bruel](https://www.instagram.com/brasseriebruel/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
 - TTO [Canaulaise](https://www.instagram.com/biere.lacanaulaise/) - 📍 [Connor's](https://maps.app.goo.gl/E38ZZhYD5yC6YpkL9) ([#connors.australiansportsbar](https://www.instagram.com/connors.australiansportsbar))
 - TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
 - TTO [La Gang](https://www.instagram.com/brasserielagang/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - TTO [Landberry](https://www.instagram.com/landberry.crew/) - 📍 [Topa Comptoir Basque](https://maps.app.goo.gl/qydbc6eCwzeiMXHm7) ([#topa.comptoirbasque](https://www.instagram.com/topa.comptoirbasque))
 - TTO [Moersleutel](https://moersleutel.com/) [19h] - 📍 [La Fracasse Coquille](https://maps.app.goo.gl/LAHbxxZTjWgZQ3qu6) ([#lafracassecoquille](https://www.instagram.com/lafracassecoquille/))
-
+- TTO [La Canaulaise](https://www.lacanaulaise.com/) - 📍 [Connor's Australian Sports Bar](https://maps.app.goo.gl/HDN96hErvbV4U7PK8) ([#connors.australiansportsbar](https://www.instagram.com/connors.australiansportsbar/?hl=fr))
+  
 ### Jeudi 17 Avril
 
 - Rencontre [Maison PIP](https://www.instagram.com/maison.pip/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
