@@ -50,7 +50,6 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Firewalk](https://maps.app.goo.gl/bA7Fp21qpxyenDA18a) ([#firewalkbar](https://www.instagram.com/firewalkbar))
 - TTO [Bruel](https://www.instagram.com/brasseriebruel/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
 (https://www.instagram.com/connors.australiansportsbar))
-- TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
 - TTO [La Gang](https://www.instagram.com/brasserielagang/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - TTO [Landberry](https://www.instagram.com/landberry.crew/) - 📍 [Topa Comptoir Basque](https://maps.app.goo.gl/qydbc6eCwzeiMXHm7) ([#topa.comptoirbasque](https://www.instagram.com/topa.comptoirbasque))
 - TTO [Moersleutel](https://moersleutel.com/) [19h] - 📍 [La Fracasse Coquille](https://maps.app.goo.gl/LAHbxxZTjWgZQ3qu6) ([#lafracassecoquille](https://www.instagram.com/lafracassecoquille/))
@@ -75,6 +74,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Zebra](https://brasseriezebra.fr/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - TTO Grape Ale [La Fracasse Coquille](https://la-fracasse-coquille.fr/)  [19h] - 📍 [Wine Moment](https://maps.app.goo.gl/zcpyHBpniz56eNcq6) ([#winemoment](https://www.instagram.com/winemoment_byba/))
 - TTO [Borinage](https://brasserieduborinage.be/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
+- TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
 
 ### Vendredi 18 Avril
 
