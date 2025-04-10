@@ -49,7 +49,7 @@ Attention, certains évènements nécessitent une réservation !
 - Visite Brasserie [Zebra](https://brasseriezebra.fr/) & Dégustation - (⚠️  *gratuit sur réservation*) [17h-19h]📍 [Brasserie Zebra](https://maps.app.goo.gl/omhfT3VfY46Bs2987) ([#Zebra](https://www.instagram.com/brasseriezebra))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Firewalk](https://maps.app.goo.gl/bA7Fp21qpxyenDA18a) ([#firewalkbar](https://www.instagram.com/firewalkbar))
 - TTO [Bruel](https://www.instagram.com/brasseriebruel/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
-- TTO [La Canaulaise](https://www.instagram.com/biere.lacanaulaise/) - 📍 [Connor's](https://maps.app.goo.gl/E38ZZhYD5yC6YpkL9) ([#connors.australiansportsbar](https://www.instagram.com/connors.australiansportsbar))
+(https://www.instagram.com/connors.australiansportsbar))
 - TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
 - TTO [La Gang](https://www.instagram.com/brasserielagang/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - TTO [Landberry](https://www.instagram.com/landberry.crew/) - 📍 [Topa Comptoir Basque](https://maps.app.goo.gl/qydbc6eCwzeiMXHm7) ([#topa.comptoirbasque](https://www.instagram.com/topa.comptoirbasque))
