@@ -76,7 +76,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Overground](https://www.instagram.com/overgroundbrewing/) - 📍 [Just One Beer](https://maps.app.goo.gl/bNEQEfCNZKdnWP8y8) ([#justonebeer_officiel_gradignan](https://www.instagram.com/justonebeer_officiel_gradignan))
 - TTO [Zebra](https://brasseriezebra.fr/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - TTO Grape Ale [La Fracasse Coquille](https://la-fracasse-coquille.fr/)  [19h] - 📍 [Wine Moment](https://maps.app.goo.gl/zcpyHBpniz56eNcq6) ([#winemoment](https://www.instagram.com/winemoment_byba/))
-- TTO [Bruel](https://www.instagram.com/brasseriebruel/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
+- TTO [Bruel](https://www.instagram.com/brasseriebruel/) + [Borinage](https://brasserieduborinage.be/)- 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
 ([#connors.australiansportsbar](https://www.instagram.com/connors.australiansportsbar/?hl=fr))
 - Anniversaire de la "Space Musette" - 📍 [Space Factory](https://maps.app.goo.gl/rGRurbjsMyZJ3JJWA) ([#space_factory_craft_beer](https://www.instagram.com/space_factory_craft_beer))
 
