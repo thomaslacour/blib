@@ -34,12 +34,14 @@ Attention, certains évènements nécessitent une réservation !
 
 ### Mardi 15 Avril
 
+- Dégustation Gin & Liqueurs & Rencontre [BlingPigs](https://www.blindpigs.fr/) - 📍 [La Madrague](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#hallesdebacalan](https://www.instagram.com/hallesdebacalan))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - Visite Brasserie [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) avec Dégustation (⚠️  *sur réservation - 16€*) [18h] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - Visite Brasserie [Zebra](https://brasseriezebra.fr/) & Dégustation - (⚠️  *gratuit sur réservation*) [17h-19h]📍 [Brasserie Zebra](https://maps.app.goo.gl/omhfT3VfY46Bs2987)) ([#Zebra](https://www.instagram.com/brasseriezebra))
 - Chasse aux Tickets d'Or - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Halles de Bacalan](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#hallesdebacalan](https://www.instagram.com/hallesdebacalan))
+
 
 ### Mercredi 16 Avril
 
@@ -54,6 +56,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Landberry](https://www.instagram.com/landberry.crew/) - 📍 [Topa Comptoir Basque](https://maps.app.goo.gl/qydbc6eCwzeiMXHm7) ([#topa.comptoirbasque](https://www.instagram.com/topa.comptoirbasque))
 - TTO [Moersleutel](https://moersleutel.com/) [19h] - 📍 [La Fracasse Coquille](https://maps.app.goo.gl/LAHbxxZTjWgZQ3qu6) ([#lafracassecoquille](https://www.instagram.com/lafracassecoquille/))
 - TTO [La Canaulaise](https://www.lacanaulaise.com/) - 📍 [Connor's Australian Sports Bar](https://maps.app.goo.gl/HDN96hErvbV4U7PK8) ([#connors.australiansportsbar](https://www.instagram.com/connors.australiansportsbar/?hl=fr))
+- TTO Quizz Années 2010 [20h] - 📍 [Space Factory](https://maps.app.goo.gl/rGRurbjsMyZJ3JJWA) ([#space_factory_craft_beer](https://www.instagram.com/space_factory_craft_beer))
   
 ### Jeudi 17 Avril
 
@@ -73,7 +76,9 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Overground](https://www.instagram.com/overgroundbrewing/) - 📍 [Just One Beer](https://maps.app.goo.gl/bNEQEfCNZKdnWP8y8) ([#justonebeer_officiel_gradignan](https://www.instagram.com/justonebeer_officiel_gradignan))
 - TTO [Zebra](https://brasseriezebra.fr/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - TTO Grape Ale [La Fracasse Coquille](https://la-fracasse-coquille.fr/)  [19h] - 📍 [Wine Moment](https://maps.app.goo.gl/zcpyHBpniz56eNcq6) ([#winemoment](https://www.instagram.com/winemoment_byba/))
-- TTO [Borinage](https://brasserieduborinage.be/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
+- TTO [Bruel](https://www.instagram.com/brasseriebruel/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
+([#connors.australiansportsbar](https://www.instagram.com/connors.australiansportsbar/?hl=fr))
+- Anniversaire de la "Space Musette" - 📍 [Space Factory](https://maps.app.goo.gl/rGRurbjsMyZJ3JJWA) ([#space_factory_craft_beer](https://www.instagram.com/space_factory_craft_beer))
 
 ### Vendredi 18 Avril
 
