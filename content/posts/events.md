@@ -74,7 +74,6 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Zebra](https://brasseriezebra.fr/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - TTO Grape Ale [La Fracasse Coquille](https://la-fracasse-coquille.fr/)  [19h] - 📍 [Wine Moment](https://maps.app.goo.gl/zcpyHBpniz56eNcq6) ([#winemoment](https://www.instagram.com/winemoment_byba/))
 - TTO [Borinage](https://brasserieduborinage.be/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
-- TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
 
 ### Vendredi 18 Avril
 
@@ -100,6 +99,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Eighty One](https://www.eightyonebrewing.fr/) - 📍 [Cervoiserie Pessac](https://maps.app.goo.gl/q28Am14JwqifKwTm6) ([#la_cervoiserie_pessac](https://www.instagram.com/la_cervoiserie_pessac/))
 - TTO [Fauve](https://www.instagram.com/fauvebiere/) + [Kapsyl](https://www.instagram.com/brasseriekapsyl/) + [Schlag](https://www.instagram.com/schlag.brastylerie/) + [Uncle](https://www.instagram.com/brasserie_uncle/) - 📍 [Hecto](https://maps.app.goo.gl/gZM1Gim2moAgrFDc6) ([#hecto.bar](https://www.instagram.com/hecto.bar))
 - TTO [Piggy Brewing](https://www.instagram.com/thepiggybrew/) + [Nautile](https://www.instagram.com/brasserienautile/) + [La Superbe](https://www.instagram.com/brasserielasuperbe/) + [La Galotière](https://www.instagram.com/lagalotiere/) + [Murbudu](https://www.instagram.com/murbudu_sidrs/) + [DWYN](https://www.dwynbrewing.com/) 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
+- TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
 
 
 <!-- ######### -->
