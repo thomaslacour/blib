@@ -34,7 +34,7 @@ Attention, certains évènements nécessitent une réservation !
 
 ### Mardi 15 Avril
 
-- Dégustation Gin & Liqueurs & Rencontre [BlingPigs](https://www.blindpigs.fr/) - 📍 [La Madrague](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#hallesdebacalan](https://www.instagram.com/hallesdebacalan))
+- Dégustation Gin & Liqueurs & Rencontre [BlingPigs](https://www.blindpigs.fr/) - 📍 [La Madrague](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#la_madrague_bdx](https://www.instagram.com/la_madrague_bdx))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Quinte Et Sens](https://maps.app.goo.gl/sPUnwvuoBuNKAwgr8) ([#quinte_sens_bordeaux](https://www.instagram.com/quinte_sens_bordeaux))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - Visite Brasserie [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) avec Dégustation (⚠️  *sur réservation - 16€*) [18h] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
