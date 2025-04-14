@@ -62,7 +62,7 @@ Attention, certains évènements nécessitent une réservation !
 
 - Rencontre [Maison PIP](https://www.instagram.com/maison.pip/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
 - Rencontre [Overground](https://www.instagram.com/overgroundbrewing/) - [17h-19h]📍 [Malt&Co](https://maps.app.goo.gl/PZUZt1eaHw9iqQGP7) ([#maltandco)](https://www.instagram.com/maltandco))
-- Masterclass / Mini TTO [Moersleutel](https://www.instagram.com/moersleutelcraftbrewery/) (⚠️  *sur réservation*) [17h] - 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
+- Masterclass [Moersleutel](https://www.instagram.com/moersleutelcraftbrewery/) (⚠️  *sur réservation*) [17h] - 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) avec DJ Set Mojo / Hotdogs / Pétanque / Babyfoot [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - Concerts avec [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [L'Ether Bar](https://maps.app.goo.gl/mi7fYiJekTcZMhXh9) ([#letherbar](https://www.instagram.com/lether_bar/)
 - TTO [Borinage](https://brasserieduborinage.be/) - 📍 [Ambrosia](https://maps.app.goo.gl/V6w8b5LVpU4QX9qB9) ([#bar_ambrosia](https://www.instagram.com/bar_ambrosia))
