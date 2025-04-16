@@ -70,7 +70,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Overground](https://www.instagram.com/overgroundbrewing/) [19h30]- 📍 [Just One Beer](https://maps.app.goo.gl/bNEQEfCNZKdnWP8y8) ([#justonebeer_officiel_gradignan](https://www.instagram.com/justonebeer_officiel_gradignan))
 - TTO [Zebra](https://brasseriezebra.fr/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - TTO Grape Ale [La Fracasse Coquille](https://la-fracasse-coquille.fr/)  [19h] - 📍 [Wine Moment](https://maps.app.goo.gl/zcpyHBpniz56eNcq6) ([#winemoment](https://www.instagram.com/winemoment_byba/))
-- TTO [Bruel](https://www.instagram.com/brasseriebruel/) + [Borinage](https://brasserieduborinage.be/)- 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
+- TTO [Bruel](https://www.instagram.com/brasseriebruel/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
 ([#connors.australiansportsbar](https://www.instagram.com/connors.australiansportsbar/?hl=fr))
 - Anniversaire de la "Space Musette" - 📍 [Space Factory](https://maps.app.goo.gl/rGRurbjsMyZJ3JJWA) ([#space_factory_craft_beer](https://www.instagram.com/space_factory_craft_beer))
 
@@ -81,7 +81,7 @@ Attention, certains évènements nécessitent une réservation !
 - Atelier dégustation avec [Hélène et les Houblons](https://www.instagram.com/heleneetleshoublons/) (⚠️  *sur réservation*) [18h30] - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) avec Quizz & Blind Test *Bières et Culture Générale* [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Apollo](https://maps.app.goo.gl/zu4kHTzxwMtCZ1baA) ([#apollobarbdx](https://www.instagram.com/apollobarbdx))
-- TTO et rencontre [BAM](https://www.instagram.com/bam_brasserie/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
+- TTO et rencontre [BAM](https://www.instagram.com/bam_brasserie/) + [Brasseurs Cueilleurs](https://www.instagram.com/brasseurscueilleurs/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
 - TTO [BAM](https://www.instagram.com/bam_brasserie/) - 📍 [Belga Bar](hhttps://maps.app.goo.gl/pGaVWbpzqeHgQUJ79) ([#belgabordeaux](https://www.instagram.com/belgabordeaux))
 - TTO [Chubby Brewing](https://www.instagram.com/chubbybrewing/) et *Concours Gaming* - 📍 [Back To](https://maps.app.goo.gl/uuboeWyJVSwW4u5v9) ([#backto_bdx](https://www.instagram.com/backto_bdx))
 - TTO [Tipsip](https://www.instagram.com/tipsipbrewing/) + [La Bestiole](https://www.instagram.com/brasserielabestiole/) + [Chubby Brewing](https://www.instagram.com/chubbybrewing/) - 📍 [Space Factory](https://maps.app.goo.gl/rGRurbjsMyZJ3JJWA) ([#space_factory_craft_beer](https://www.instagram.com/space_factory_craft_beer))
