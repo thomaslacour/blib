@@ -17,12 +17,6 @@ Pendant la semaine du 14 Avril au 18 Avril, différents lieux partenaires verron
 
 Attention, certains évènements nécessitent une réservation !
 
-**Cette liste sera mise a jour avec de nouveaux évènements jusqu'au 13 avril.**
-
-# ## Offres spéciales BLIB
-#
-# - Les Burgers de Colette Grand Théatre : Menu Burger  + Bière Effet Papillon incluse  Uniquement du 14 au 19 # avril !
-
 ### Jeudi 10 Avril - OFF DU BLIB
 
 - TTO [Winterholer](https://brasserie.bio/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
@@ -61,7 +55,7 @@ Attention, certains évènements nécessitent une réservation !
 ### Jeudi 17 Avril
 
 - Rencontre [Maison PIP](https://www.instagram.com/maison.pip/) - 📍 [Cave des Moines](https://maps.app.goo.gl/fCxwmFwGeJ61wsBL8) ([#lacavedesmoinesbordeaux](https://www.instagram.com/lacavedesmoinesbordeaux))
-- Rencontre [Overground](https://www.instagram.com/overgroundbrewing/) - [17h-19h]📍 [Malt&Co](https://maps.app.goo.gl/PZUZt1eaHw9iqQGP7) ([#maltandco)](https://www.instagram.com/maltandco))
+- Rencontre [Overground](https://www.instagram.com/overgroundbrewing/) - [16h-19h]📍 [Malt&Co](https://maps.app.goo.gl/PZUZt1eaHw9iqQGP7) ([#maltandco)](https://www.instagram.com/maltandco))
 - Masterclass [Moersleutel](https://www.instagram.com/moersleutelcraftbrewery/) (⚠️  *sur réservation*) [17h] - 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
 - Visite Brasserie [La Burdigala](https://www.instagram.com/la_burdigala/) (⚠️  *gratuit sur réservation*) avec DJ Set Mojo / Hotdogs / Pétanque / Babyfoot [18h] - 📍 [Brasserie La Burdigala](https://maps.app.goo.gl/PCA7vEUBXJ52ZXdS6) ([#la_burdigala](https://www.instagram.com/la_burdigala))
 - Concerts avec [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [L'Ether Bar](https://maps.app.goo.gl/mi7fYiJekTcZMhXh9) ([#letherbar](https://www.instagram.com/lether_bar/)
@@ -73,7 +67,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [La Chouette](https://www.instagram.com/la_chouette_brasserie/) - 📍 [Gascopub](https://maps.app.goo.gl/Andmvog1ggLfNXpu8) ([#gascopub_pessac](https://www.instagram.com/gascopub_pessac))
 - TTO [La Lune](https://www.instagram.com/brasserielalune/) - 📍 [Halles de Bacalan](https://maps.app.goo.gl/sH12P1vgnR3uy8Dz7) ([#hallesdebacalan](https://www.instagram.com/hallesdebacalan))
 - TTO [Murbudu](https://www.instagram.com/murbudu_sidrs/) + [La Galotière](https://www.instagram.com/lagalotiere/) - 📍 [Judor](https://maps.app.goo.gl/jiTN5eQrXhE7TAKv7) ([#judor_bar](https://www.instagram.com/judor_bar))
-- TTO [Overground](https://www.instagram.com/overgroundbrewing/) - 📍 [Just One Beer](https://maps.app.goo.gl/bNEQEfCNZKdnWP8y8) ([#justonebeer_officiel_gradignan](https://www.instagram.com/justonebeer_officiel_gradignan))
+- TTO [Overground](https://www.instagram.com/overgroundbrewing/) [19h30]- 📍 [Just One Beer](https://maps.app.goo.gl/bNEQEfCNZKdnWP8y8) ([#justonebeer_officiel_gradignan](https://www.instagram.com/justonebeer_officiel_gradignan))
 - TTO [Zebra](https://brasseriezebra.fr/) - 📍 [Taproom Effet Papillon](https://maps.app.goo.gl/yXeVhjujGM1Ayf9RA) ([#brasserieffetpapillon_lebar](https://www.instagram.com/brasserieffetpapillon_lebar))
 - TTO Grape Ale [La Fracasse Coquille](https://la-fracasse-coquille.fr/)  [19h] - 📍 [Wine Moment](https://maps.app.goo.gl/zcpyHBpniz56eNcq6) ([#winemoment](https://www.instagram.com/winemoment_byba/))
 - TTO [Bruel](https://www.instagram.com/brasseriebruel/) + [Borinage](https://brasserieduborinage.be/)- 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
