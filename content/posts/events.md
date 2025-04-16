@@ -73,6 +73,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Bruel](https://www.instagram.com/brasseriebruel/) - 📍 [Lucifer](https://maps.app.goo.gl/coHjoALxPA1phFhx5) ([#leluciferbordeaux](https://www.instagram.com/leluciferbordeaux))
 ([#connors.australiansportsbar](https://www.instagram.com/connors.australiansportsbar/?hl=fr))
 - Anniversaire de la "Space Musette" - 📍 [Space Factory](https://maps.app.goo.gl/rGRurbjsMyZJ3JJWA) ([#space_factory_craft_beer](https://www.instagram.com/space_factory_craft_beer))
+- TTO [Arcka](https://brasserie-arcka.fr/) - 📍 [La Biéristerie](https://maps.app.goo.gl/fCyMZWwmQvEKnWem7) ([#la_bieristerie](https://www.instagram.com/la_bieristerie/))
 
 ### Vendredi 18 Avril
 
@@ -99,6 +100,7 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Fauve](https://www.instagram.com/fauvebiere/) + [Kapsyl](https://www.instagram.com/brasseriekapsyl/) + [Schlag](https://www.instagram.com/schlag.brastylerie/) + [Uncle](https://www.instagram.com/brasserie_uncle/) - 📍 [Hecto](https://maps.app.goo.gl/gZM1Gim2moAgrFDc6) ([#hecto.bar](https://www.instagram.com/hecto.bar))
 - TTO [Piggy Brewing](https://www.instagram.com/thepiggybrew/) + [Nautile](https://www.instagram.com/brasserienautile/) + [La Superbe](https://www.instagram.com/brasserielasuperbe/) + [La Galotière](https://www.instagram.com/lagalotiere/) + [Murbudu](https://www.instagram.com/murbudu_sidrs/) + [DWYN](https://www.dwynbrewing.com/) 📍 [Sur Mesure](https://maps.app.goo.gl/KCSNr6y5sVZLBZLA7) ([#lesurmesurebordeaux](https://www.instagram.com/lesurmesurebordeaux))
 - TTO [Azimut](https://www.instagram.com/azimutbrasserie/) - 📍 [Sweeney Todd](https://maps.app.goo.gl/sbfpsRXJ2GrbncEG8) ([#sweeneytoddspub](https://www.instagram.com/sweeneytoddspub))
+- TTO [La Ptite Maiz](https://www.laptitemaiz.com/) - 📍 [La Biéristerie](https://maps.app.goo.gl/fCyMZWwmQvEKnWem7) ([#la_bieristerie](https://www.instagram.com/la_bieristerie/))
 
 
 <!-- ######### -->
