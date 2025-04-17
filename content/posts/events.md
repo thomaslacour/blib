@@ -91,7 +91,6 @@ Attention, certains évènements nécessitent une réservation !
 - TTO [Effet Papillon](https://www.instagram.com/brasserieffetpapillon/) - 📍 [Cuv Paludates](https://maps.app.goo.gl/Df69Zs5LWcwQrD97A) ([#lacuvboca](https://www.instagram.com/lacuvboca))
 - TTO [Jukebox](https://www.instagram.com/brasseriejukebox/) [17h30-21h] - 📍 [V and B Merignac](https://maps.app.goo.gl/3CgbiXA7hoHHfB8N9) ([#vandbmerignac](https://www.instagram.com/vandbmerignac))
 - TTO [La Burdigala](https://www.instagram.com/la_burdigala/) - 📍 [Dick Turpins](https://maps.app.goo.gl/BBNErE4YZgb2QMDeA) ([#dick.turpins](https://www.instagram.com/dick.turpins))
-- TTO [Horla](https://www.instagram.com/microbrasseriehorla/) - 📍 [Absolem](https://maps.app.goo.gl/ZRgbB8SkKeooM3eY8) ([#bar_absolem](https://www.instagram.com/bar_absolem))
 - TTO [Maison PIP](https://www.instagram.com/maison.pip/) - 📍 [Atelier B](https://maps.app.goo.gl/KuNmFwW5wrosAXhGA) ([#atelier_b_bordeaux](https://www.instagram.com/atelier_b_bordeaux))
 - TTO [Moersleutel](https://www.instagram.com/moersleutelcraftbrewery/) - 📍 [Road House](https://maps.app.goo.gl/Z7x8NiLAXjqLeqVQ7) ([#roadhouse_stpierre](https://www.instagram.com/roadhouse_stpierre))
 - TTO [Salama](https://www.instagram.com/salamabrewing/) - 📍 [Cervoiserie de Bordeaux](https://maps.app.goo.gl/TeY3aJuYvNXE31qC7) ([#la_cervoiserie_bordeaux](https://www.instagram.com/la_cervoiserie_bordeaux))
