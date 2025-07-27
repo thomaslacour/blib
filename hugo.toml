@@ -24,6 +24,8 @@ Les 10 ans du BLIB !<br>
 '''
 #Le grand final au H14 : <a href="posts/h14">samedi 19 avril</a>
 #'''
+startbuttonText = "Soutenir l'association !"
+startbuttonLink = "https://www.helloasso.com/associations/blib"
 #startbuttonText = "Je prends ma place !"
 #startbuttonLink = "https://www.helloasso.com/associations/blib/evenements/prevente-blib-2025-au-hangar-14"
 body_is_markdown = true
