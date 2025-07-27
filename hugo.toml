@@ -3,7 +3,6 @@ baseURL = "https://festivalbieresbordeaux.fr/"
 title = "Festival BLIB"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
-paginate = "7"
 theme = "blib"
 enableEmoji = true
 #googleAnalytics = "G-XXXXXXXXXX"
@@ -12,17 +11,21 @@ enableEmoji = true
 # TOP
 ################################################################################
 
+[pagination]
+pagerSize = 7
+
 [params]
 fancyTitle = "FESTIVAL BLiB" # title for frontpage, may include image
 logo = "images/bliby_rond.png"
 copyright = "Festival BLIB"
 description = '''
-Le BLIB fête ses 10 ans !<br>
-<a href="posts/events">Évènements du 14 au 19 avril</a> <br>
-Le grand final au H14 : <a href="posts/h14">samedi 19 avril</a>
+Les 10 ans du BLIB !<br>
+<a href="posts/events">Édition 2025</a> <br>
 '''
-startbuttonText = "Je prends ma place !"
-startbuttonLink = "https://www.helloasso.com/associations/blib/evenements/prevente-blib-2025-au-hangar-14"
+#Le grand final au H14 : <a href="posts/h14">samedi 19 avril</a>
+#'''
+#startbuttonText = "Je prends ma place !"
+#startbuttonLink = "https://www.helloasso.com/associations/blib/evenements/prevente-blib-2025-au-hangar-14"
 body_is_markdown = true
 # extrabuttonText = "Concours brassam"
 # extrabuttonLink = "posts/brassam"
@@ -662,3 +665,5 @@ languageName = "French"
 # [languages.es]
 # weight = 10
 # languageName = "Español"
+
+ignoreLogs = ['warning-goldmark-raw-html']

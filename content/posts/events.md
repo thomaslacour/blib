@@ -1,8 +1,8 @@
 +++
 author = "Bliby"
-title = 'Évenements Semaine BLIB'
+title = 'Évenements Semaine BLIB 2025'
 date = "2025-03-11"
-description = "Évenements Semaine BLIB"
+description = "Évenements Semaine BLIB 2025"
 tags = [
     "Festival",
 ]
@@ -101,4 +101,6 @@ Attention, certains évènements nécessitent une réservation !
 
 - [Grand Final](h14.md) - 📍 [H14](https://maps.app.goo.gl/49eCDfdcKjSFceEA7)
 
+<!-- 
 Les places sont en ventes [ici](https://www.helloasso.com/associations/blib/evenements/prevente-blib-2025-au-hangar-14) !
+-->
