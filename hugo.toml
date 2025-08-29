@@ -19,8 +19,9 @@ fancyTitle = "FESTIVAL BLiB" # title for frontpage, may include image
 logo = "images/bliby_rond.png"
 copyright = "Festival BLIB"
 description = '''
-Les 10 ans du BLIB !<br>
-<a href="posts/events">Édition 2025</a> <br>
+Les festival a fêté ses 10 ans !<br>
+<a href="posts/events">🍻 les évènements</a> <br>
+<a href="https://photos.app.goo.gl/Z4vgXq7C8pb6dmw69">📷 les photos</a> <br>
 '''
 #Le grand final au H14 : <a href="posts/h14">samedi 19 avril</a>
 #'''
