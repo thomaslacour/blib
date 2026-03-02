@@ -15,6 +15,7 @@ enableEmoji = true
 pagerSize = 7
 
 [params]
+banner = "/images/banner2026.png"
 fancyTitle = "FESTIVAL BLiB" # title for frontpage, may include image
 logo = "images/bliby_rond.png"
 copyright = "Festival BLIB"
