@@ -131,13 +131,13 @@ body = "Le BLIB se déroule en région Bordelaise sur un ensemble d'évènements
 [[params.two.section]]
 img = "images/visuel_blib4.png"
 title = '30 lieux partenaires'
-body = "Un trentaine de lieux partenaires (brasserie, bar, cave, restaurant ...) s'associent chaque année avec nous pour vous proposer des évènements variés autour de la biére (découverte et dégustation) !"
+body = "Plusieurs lieux partenaires (brasserie, bar, cave, restaurant ...) s'associent chaque année avec nous pour vous proposer des évènements variés autour de la biére (découverte et dégustation) !"
 
 [[params.two.section]]
-img = "images/visuel_blib3.png"
-title = '70 exposants'
+img = "images/visuel_blib3.jpg"
+title = '30 exposants'
 body = '''
-Lors du grand final qui se déroule depuis plusieurs années au Hangar 14, tous les exposants, des brasseries aux partenaires de la restauration, se retrouvent pour célébrer la bière craft
+Lors du grand final qui se déroulera cette année à la cité bleue, tous les exposants, des brasseries aux partenaires de la restauration, se retrouvent pour célébrer la bière craft
 '''
 
 ################################################################################
