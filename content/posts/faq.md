@@ -23,7 +23,7 @@ Le billet garantit l'accès au Festival (brasseries et food trucks) avec droit d
 
 En plus de l'accés est également compris le verre du festival 🍺 que vous pourrez garder ainsi qu'une première dégustation avec la bière du festival.
 
-## Des tickets seront-ils disponibles à l’entrée du Hangar 14 ?
+## Des tickets seront-ils disponibles à l’entrée de la cité bleue ?
 
 Oui, les préventes ne représentent qu'une petite partie des tickets mis en vente.
 *Il est conseillé d'arriver tôt afin d'être sûr de pouvoir entrer.*
