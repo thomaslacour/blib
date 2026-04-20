@@ -24,10 +24,10 @@ Le grand final à la cité bleue : <a href="posts/h14">samedi 13 juin</a>
 '''
 #Le grand final au H14 : <a href="posts/h14">samedi 19 avril</a>
 #'''
-startbuttonText = "Soutenir l'association !"
-startbuttonLink = "https://www.helloasso.com/associations/blib"
-#startbuttonText = "Je prends ma place !"
-#startbuttonLink = "https://www.helloasso.com/associations/blib/evenements/prevente-blib-2025-au-hangar-14"
+startbuttonText = "Je prends ma place !"
+startbuttonLink = "https://www.helloasso.com/associations/blib/evenements/preventes-festival-blib-2026"
+extrabuttonText = "Soutenir l'association !"
+extrabuttonLink = "https://www.helloasso.com/associations/blib"
 body_is_markdown = true
 # extrabuttonText = "Concours brassam"
 # extrabuttonLink = "posts/brassam"
@@ -146,10 +146,9 @@ Lors du grand final qui se déroulera cette année à la cité bleue, tous les e
 # remove bg: https://www.remove.bg/fr/upload
 
 [params.three]
-enable = false
+enable = true
 title = 'Exposants 2026'
 body = '''
-Bientôt disponible ...
 '''
 
 # TEMPLATE
@@ -160,13 +159,13 @@ Bientôt disponible ...
 # todo (not supported within the template)
 #img = "..."
 
-#[[params.three.feature]]
-#title = "Azimut"
-#body = "Bordeaux (33), France"
-#link = "https://www.azimutbrasserie.com/"
-#icon = "test"
-#logo = "images/logos/azimut.png"
-#
+[[params.three.feature]]
+title = "Azimut"
+body = "Bordeaux (33), France"
+link = "https://www.azimutbrasserie.com/"
+icon = "test"
+logo = "images/logos/azimut.png"
+
 #[[params.three.feature]]
 #title = "Bee King"
 #body = "Saint Priest (69), France"
@@ -238,13 +237,13 @@ Bientôt disponible ...
 #body = "Preignac (33), France"
 #link = "https://brasseriezebra.fr/"
 #logo = "images/logos/zebra.png"
-#
-#[[params.three.feature]]
-#title = "Burdigala"
-#body = "Bordeaux (33), France"
-#link = "https://www.bieredebordeaux.com/"
-#logo = "images/logos/burdigala.png"
-#
+
+[[params.three.feature]]
+title = "Burdigala"
+body = "Bordeaux (33), France"
+link = "https://www.bieredebordeaux.com/"
+logo = "images/logos/burdigala.png"
+
 #[[params.three.feature]]
 #title = "Le bercail WUB"
 #body = "St-Magne-de-Castillon (33), France"
@@ -304,13 +303,13 @@ Bientôt disponible ...
 #body = "Assac-sur-Vienne (16), France"
 #link = "https://brunack.com/"
 #logo = "images/logos/brunack.png"
-#
-#[[params.three.feature]]
-#title = "Chubby Brew"
-#body = "Bouafle (78), France"
-#link = "https://www.instagram.com/chubbybrewing/"
-#logo = "images/logos/chubbybrew.png"
-#
+
+[[params.three.feature]]
+title = "Chubby Brew"
+body = "Bouafle (78), France"
+link = "https://www.instagram.com/chubbybrewing/"
+logo = "images/logos/chubbybrew.png"
+
 #[[params.three.feature]]
 #title = "Drunk Beard"
 #body = "Morrens, Suisse"
@@ -334,13 +333,13 @@ Bientôt disponible ...
 #body = "Tourrettes (83), France"
 #link = "https://www.gekkobeers.com/"
 #logo = "images/logos/gekko.png"
-#
-#[[params.three.feature]]
-#title = "Gentlemen Pirates"
-#body = "Nantes (44), France"
-#link = "https://gentlemenpirates.my.canva.site/"
-#logo = "images/logos/pirates.png"
-#
+
+[[params.three.feature]]
+title = "Gentlemen Pirates"
+body = "Nantes (44), France"
+link = "https://gentlemenpirates.my.canva.site/"
+logo = "images/logos/pirates.png"
+
 ## [[params.three.feature]]
 ## title = "Hoodo"
 ## body = "Tarare (69), France"
@@ -418,19 +417,19 @@ Bientôt disponible ...
 #body = "Nantes (44), France"
 #link = "https://little-atlantique-brewery.fr/"
 #logo = "images/logos/littleatlantique.png"
-#
-#[[params.three.feature]]
-#title = "Noktua Brama"
-#body = "Saint-Estèphe (33), France"
-#link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
-#logo = "images/logos/noktuabrama.png"
-#
-#[[params.three.feature]]
-#title = "La Fracasse Coquille"
-#body = "Libourne (33), France"
-#link = "https://la-fracasse-coquille.fr/"
-#logo = "images/logos/fracasse.png"
-#
+
+[[params.three.feature]]
+title = "Noktua Brama"
+body = "Saint-Estèphe (33), France"
+link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
+logo = "images/logos/noktuabrama.png"
+
+[[params.three.feature]]
+title = "La Fracasse Coquille"
+body = "Libourne (33), France"
+link = "https://la-fracasse-coquille.fr/"
+logo = "images/logos/fracasse.png"
+
 #[[params.three.feature]]
 #title = "La Tute"
 #body = "Nousty (64), France"
@@ -526,13 +525,13 @@ Bientôt disponible ...
 #body = "Pays-Bas"
 #link = "https://moersleutel.com/"
 #logo = "images/logos/moersleutel.png"
-#
-#[[params.three.feature]]
-#title = "Parallele"
-#body = "Floirac (33), France"
-#link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
-#logo = "images/logos/parallele.png"
-#
+
+[[params.three.feature]]
+title = "Parallele"
+body = "Floirac (33), France"
+link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
+logo = "images/logos/parallele.png"
+
 #[[params.three.feature]]
 #title = "Schlag"
 #body = "Castelnau-De-Mandailles (12), France"
@@ -592,6 +591,12 @@ Bientôt disponible ...
 #body = "Châtillon (92), France"
 #link = "http://www.bonelessbrewing.com/"
 #logo = "images/logos/boneless.png"
+
+[[params.three.feature]]
+title = "Saint-Rieul"
+body = "Trumilly (60), France"
+link = "http://www.st-rieul.com/"
+logo = "images/logos/saintrieul.png"
 
 # ################################################################################
 # # BRASSAM
