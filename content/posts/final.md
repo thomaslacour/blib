@@ -1,8 +1,8 @@
 +++
 author = "Bliby"
-title = 'Le grand final au Hangar 14'
+title = 'Le grand final à la Cité Bleue'
 date = "2025-01-11"
-description = 'Le grand final au Hangar 14'
+description = 'Le grand final à la Cité Bleue'
 tags = [
     "Festival",
 ]
@@ -10,7 +10,7 @@ categories = [
     "Festival",
 ]
 series = ["Festival BLIB"]
-aliases = ["h14"]
+aliases = ["final"]
 +++
 
 Une journée festive 🎉 et conviviale ⛱️
