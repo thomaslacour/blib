@@ -201,13 +201,13 @@ logo = "images/logos/jukebox.png"
 #body = "Bègles (33), France"
 #link = "https://maisonpip.com/"
 #logo = "images/logos/pip.png"
-#
-#[[params.three.feature]]
-#title = "La Gang"
-#body = "Biscarosse (33), France"
-#link = "https://lagang.fr/"
-#logo = "images/logos/gang.png"
-#
+
+[[params.three.feature]]
+title = "La Gang"
+body = "Biscarosse (33), France"
+link = "https://lagang.fr/"
+logo = "images/logos/gang.png"
+
 #[[params.three.feature]]
 #title = "Rosny"
 #body = "Seignoss (40), France"
@@ -441,13 +441,13 @@ logo = "images/logos/noktuabrama.png"
 #body = "Finlande"
 #link = "https://www.salamabrewing.com/"
 #logo = "images/logos/salama.png"
-#
-#[[params.three.feature]]
-#title = "Landberry"
-#body = "Anglet (64), France"
-#link = "https://landberry.fr/"
-#logo = "images/logos/landberry.png"
-#
+
+[[params.three.feature]]
+title = "Landberry"
+body = "Anglet (64), France"
+link = "https://landberry.fr/"
+logo = "images/logos/landberry.png"
+
 #[[params.three.feature]]
 #title = "Pyraser"
 #body = "Allemagne"
@@ -633,6 +633,18 @@ title = "GMTX Brewery"
 body = "Montestruc-sur-Gers (32), France"
 link = "https://gmtx-brewery.sumupstore.com/"
 logo = "images/logos/gmtx.png"
+
+[[params.three.feature]]
+title = "Maison Guichard"
+body = "Saint Morillon (33), France"
+link = "https://www.maisonguichard.fr"
+logo = "images/logos/guichard.png"
+
+[[params.three.feature]]
+title = "La Plume et l'Épi"
+body = "Grignols (24), France"
+link = "https://plumepi.com/"
+logo = "images/logos/plumepi.png"
 
 # ################################################################################
 # # BRASSAM
