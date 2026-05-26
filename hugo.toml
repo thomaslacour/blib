@@ -183,13 +183,13 @@ logo = "images/logos/azimut.png"
 #body = "Chambray-lés-Tours (37), France"
 #link = "https://www.instagram.com/brasseriekapsyl/"
 #logo = "images/logos/kapsyl.png"
-#
-#[[params.three.feature]]
-#title = "Jukebox"
-#body = "Cognac (16), France"
-#link = "https://brasseriejukebox.com/"
-#logo = "images/logos/jukebox.png"
-#
+
+[[params.three.feature]]
+title = "Jukebox"
+body = "Cognac (16), France"
+link = "https://brasseriejukebox.com/"
+logo = "images/logos/jukebox.png"
+
 #[[params.three.feature]]
 #title = "Effet Papillon"
 #body = "Mérignac (33), France"
@@ -411,12 +411,12 @@ logo = "images/logos/pirates.png"
 #body = "Capbreton (40), France"
 #link = "https://www.brasseriechevalier.com/"
 #logo = "images/logos/sakechevalier.png"
-#
-#[[params.three.feature]]
-#title = "Little Atlantique"
-#body = "Nantes (44), France"
-#link = "https://little-atlantique-brewery.fr/"
-#logo = "images/logos/littleatlantique.png"
+
+[[params.three.feature]]
+title = "Little Atlantique"
+body = "Nantes (44), France"
+link = "https://little-atlantique-brewery.fr/"
+logo = "images/logos/littleatlantique.png"
 
 [[params.three.feature]]
 title = "Noktua Brama"
@@ -424,11 +424,11 @@ body = "Saint-Estèphe (33), France"
 link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
 logo = "images/logos/noktuabrama.png"
 
-[[params.three.feature]]
-title = "La Fracasse Coquille"
-body = "Libourne (33), France"
-link = "https://la-fracasse-coquille.fr/"
-logo = "images/logos/fracasse.png"
+#[[params.three.feature]]
+#title = "La Fracasse Coquille"
+#body = "Libourne (33), France"
+#link = "https://la-fracasse-coquille.fr/"
+#logo = "images/logos/fracasse.png"
 
 #[[params.three.feature]]
 #title = "La Tute"
@@ -597,6 +597,42 @@ title = "Saint-Rieul"
 body = "Trumilly (60), France"
 link = "http://www.st-rieul.com/"
 logo = "images/logos/saintrieul.png"
+
+[[params.three.feature]]
+title = "3 Brasseurs Bordeaux"
+body = "Villenave-d'Ornon (33), France"
+link = "https://restaurants.3brasseurs.com/fr/france-FR/914/3-brasseurs-bordeaux-villenave-dornon/details"
+logo = "images/logos/3brasseurs.png"
+
+[[params.three.feature]]
+title = "Tête Haute"
+body = "Le Cellier (44), France"
+link = "https://www.tete-haute.fr/"
+logo = "images/logos/tetehaute.png"
+
+[[params.three.feature]]
+title = "Callipyge"
+body = "Labastide-d'Argmagnac (40), France"
+link = "https://www.facebook.com/p/Callipyge-Brewing-61585813042602/"
+logo = "images/logos/callipyge.png"
+
+[[params.three.feature]]
+title = "La Riboterie"
+body = "Saint-Vivien (17), France"
+link = "https://www.brasserie-lariboterie.com/"
+logo = "images/logos/riboterie.png"
+
+[[params.three.feature]]
+title = "Goguette cocktail vigneron"
+body = "Haux (33), France"
+link = "https://chateau-lamothe.com/la-goguette/"
+logo = "images/logos/goguette.png"
+
+[[params.three.feature]]
+title = "GMTX Brewery"
+body = "Montestruc-sur-Gers (32), France"
+link = "https://gmtx-brewery.sumupstore.com/"
+logo = "images/logos/gmtx.png"
 
 # ################################################################################
 # # BRASSAM
