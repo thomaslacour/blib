@@ -23,6 +23,13 @@ git config core.sshCommand "ssh -i ~/.ssh/github_blib"
 Do not forget to configure your ssh agent
 
 ```bash
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/<key-private>
+```
+
+You can also add an alias host
+
+```bash
 cat >> EOF > ~/.ssh/config
 Host github.com
     HostName ssh.github.com
