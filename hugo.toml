@@ -43,9 +43,9 @@ body_is_markdown = true
 url = '/'
 title = "Festival BLIB"
 
-#[[params.menu.main]]
-#url = '/posts/events'
-#title = "Semaine du BLIB"
+[[params.menu.main]]
+url = '/posts/program2026'
+title = "Programme"
 
 #[[params.menu.main]]
 #url = '/posts/h14'
