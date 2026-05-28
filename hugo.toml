@@ -59,9 +59,9 @@ title = "Festival BLIB"
 url = 'https://forms.gle/m7Rbnz9zirQJH74s8'
 title = "Devenir Bénévole"
 
-#[[params.menu.main]]
-#url = 'https://drive.google.com/file/d/1aj4r36f6ez3T8O01BdShOE9MQazFAti1/view?usp=sharing'
-#title = "Dossier de presse"
+[[params.menu.main]]
+url = '/comkit'
+title = "Kit de Communication"
 
 [[params.menu.main]]
 url = '/posts/galerie'
@@ -645,6 +645,42 @@ title = "La Plume et l'Épi"
 body = "Grignols (24), France"
 link = "https://plumepi.com/"
 logo = "images/logos/plumepi.png"
+
+################################################################################
+# FOOD
+################################################################################
+
+[params.food]
+enable = true
+title = 'Food'
+body = '''
+'''
+
+# TEMPLATE
+[[params.food.feature]]
+title = "Lil' Burger"
+body = "Burger / Bordeaux"
+link = "https://www.instagram.com/lil_burger.bx/"
+logo = "images/logos/lilburger.png"
+
+[[params.food.feature]]
+title = "Cookinette"
+body = "Cookie / Bordeaux"
+link = "https://www.instagram.com/_cookinette_/"
+logo = "images/logos/cookinette.png"
+
+[[params.food.feature]]
+title = "Le Van"
+body = "Gallette - Crêpes / Mérignac"
+link = "https://www.instagram.com/levanfoodtruck/"
+logo = "images/logos/levan.png"
+
+[[params.food.feature]]
+title = "Bordeaux Phuket"
+body = "Thaïlandais / Bordeaux"
+link = "https://www.instagram.com/le_bordeaux_phuket/"
+logo = "images/logos/phuket.png"
+
 
 # ################################################################################
 # # BRASSAM

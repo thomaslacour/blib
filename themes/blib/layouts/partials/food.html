@@ -1,0 +1,38 @@
+{{ $md := .Site.Params.body_is_markdown | default false }}
+
+{{ with .Site.Params.food }}
+{{ if .enable }}
+<section id="food" class="wrapper style3 special">
+	<div class="inner">
+		<header class="major">
+			<h2>{{ .title | safeHTML }}</h2>
+{{ partial "body_text.html" (dict "context" . "md" $md) }}
+		</header>
+		<ul class="features">
+{{ if .feature }}{{ range (sort .feature "title") }}
+			<li class="icon {{ .icon }}">
+{{ if .logo }}
+				<div class="feature-item">
+					<div class="feature-image-wrapper">
+						<img src="{{ .logo }}" alt="Logo {{ .title }}" class="feature-image">
+					</div>
+					<div class="feature-content">
+						<h3><a href="{{ .link }}">{{ .title | safeHTML }}</a></h3>
+						<p>{{ .body | safeHTML }}</p>
+					</div>
+				</div>
+{{ else }}
+				<div class="feature-item">
+					<div class="feature-content-no-image">
+						<h3><a href="{{ .link }}">{{ .title | safeHTML }}</a></h3>
+						<p>{{ .body | safeHTML }}</p>
+					</div>
+				</div>
+{{ end }}
+			</li>
+{{ end }}{{ end }}
+		</ul>
+	</div>
+</section>
+{{ end }}
+{{ end }}

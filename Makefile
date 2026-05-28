@@ -1,9 +1,11 @@
 #!/usr/bin/env make
 
-include /etc/environment
+-include /etc/environment
+
+CONTAINER_ENGINE := $(shell which podman 2>/dev/null || which docker 2>/dev/null)
+$(if $(CONTAINER_ENGINE),,$(error No container engine found: install podman or docker))
 
 CONTAINER_IMAGE := hugomods/hugo
-CONTAINER_ENGINE ?= podman
 GIT_REPO = git@github.com:thomaslacour/blib.git
 
 HUGO = $(CONTAINER_ENGINE) run --rm -v $(shell pwd):/src -p 0.0.0.0:1313:1313 $(CONTAINER_IMAGE)
@@ -23,4 +25,4 @@ setup:  ##Setup the repo (git, container...)
 
 .PHONY: site
 site:  ##Serve the site
-	$(HUGO) server --renderToMemory
+	$(HUGO) server --renderToMemory --watch --bind 0.0.0.0 --poll 500ms
