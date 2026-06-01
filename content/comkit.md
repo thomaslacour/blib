@@ -16,8 +16,8 @@ aliases = ["comkit"]
 
 # Kit presse
 
-## Dosser de Presse
+## Dossier de Presse
 
-## Affiche et Flyer
+## Affiches et Flyers
 
-## Logo Officiels
+## Logos Officiels
