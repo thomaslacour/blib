@@ -12,7 +12,7 @@ categories = [
 series = ["Festival BLIB"]
 aliases = ["events"]
 +++
-Pendant la semaine du 8 Avril au 13 Juin, différents lieux partenaires verront se dérouler des évènements spécialement organisés pour le festival BLIB : Tap Take Over (TTO), dégustation, visite de brasserie, rencontre ou atelier, il y en a pour tous les goûts.
+Pendant la semaine du 8 au 13 Juin, différents lieux partenaires verront se dérouler des évènements spécialement organisés pour le festival BLIB : Tap Take Over (TTO), dégustation, visite de brasserie, rencontre ou atelier, il y en a pour tous les goûts.
 Attention, certains évènements nécessitent une réservation !
 **Cette liste sera mise a jour avec de nouveaux évènements jusqu'au 7 Juin.**
 
