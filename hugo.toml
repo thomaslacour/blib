@@ -31,7 +31,7 @@ extrabuttonLink = "https://www.helloasso.com/associations/blib"
 body_is_markdown = true
 # extrabuttonText = "Concours brassam"
 # extrabuttonLink = "posts/brassam"
-#custom_css = "foo.css"
+custom_css = "css/custom.css"
 #custom_sass = "bar.scss"
 # images = ["path_to_social_image_for_link_previews.jpg"]
 

@@ -1,0 +1,6 @@
+.wrapper.style5 .inner img {
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  display: block;
+}
