@@ -20,14 +20,14 @@ Attention, certains évènements nécessitent une réservation !
 
 ### Lundi 8 Juin - Soirée de lancement
 
-- 🍺 **Dégustation** de la Bière du Blib (collab [Landberry](https://www.instagram.com/landberry.crew)) — places pour le Grand Final à gagner : cherchez le ticket d'or ! — 18h 📍 [Cave des Moines](https://maps.app.goo.gl/23BJD5rXevZjMbym7) [#CaveDesMoinesBordeaux](https://www.instagram.com/lacavedesmoinesbordeaux/)
 - Soirée de lancement du Festival — 19h30 📍 [Lucifer Bar](https://maps.app.goo.gl/ir7LBbztmQuxQDGB6) [#Lucifer](https://www.instagram.com/leluciferbordeaux/)
+- 🍺 **Dégustation** de la Bière du Blib (collab [Landberry](https://www.instagram.com/landberry.crew)) — places pour le Grand Final à gagner : cherchez le ticket d'or ! — 18h 📍 [Cave des Moines](https://maps.app.goo.gl/23BJD5rXevZjMbym7) [#CaveDesMoinesBordeaux](https://www.instagram.com/lacavedesmoinesbordeaux/)
 - 🎯 **Quizz** Just One Beer 📍 [Just One Beer](https://maps.app.goo.gl/tv7KYZkaKfo4mh9F8) [#JustOneBeer](https://www.instagram.com/justonebeer_officiel_gradignan/)
 
 ### Mardi 9 Juin
 
 - 🎯 **Quizz** — 19h30 📍 [Judor](https://maps.app.goo.gl/GChDfiYWo77prEGY9) [#Judor](https://www.instagram.com/judor_bordeaux/)
-- 🍺 **Tap Take Over** 📍 [Hiro Craft Beer Bar](https://maps.app.goo.gl/Gd1eTcbC24fbQAgE9) [#hiro.craftbeer](https://www.instagram.com/hiro.craftbeer/) avec [La Gang](https://www.instagram.com/brasserielagang/)
+- 🍺 **Tap Take Over** 📍 [Hiro Craft Beer Bar](https://maps.app.goo.gl/Gd1eTcbC24fbQAgE9) [#hiro.craftbeer](https://www.instagram.com/hiro.craftbeer/) avec [La Gang](https://www.instagram.com/brasserielagang/) et [Landberry](https://www.instagram.com/landberry.crew/)
 
 ### Mercredi 10 Juin
 
