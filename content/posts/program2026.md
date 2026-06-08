@@ -54,10 +54,14 @@ Attention, certains évènements nécessitent une réservation !
 - 🚛 **7h – 11h** — Accueil et installation des exposants
 - 🎉 **11h** — Ouverture au public
 - 🌾 **14h** — Débat / Conférence : retour d'expérience des paysans brasseurs et diversification de l'agriculture
-- 🍺 **Atelier brassage**
-- 🎯 **Jeux** — Fléchettes et ping-pong
-- 🥳 **Animation** — l'équipe de l'Évolution Urbaine (StickiFest) permettra au public de réaliser un énorme combo sitckers de 2m/1m avec des stickers de 150 artiste de 27 pays [#StickiFestBordeaux](https://www.instagram.com/stickifestbx/)
-- 🎸 **18h** — Concert avec les [#Funky Fellows](https://www.instagram.com/funkyfellows/)
+- 🍺 **Atelier brassage** — 14h à 17h
+- **Animation**
+  * 💆  — Massage sur chaise ergonomique avec [@Nomad's](https://www.instagram.com/nomads/)
+  * 🥳 **Animation** — l'équipe de l'Évolution Urbaine (StickiFest) permettra au public de réaliser un énorme combo stickers de 2m/1m avec des stickers de 150 artistes de 27 pays [#StickiFestBordeaux](https://www.instagram.com/stickifestbx/)
+- 🎵 Musique
+  - 🎶 **Après-midi** — Scène ouverte
+  - 🎸 **18h & 20h** — Concert avec les [#Funky Fellows](https://www.instagram.com/funkyfellows/)
+- 🎯 **Jeux** — Fléchettes, ping-pong, lancer de sac (Corn Hole), chamboule tout et La Capsulette
 - 🕥 **22h30** — Fermeture de l'accueil
 - 🌙 **Après 23h** — After 📍 [Hiro Craft Beer Bar](https://maps.app.goo.gl/Gd1eTcbC24fbQAgE9) [#hiro.craftbeer](https://www.instagram.com/hiro.craftbeer/)
 
