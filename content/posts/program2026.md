@@ -31,7 +31,7 @@ Attention, certains évènements nécessitent une réservation !
 
 ### Mercredi 10 Juin
 
-- 🏭 **Visite de la brasserie Burdigala** sur réservation — 17h — quizz avec bières offertes et places pour le Grand Final à gagner : cherchez le ticket d'or ! 📍 [Brasserie Burdigala](https://maps.app.goo.gl/ZS79gaQja9z34oYL9) [#la_burdigala](https://www.instagram.com/la_burdigala/)
+- 🏭 **Visite de la brasserie Burdigala** sur réservation au 05 56 91 15 88 — 17h — quizz avec bières offertes et places pour le Grand Final à gagner : cherchez le ticket d'or ! 📍 [Brasserie Burdigala](https://maps.app.goo.gl/ZS79gaQja9z34oYL9) [#la_burdigala](https://www.instagram.com/la_burdigala/)
 - 🍺 **Lancement d'une bière Porter à la framboise** et tournoi de fléchettes sur inscription (galopin offert aux habitués) 📍 [Brasserie des 3 Brasseurs](https://maps.app.goo.gl/yG59Vn2WnSqHARqd8) [#3Brasseurs](https://www.instagram.com/justonebeer_officiel_gradignan/)
 
 ### Jeudi 11 Juin
@@ -46,7 +46,7 @@ Attention, certains évènements nécessitent une réservation !
 
 - 🍽️ **Repas des Brasseurs** à Bordeaux — 12h 📍 [L'Hecto](https://maps.app.goo.gl/MhKaH3YL1QtzY2XZA) [#hecto.bar](https://www.instagram.com/hecto.bar/)
 - 🍺 **Tap Take Over** 📍 [Hiro Craft Beer Bar](https://maps.app.goo.gl/Gd1eTcbC24fbQAgE9) [#hiro.craftbeer](https://www.instagram.com/hiro.craftbeer/) avec [Tête Haute](https://www.instagram.com/brasserietetehaute/), [Gentlemen Pirates](https://www.instagram.com/brasseriegentlemenpirates/) et [Chubby Brewing](https://www.instagram.com/chubbybrewing)
-- 🎵 **Tap Take Over** 📍 [V and B Bordeaux Lac](https://maps.app.goo.gl/w3zRJkEBNsNZ9kTH9) [#vandbbordeauxlac](https://www.instagram.com/vandbbordeauxlac/) avec [Jukebox](https://www.instagram.com/brasseriejukebox/)
+- 🍺 **Tap Take Over** 📍 [V and B Bordeaux Lac](https://maps.app.goo.gl/w3zRJkEBNsNZ9kTH9) [#vandbbordeauxlac](https://www.instagram.com/vandbbordeauxlac/) avec [Jukebox](https://www.instagram.com/brasseriejukebox/)
 
 ### Samedi 13 Juin - Grand Final
 
@@ -56,7 +56,8 @@ Attention, certains évènements nécessitent une réservation !
 - 🌾 **14h** — Débat / Conférence : retour d'expérience des paysans brasseurs et diversification de l'agriculture
 - 🍺 **Atelier brassage**
 - 🎯 **Jeux** — Fléchettes et ping-pong
-- 🎸 **18h** — Concert avec les [Funky Fellows](https://www.instagram.com/thefunkyfellows/)
+- 🥳 **Animation** — l'équipe de l'Évolution Urbaine (StickiFest) permettra au public de réaliser un énorme combo sitckers de 2m/1m avec des stickers de 150 artiste de 27 pays [#StickiFestBordeaux](https://www.instagram.com/stickifestbx/)
+- 🎸 **18h** — Concert avec les [#Funky Fellows](https://www.instagram.com/funkyfellows/)
 - 🕥 **22h30** — Fermeture de l'accueil
 - 🌙 **Après 23h** — After 📍 [Hiro Craft Beer Bar](https://maps.app.goo.gl/Gd1eTcbC24fbQAgE9) [#hiro.craftbeer](https://www.instagram.com/hiro.craftbeer/)
 
