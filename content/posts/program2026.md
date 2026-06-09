@@ -63,6 +63,12 @@ Attention, certains évènements nécessitent une réservation !
   - 🎶 **Après-midi** — Scène ouverte
   - 🎸 **18h & 20h** — Concert avec les [#Funky Fellows](https://www.instagram.com/funkyfellows/)
 - 🎯 **Jeux** — Fléchettes, ping-pong, lancer de sac (Corn Hole), chamboule tout et La Capsulette
+- 🤝 **Associations & artisans présents**
+  * 🍺 **APIPAF** — Association pour l'Information et la Prévention de l'Alcoolisation Festive : stand de sensibilisation et de prévention (dépistage de l'alcoolémie)
+  * 🌾 **Terre de Liens** — association citoyenne qui préserve les terres agricoles et accompagne l'installation de paysans en bio [#terredeliens](https://www.instagram.com/terredeliens/)
+  * ♻️ **Ellocan** — mobilier design éco-conçu à partir de canettes recyclées (kit « YouCanSit ») [#ellocan_design](https://www.instagram.com/ellocan_design/)
+  * 💄 **INAÉ maison de beauté** — institut de beauté du Taillan-Médoc : extensions et rehaussement de cils, brow lift, strass dentaires [#inae.bdx](https://www.instagram.com/inae.bdx/)
+  * 💆 **Masseuses** — massage sur chaise ergonomique (avec [@Nomad's](https://www.instagram.com/nomads/))
 - 🕥 **22h30** — Fermeture de l'accueil
 - 🌙 **Après 23h** — After 📍 [Hiro Craft Beer Bar](https://maps.app.goo.gl/Gd1eTcbC24fbQAgE9) [#hiro.craftbeer](https://www.instagram.com/hiro.craftbeer/)
 
