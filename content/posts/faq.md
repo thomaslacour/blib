@@ -36,9 +36,11 @@ Les tarifs sont de
 
 ## Quels sont les horaires pour le final ?
 
-De midi à minuit.
+De 11h à 23h.
 
 Pour les tenaces: dernière conso 30 minutes avant l'heure de fermeture.
+
+Une after officiel avec l'équipe et la brasserie Landberry est organisé au Hiro !
 
 ## Comment être bénévole ?
 

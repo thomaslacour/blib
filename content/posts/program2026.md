@@ -21,7 +21,7 @@ Attention, certains évènements nécessitent une réservation !
 > 🎫 **TICKETS D'OR — votre entrée OFFERTE pour le Grand Final !** 🎫
 >
 > Tout au long de la semaine, des **tickets d'or** sont cachés chez nos lieux partenaires. **Trouvez-en un et l'entrée du Grand Final du samedi 13 Juin est pour vous, gratuitement !**
-> Ouvrez l'œil 👀
+> Et ce n'est pas tout : les **gagnants des quizz** repartent eux aussi avec des **places pour le Grand Final** ! 🍀
 
 ### Lundi 8 Juin - Soirée de lancement
 
