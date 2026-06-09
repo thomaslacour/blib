@@ -46,6 +46,7 @@ Attention, certains évènements nécessitent une réservation !
 
 - 🍽️ **Repas des Brasseurs** à Bordeaux — 12h 📍 [L'Hecto](https://maps.app.goo.gl/MhKaH3YL1QtzY2XZA) [#hecto.bar](https://www.instagram.com/hecto.bar/)
 - 🍺 **Tap Take Over** 📍 [Hiro Craft Beer Bar](https://maps.app.goo.gl/Gd1eTcbC24fbQAgE9) [#hiro.craftbeer](https://www.instagram.com/hiro.craftbeer/) avec [Tête Haute](https://www.instagram.com/brasserietetehaute/), [Gentlemen Pirates](https://www.instagram.com/brasseriegentlemenpirates/) et [Chubby Brewing](https://www.instagram.com/chubbybrewing)
+- 🍺 **Tap Take Over** 📍 [Space Factory](https://share.google/CELASTdp3EcltXZzD) [#spacefactory](https://www.instagram.com/space_factory_craft_beer/) [www](https://www.spacefactory33.com/) avec [Landberry](https://www.instagram.com/landberry.crew/)
 - 🍺 **Tap Take Over** 📍 [V and B Bordeaux Lac](https://maps.app.goo.gl/w3zRJkEBNsNZ9kTH9) [#vandbbordeauxlac](https://www.instagram.com/vandbbordeauxlac/) avec [Jukebox](https://www.instagram.com/brasseriejukebox/)
 
 ### Samedi 13 Juin - Grand Final
