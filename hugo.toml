@@ -424,11 +424,11 @@ body = "Saint-Estèphe (33), France"
 link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
 logo = "images/logos/noktuabrama.png"
 
-#[[params.three.feature]]
-#title = "La Fracasse Coquille"
-#body = "Libourne (33), France"
-#link = "https://la-fracasse-coquille.fr/"
-#logo = "images/logos/fracasse.png"
+[[params.three.feature]]
+title = "La Fracasse Coquille"
+body = "Libourne (33), France"
+link = "https://la-fracasse-coquille.fr/"
+logo = "images/logos/fracasse.png"
 
 #[[params.three.feature]]
 #title = "La Tute"
