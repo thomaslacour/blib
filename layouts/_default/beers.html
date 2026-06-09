@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { min-height: 100%; }
+    body {
+      background: #2e3842;
+      color: #fff;
+      font-family: 'Open Sans', sans-serif;
+      padding: 1.2em;
+    }
+    .beers-title {
+      text-align: center;
+      font-weight: 800;
+      font-size: 1em;
+      color: #dd5d90;
+      margin-bottom: 1em;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    /* ── Hide desktop on mobile ── */
+    .slide-container { display: none; }
+    .dots { display: none; }
+    .beer-grouped-mobile { display: block; }
+
+    /* ── Mobile: grouped list ── */
+    .brewery-group { margin-bottom: 1.6em; }
+    .brewery-header {
+      font-weight: 700;
+      font-size: 1.1em;
+      color: #dd5d90;
+      margin-bottom: 0.5em;
+      padding-left: 0.2em;
+    }
+    .brewery-city {
+      color: rgba(255,255,255,0.4);
+      font-weight: 500;
+      font-size: 0.88em;
+    }
+    .beer-list { display: flex; flex-direction: column; gap: 0.6em; }
+
+    .mobile-card {
+      background: #ffcc01;
+      border-radius: 6px;
+      padding: 0.65em 0.85em;
+    }
+    .mc-name {
+      font-weight: 700;
+      font-size: 1.1em;
+      color: #2e3842;
+    }
+    .mc-meta {
+      color: rgba(46,56,66,0.75);
+      font-size: 0.88em;
+      margin-top: 0.15em;
+      line-height: 1.5;
+    }
+    .mc-pct {
+      color: #dd5d90;
+      font-weight: 600;
+    }
+    .mc-tags { display: inline; }
+    .mc-tag {
+      display: inline-block;
+      background: #21b2a6;
+      color: #fff;
+      border-radius: 3px;
+      padding: 0 6px;
+      font-size: 0.8em;
+      font-weight: 600;
+      margin-left: 4px;
+      line-height: 1.6;
+    }
+
+    /* ── Desktop: cycling grid ── */
+    @media (min-width: 768px) {
+      html, body { height: 100%; }
+      body {
+        height: 100vh;
+        overflow: hidden;
+        padding: 0.8em 1.2em;
+        display: flex;
+        flex-direction: column;
+      }
+      .beers-title {
+        flex: none;
+        font-size: 0.85em;
+        margin-bottom: 0.5em;
+      }
+      .slide-container { display: block; }
+      .beer-grouped-mobile { display: none; }
+
+      .slide-container {
+        flex: 1;
+        position: relative;
+        overflow: hidden;
+      }
+      .slide {
+        position: absolute;
+        inset: 0;
+        display: grid;
+        grid-template-columns: repeat(var(--cols, 4), 1fr);
+        grid-template-rows: repeat(var(--rows, 3), 1fr);
+        gap: 0.35em;
+        opacity: 0;
+        transition: opacity 0.7s ease;
+        pointer-events: none;
+      }
+      .slide.active {
+        opacity: 1;
+        pointer-events: auto;
+      }
+
+      /* ── Desktop card ── */
+      .desktop-card {
+        background: #ffcc01;
+        border-radius: 5px;
+        padding: 0.35em 0.5em;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .dc-name {
+        font-weight: 800;
+        font-size: 0.9em;
+        color: #1a1f24;
+        line-height: 1.2;
+      }
+      .dc-meta {
+        font-size: 0.7em;
+        color: #2e3842;
+        margin-top: 0.08em;
+        line-height: 1.3;
+      }
+      .dc-style {
+        font-weight: 600;
+      }
+      .dc-pct {
+        color: #dd5d90;
+        font-weight: 700;
+      }
+      .dc-brewery {
+        font-size: 0.55em;
+        font-weight: 700;
+        color: #2e3842;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        margin-top: 0.1em;
+        line-height: 1.2;
+      }
+      .dc-tags {
+        margin-top: 0.1em;
+      }
+      .dc-tag {
+        display: inline-block;
+        background: #21b2a6;
+        color: #fff;
+        border-radius: 3px;
+        padding: 0 5px;
+        font-size: 0.6em;
+        font-weight: 700;
+        margin-right: 3px;
+        line-height: 1.5;
+      }
+
+      .dots {
+        display: block;
+        flex: none;
+        text-align: center;
+        padding-top: 0.4em;
+      }
+      .dot {
+        display: inline-block;
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+        background: rgba(255,255,255,0.2);
+        margin: 0 4px;
+        transition: background 0.4s ease;
+      }
+      .dot.active { background: #dd5d90; }
+    }
+  </style>
+</head>
+<body>
+  <div class="beers-title">À la Pression</div>
+  {{ .Content }}
+  <div class="dots" id="dots"></div>
+  <script>
+    (function() {
+      var container = document.querySelector('.slide-container');
+      if (!container) return;
+      var slides = container.querySelectorAll('.slide');
+      var dotsEl = document.getElementById('dots');
+      var sleep = parseInt(container.getAttribute('data-sleep')) || 8000;
+      var current = 0;
+      slides[0].classList.add('active');
+      slides.forEach(function(_, i) {
+        var dot = document.createElement('span');
+        dot.className = 'dot' + (i === 0 ? ' active' : '');
+        dotsEl.appendChild(dot);
+      });
+      var dots = dotsEl.querySelectorAll('.dot');
+      if (slides.length > 1) {
+        setInterval(function() {
+          slides[current].classList.remove('active');
+          dots[current].classList.remove('active');
+          current = (current + 1) % slides.length;
+          slides[current].classList.add('active');
+          dots[current].classList.add('active');
+        }, sleep);
+      }
+    })();
+  </script>
+</body>
+</html>

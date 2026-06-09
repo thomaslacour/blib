@@ -1,0 +1,65 @@
+{{ $config := site.Data.beers.config }}
+{{ $cols := $config.gridCols | default 4 }}
+{{ $rows := $config.gridRows | default 3 }}
+{{ $sleepMs := mul ($config.sleepSec | default 8) 1000 }}
+
+{{ $allBeers := slice }}
+{{ range site.Data.beers.breweries }}
+  {{ $brewery := .brewery }}
+  {{ range .beers }}
+    {{ $allBeers = $allBeers | append (dict "beerName" .beerName "style" .style "percentage" .percentage "taste" .taste "brewery" $brewery) }}
+  {{ end }}
+{{ end }}
+{{ $sorted := sort $allBeers "beerName" }}
+
+{{ $perPage := mul $cols $rows }}
+{{ $total := len $sorted }}
+{{ $numPages := div (add $total (sub $perPage 1)) $perPage }}
+
+<div class="slide-container" style="--cols: {{ $cols }}; --rows: {{ $rows }};" data-sleep="{{ $sleepMs }}">
+{{ range seq $numPages }}
+  {{ $pageNum := sub . 1 }}
+  {{ $start := mul $pageNum $perPage }}
+  {{ $pageBeers := first $perPage (after $start $sorted) }}
+  <div class="slide{{ if eq $pageNum 0 }} active{{ end }}">
+  {{ range $pageBeers }}
+    <div class="desktop-card">
+      <div class="dc-name">{{ .beerName }}</div>
+      <div class="dc-meta"><span class="dc-style">{{ .style }}</span>{{ with .percentage }}<span class="dc-pct"> · {{ . }}%</span>{{ end }}</div>
+      <div class="dc-brewery">{{ .brewery }}</div>
+      {{ if .taste }}
+        <div class="dc-tags">
+          {{ range split .taste "|" }}
+            <span class="dc-tag">{{ . }}</span>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+  </div>
+{{ end }}
+</div>
+
+<div class="beer-grouped-mobile">
+{{ range site.Data.beers.breweries }}
+  <div class="brewery-group">
+    <div class="brewery-header">{{ .brewery }}<span class="brewery-city"> — {{ .city }}</span></div>
+    <div class="beer-list">
+    {{ range .beers }}
+      <div class="mobile-card">
+        <div class="mc-name">{{ .beerName }}</div>
+        <div class="mc-meta">{{ .style }}<span class="mc-pct">{{ with .percentage }} — {{ . }}%{{ end }}</span>
+        {{ if .taste }}
+          <span class="mc-tags">
+            {{ range split .taste "|" }}
+              <span class="mc-tag">{{ . }}</span>
+            {{ end }}
+          </span>
+        {{ end }}
+        </div>
+      </div>
+    {{ end }}
+    </div>
+  </div>
+{{ end }}
+</div>

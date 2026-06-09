@@ -1,0 +1,144 @@
+config:
+  gridCols: 5
+  gridRows: 8
+  sleepSec: 8
+breweries:
+- brewery: GMTX Brewery
+  city: Montestruc-sur-Gers (32)
+  beers:
+  - beerName: Dammit
+    style: Saison
+    percentage: 4.5
+  - beerName: Rebellion
+    style: Sauvage
+    percentage: 6
+  - beerName: R&W Marselan
+    style: Sauvage
+    percentage: 5.5
+  - beerName: R&W Tannat
+    style: Sauvage
+    percentage: 6.5
+  - beerName: R&W Syrah
+    style: Sauvage
+    percentage: 6.5
+  - beerName: R&W Blend
+    style: Sauvage
+    percentage: 6
+- brewery: 3 Brasseurs Bordeaux
+  city: Villenave-d'Ornon (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Azimut
+  city: Bordeaux (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Burdigala
+  city: Gradignan (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Callipyge
+  city: Labastide-d'Armagnac (40)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Chapote
+  city: Civrac-de-Blaye (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Chubby Brewing Company
+  city: Bouafle (78)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Gentlemen Pirates
+  city: Nantes (44)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Goguette
+  city: Haux (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Jukebox
+  city: Cognac (16)
+  beers:
+  - beerName: Minuit à Tokyo
+    style: DDH IPA
+    percentage: 6.0
+  - beerName: Liquid Sunshine
+    style: Sour
+    percentage: 4.0
+    taste: Ananas|Citron Vert|Poivre
+- brewery: La Fracasse Coquille
+  city: Libourne (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: La Gang
+  city: Biscarosse (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: La Plume Et L'Épi
+  city: Grignols (24)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: La Riboterie
+  city: Saint-Vivien (17)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Landberry
+  city: Anglet (64)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Maison Guichard
+  city: Saint Morillon (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Noktua Brama
+  city: Saint-Estèphe (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Parallele
+  city: Floirac (33)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Saint-Rieul
+  city: Trumilly (60)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
+- brewery: Tête Haute
+  city: Le Cellier (44)
+  beers:
+  - beerName: Nom
+    style: Style
+    percentage: 0.0
