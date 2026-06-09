@@ -18,6 +18,11 @@ Attention, certains évènements nécessitent une réservation !
 
 **Cette liste sera mise a jour avec de nouveaux évènements jusqu'au 7 Juin.**
 
+> 🎫 **TICKETS D'OR — votre entrée OFFERTE pour le Grand Final !** 🎫
+>
+> Tout au long de la semaine, des **tickets d'or** sont cachés chez nos lieux partenaires. **Trouvez-en un et l'entrée du Grand Final du samedi 13 Juin est pour vous, gratuitement !**
+> Ouvrez l'œil 👀
+
 ### Lundi 8 Juin - Soirée de lancement
 
 - Soirée de lancement du Festival — 19h30 📍 [Lucifer Bar](https://maps.app.goo.gl/ir7LBbztmQuxQDGB6) [#Lucifer](https://www.instagram.com/leluciferbordeaux/)
