@@ -59,6 +59,11 @@ title = "Programme"
 url = 'https://forms.gle/m7Rbnz9zirQJH74s8'
 title = "Devenir Bénévole"
 #post insta avec els etapes
+
+#[[params.menu.main]]
+#url = '/beers'
+#title = "Bières à la Pression"
+
 [[params.menu.main]]
 url = '/comkit'
 title = "Kit de Communication"

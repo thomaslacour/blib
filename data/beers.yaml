@@ -9,109 +9,155 @@ breweries:
   - beerName: Dammit
     style: Saison
     percentage: 4.5
+    active: true
   - beerName: Rebellion
     style: Sauvage
     percentage: 6
+    active: true
   - beerName: R&W Marselan
     style: Sauvage
     percentage: 5.5
   - beerName: R&W Tannat
     style: Sauvage
     percentage: 6.5
+    active: true
   - beerName: R&W Syrah
     style: Sauvage
     percentage: 6.5
+    active: true
   - beerName: R&W Blend
     style: Sauvage
     percentage: 6
+    active: true
 - brewery: 3 Brasseurs Bordeaux
   city: Villenave-d'Ornon (33)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: Azimut
   city: Bordeaux (33)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: Session Atlantique
+    style: Session
+    percentage: 4.5
+    active: true
+  - beerName: Fruits Rouge
+    style: Bière aux fruits
+    percentage: 6
+    active: true
 - brewery: Burdigala
   city: Gradignan (33)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: Callipyge
   city: Labastide-d'Armagnac (40)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: Chapote
   city: Civrac-de-Blaye (33)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: Chubby Brewing Company
   city: Bouafle (78)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: Ichigonoki
+    style: Pastry Sour
+    percentage: 6.5
+    active: true
+    taste: Fraise
+  - beerName: Hot Stuff
+    style: IPA Sabro
+    percentage: 6.0
+    taste: Poivre|Piment
+    active: true
 - brewery: Gentlemen Pirates
   city: Nantes (44)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: Wind
+    style: Grape Sour
+    percentage: 4.5
+    taste: Moût raisin|Vendanges 2025
+    active: true
+  - beerName: Sirene
+    style: NEIPA
+    percentage: 6.3
+    taste: Nectaron
+    active: true
+  - beerName: Triston
+    style: Double NEIPA
+    percentage: 7.9
+    taste: Nectaron
+    active: true
+  - beerName: Tsunami
+    style: Double Wheat IPA
+    percentage: 8.5
+    taste: Sabro
+    active: true
 - brewery: Goguette
   city: Haux (33)
   beers:
-  - beerName: Nom
-    style: Style
+  - beerName: Mojito Vigneron
+    style: Cocktail
     percentage: 0.0
+    active: true
 - brewery: Jukebox
   city: Cognac (16)
   beers:
   - beerName: Minuit à Tokyo
     style: DDH IPA
     percentage: 6.0
+    active: true
   - beerName: Liquid Sunshine
     style: Sour
     percentage: 4.0
     taste: Ananas|Citron Vert|Poivre
+    active: true
 - brewery: La Fracasse Coquille
   city: Libourne (33)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: La Gang
   city: Biscarosse (33)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: La Plume Et L'Épi
   city: Grignols (24)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: La Riboterie
   city: Saint-Vivien (17)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: Landberry
   city: Anglet (64)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: Maison Guichard
   city: Saint Morillon (33)
   beers:
@@ -124,21 +170,25 @@ breweries:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: Parallele
   city: Floirac (33)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: Saint-Rieul
   city: Trumilly (60)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
 - brewery: Tête Haute
   city: Le Cellier (44)
   beers:
   - beerName: Nom
     style: Style
     percentage: 0.0
+    active: true
