@@ -38,10 +38,10 @@ Attention, certains évènements nécessitent une réservation !
 
 - 🏭 **Visite de la brasserie Burdigala** sur réservation au 05 56 91 15 88 — 17h — quizz avec bières offertes et places pour le Grand Final à gagner : cherchez le ticket d'or ! 📍 [Brasserie Burdigala](https://maps.app.goo.gl/ZS79gaQja9z34oYL9) [#la_burdigala](https://www.instagram.com/la_burdigala/)
 - 🍺 **Lancement d'une bière Porter à la framboise** et tournoi de fléchettes sur inscription (galopin offert aux habitués) 📍 [Brasserie des 3 Brasseurs](https://maps.app.goo.gl/yG59Vn2WnSqHARqd8) [#3Brasseurs](https://www.instagram.com/justonebeer_officiel_gradignan/)
+- 🍻 **Dégustation** avec [Goguette](https://www.instagram.com/goguette.cocktail/) 📍 [Malt & Co](https://maps.app.goo.gl/tsK6jBczd6M4TUoK7) [#maltandco](https://www.instagram.com/maltandco/)
 
 ### Jeudi 11 Juin
 
-- 🍻 **Dégustation** avec [Goguette](https://www.instagram.com/goguette.cocktail/) 📍 [Malt & Co](https://maps.app.goo.gl/tsK6jBczd6M4TUoK7) [#maltandco](https://www.instagram.com/maltandco/)
 - 🍺 **Tap Take Over** 📍 [La Cervoiserie Pessac](https://maps.app.goo.gl/WpjmJsxsvuQC27r28) [#la_cervoiserie_pessac](https://www.instagram.com/la_cervoiserie_pessac/) avec [Bon Voyage](https://www.instagram.com/BrasserieBonVoyage/) — bières et places offertes pour le Grand Final
 - 🍺 **Tap Take Over** 📍 [L'Hecto Bar](https://maps.app.goo.gl/MhKaH3YL1QtzY2XZA) [#hecto.bar](https://www.instagram.com/hecto.bar/) avec [La Gang](https://www.instagram.com/brasserielagang/)
 - 🍺 **Tap Take Over** 📍 [Just One Beer](https://maps.app.goo.gl/tv7KYZkaKfo4mh9F8) avec [Landberry](https://www.instagram.com/landberry.crew/)

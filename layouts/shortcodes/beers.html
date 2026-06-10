@@ -7,10 +7,34 @@
 {{ range site.Data.beers.breweries }}
   {{ $brewery := .brewery }}
   {{ range .beers }}
-    {{ $allBeers = $allBeers | append (dict "beerName" .beerName "style" .style "percentage" .percentage "taste" .taste "brewery" $brewery) }}
+    {{ $isActive := true }}
+    {{ if isset . "active" }}
+      {{ $isActive = .active }}
+    {{ end }}
+    {{ $allBeers = $allBeers | append (dict "beerName" .beerName "style" .style "percentage" .percentage "taste" .taste "brewery" $brewery "active" $isActive) }}
   {{ end }}
 {{ end }}
-{{ $sorted := sort $allBeers "beerName" }}
+
+{{ $active := slice }}
+{{ $inactive := slice }}
+{{ range $allBeers }}
+  {{ if .active }}
+    {{ $active = $active | append . }}
+  {{ else }}
+    {{ $inactive = $inactive | append . }}
+  {{ end }}
+{{ end }}
+
+{{ $active = sort $active "beerName" }}
+{{ $inactive = sort $inactive "beerName" }}
+
+{{ $sorted := slice }}
+{{ range $active }}
+  {{ $sorted = $sorted | append . }}
+{{ end }}
+{{ range $inactive }}
+  {{ $sorted = $sorted | append . }}
+{{ end }}
 
 {{ $perPage := mul $cols $rows }}
 {{ $total := len $sorted }}
@@ -23,7 +47,7 @@
   {{ $pageBeers := first $perPage (after $start $sorted) }}
   <div class="slide{{ if eq $pageNum 0 }} active{{ end }}">
   {{ range $pageBeers }}
-    <div class="desktop-card">
+    <div class="desktop-card{{ if not .active }} inactive{{ end }}">
       <div class="dc-name">{{ .beerName }}</div>
       <div class="dc-meta"><span class="dc-style">{{ .style }}</span>{{ with .percentage }}<span class="dc-pct"> · {{ . }}%</span>{{ end }}</div>
       <div class="dc-brewery">{{ .brewery }}</div>
@@ -46,7 +70,11 @@
     <div class="brewery-header">{{ .brewery }}<span class="brewery-city"> — {{ .city }}</span></div>
     <div class="beer-list">
     {{ range .beers }}
-      <div class="mobile-card">
+      {{ $isActive := true }}
+      {{ if isset . "active" }}
+        {{ $isActive = .active }}
+      {{ end }}
+      <div class="mobile-card{{ if not $isActive }} inactive{{ end }}">
         <div class="mc-name">{{ .beerName }}</div>
         <div class="mc-meta">{{ .style }}<span class="mc-pct">{{ with .percentage }} — {{ . }}%{{ end }}</span>
         {{ if .taste }}
