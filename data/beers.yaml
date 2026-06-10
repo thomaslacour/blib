@@ -75,11 +75,11 @@ breweries:
     style: Pastry Sour
     percentage: 6.5
     active: true
-    taste: Fraise
+    taste: 🍓 Fraise
   - beerName: Hot Stuff
     style: IPA Sabro
     percentage: 6.0
-    taste: Poivre|Piment
+    taste: 🧂 Poivre|🌶 Piment
     active: true
 - brewery: Gentlemen Pirates
   city: Nantes (44)
@@ -87,22 +87,22 @@ breweries:
   - beerName: Wind
     style: Grape Sour
     percentage: 4.5
-    taste: Moût raisin|Vendanges 2025
+    taste: 🍇 Moût raisin|🧺 Vendanges 2025
     active: true
   - beerName: Sirene
     style: NEIPA
     percentage: 6.3
-    taste: Nectaron
+    taste: 🌿 Nectaron
     active: true
   - beerName: Triston
     style: Double NEIPA
     percentage: 7.9
-    taste: Nectaron
+    taste: 🌿 Nectaron
     active: true
   - beerName: Tsunami
     style: Double Wheat IPA
     percentage: 8.5
-    taste: Sabro
+    taste: 🌿 Sabro
     active: true
 - brewery: Goguette
   city: Haux (33)
@@ -121,7 +121,7 @@ breweries:
   - beerName: Liquid Sunshine
     style: Sour
     percentage: 4.0
-    taste: Ananas|Citron Vert|Poivre
+    taste: 🍍 Ananas|🍋‍🟩 Citron Vert|🧂 Poivre
     active: true
 - brewery: La Fracasse Coquille
   city: Libourne (33)
@@ -188,7 +188,18 @@ breweries:
 - brewery: Tête Haute
   city: Le Cellier (44)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: Coco
+    style: Mexican Lager
+    percentage: 5.0
+    taste: 🌶 Piment
+    active: true
+  - beerName: Salam
+    style: Session IPA
+    percentage: 3.5
+    taste: 🌶 Sumac
+    active: true
+  - beerName: Bob
+    style: Pastry Sour
+    percentage: 6.4
+    taste: 🍋 Citron|🍍 Ananas
     active: true
