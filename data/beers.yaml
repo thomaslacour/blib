@@ -181,9 +181,18 @@ breweries:
 - brewery: Saint-Rieul
   city: Trumilly (60)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: St-Rieul Printemps
+    style: Pale Ale
+    percentage: 6.0
+    active: true
+  - beerName: Silvanecte
+    style: Blonde Triple
+    percentage: 8.0
+    active: true
+  - beerName: Rêve d'agrumes
+    style: Blanche
+    percentage: 8.0
+    taste: 🍊 Pamplemousse|🍋 Citron
     active: true
 - brewery: Tête Haute
   city: Le Cellier (44)
