@@ -32,9 +32,19 @@ breweries:
 - brewery: 3 Brasseurs Bordeaux
   city: Villenave-d'Ornon (33)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: Lemon Pale
+    style: Pale Ale
+    percentage: 4.7
+    taste: 🍋 Citron|🫚 Gingembre
+    active: true
+  - beerName: Darkwave 🏎️ 🌆
+    style: Porter Framboise
+    percentage: 5.0
+    active: true
+  - beerName: Blanche de Lille
+    style: Witbier
+    percentage: 5.6
+    taste: 🍋 Citron
     active: true
 - brewery: Azimut
   city: Bordeaux (33)
