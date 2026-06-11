@@ -19,8 +19,9 @@ fancyTitle = "FESTIVAL BLiB" # title for frontpage, may include image
 logo = "images/bliby_rond.png"
 copyright = "Festival BLIB"
 description = '''
-Le BLiB revient pour sa 11e édition du 8 au 13 juin 2026<br>
-Le grand final à la cité bleue : <a href="posts/final">samedi 13 juin</a>
+Le BLiB revient pour sa 11<sup>e</sup> édition du 8 au 13 juin 2026<br>
+Le grand final à la cité bleue : <a href="posts/final">samedi 13 juin</a><br>
+<a href="https://www.lessentiel.fr/bordeaux/idees-sorties/2026-06-08/le-festival-blib-2026-debute-bordeaux-22909">On parle de nous 📝 !</a>
 '''
 #Le grand final au H14 : <a href="posts/h14">samedi 19 avril</a>
 #'''
