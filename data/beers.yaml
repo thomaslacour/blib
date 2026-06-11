@@ -137,13 +137,6 @@ breweries:
     style: Style
     percentage: 0.0
     active: true
-- brewery: La Plume Et L'Épi
-  city: Grignols (24)
-  beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
-    active: true
 - brewery: La Riboterie
   city: Saint-Vivien (17)
   beers:

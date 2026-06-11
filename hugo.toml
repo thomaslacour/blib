@@ -646,11 +646,11 @@ body = "Saint Morillon (33), France"
 link = "https://www.maisonguichard.fr"
 logo = "images/logos/guichard.png"
 
-[[params.three.feature]]
-title = "La Plume et l'Épi"
-body = "Grignols (24), France"
-link = "https://plumepi.com/"
-logo = "images/logos/plumepi.png"
+#[[params.three.feature]]
+#title = "La Plume et l'Épi"
+#body = "Grignols (24), France"
+#link = "https://plumepi.com/"
+#logo = "images/logos/plumepi.png"
 
 [[params.three.feature]]
 title = "Chapote"
