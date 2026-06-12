@@ -49,7 +49,6 @@ Attention, certains évènements nécessitent une réservation !
 
 ### Vendredi 12 Juin
 
-- 🍽️ **Repas des Brasseurs** à Bordeaux — 12h 📍 [L'Hecto](https://maps.app.goo.gl/MhKaH3YL1QtzY2XZA) [#hecto.bar](https://www.instagram.com/hecto.bar/)
 - 🍺 **Tap Take Over** 📍 [Hiro Craft Beer Bar](https://maps.app.goo.gl/Gd1eTcbC24fbQAgE9) [#hiro.craftbeer](https://www.instagram.com/hiro.craftbeer/) avec [Tête Haute](https://www.instagram.com/brasserietetehaute/), [Gentlemen Pirates](https://www.instagram.com/brasseriegentlemenpirates/) et [Chubby Brewing](https://www.instagram.com/chubbybrewing)
 - 🍺 **Tap Take Over** 📍 [Space Factory](https://share.google/CELASTdp3EcltXZzD) [#spacefactory](https://www.instagram.com/space_factory_craft_beer/) [www](https://www.spacefactory33.com/) avec [Landberry](https://www.instagram.com/landberry.crew/)
 - 🍺 **Tap Take Over** 📍 [V and B Bordeaux Lac](https://maps.app.goo.gl/w3zRJkEBNsNZ9kTH9) [#vandbbordeauxlac](https://www.instagram.com/vandbbordeauxlac/) avec [Jukebox](https://www.instagram.com/brasseriejukebox/)
@@ -74,6 +73,7 @@ Attention, certains évènements nécessitent une réservation !
   * ♻️ **Ellocan** — mobilier design éco-conçu à partir de canettes recyclées (kit « YouCanSit ») [#ellocan_design](https://www.instagram.com/ellocan_design/)
   * 💄 **INAÉ maison de beauté** — institut de beauté du Taillan-Médoc : extensions et rehaussement de cils, brow lift, strass dentaires [#inae.bdx](https://www.instagram.com/inae.bdx/)
   * 💆 **Masseuses** — massage sur chaise ergonomique (avec [@Nomad's](https://www.instagram.com/nomads/))
+  * 💉🎨 **Tatoo** — Tatouages éphémères (avec [@LeManul](https://www.instagram.com/le_manul_/))
 - 🕥 **22h30** — Fermeture de l'accueil
 - 🌙 **Après 23h** — After 📍 [Hiro Craft Beer Bar](https://maps.app.goo.gl/Gd1eTcbC24fbQAgE9) [#hiro.craftbeer](https://www.instagram.com/hiro.craftbeer/)
 
