@@ -163,6 +163,15 @@ breweries:
     percentage: 4.0
     taste: 🍍 Ananas|🍋‍🟩 Citron Vert|🧂 Poivre
     active: true
+  - beerName: Medusa
+    style: Session
+    percentage: 4.5
+    active: true
+  - beerName: Lemony
+    style: Sour
+    percentage: 4.0
+    taste: Citron Vert|Coco
+    active: true
 - brewery: La Fracasse Coquille
   city: Bordeaux (33)
   beers:
