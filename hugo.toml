@@ -25,9 +25,9 @@ Le grand final à la cité bleue : <a href="posts/final">samedi 13 juin</a><br>
 '''
 #Le grand final au H14 : <a href="posts/h14">samedi 19 avril</a>
 #'''
-startbuttonText = "Je prends ma place !"
-startbuttonLink = "https://www.helloasso.com/associations/blib/evenements/preventes-festival-blib-2026"
-extrabuttonText = "Soutenir l'association !"
+#startbuttonText = "Je prends ma place !"
+#startbuttonLink = "https://www.helloasso.com/associations/blib/evenements/preventes-festival-blib-2026"
+#extrabuttonText = "Soutenir l'association !"
 extrabuttonLink = "https://www.helloasso.com/associations/blib"
 body_is_markdown = true
 # extrabuttonText = "Concours brassam"
