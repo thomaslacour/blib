@@ -149,11 +149,32 @@ breweries:
     percentage: 0.0
     active: true
 - brewery: La Gang
-  city: Biscarosse (33)
+  city: Biscarosse (40)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: Triple Impact
+    style: Triple
+    percentage: 8.0
+    active: true
+  - beerName: Back To Basics
+    style: IPA
+    percentage: 5.6
+    active: true
+  - beerName: Acid Crush
+    style: Sour
+    percentage: 3.5
+    active: true
+  - beerName: Matt Lemon
+    style: Sour
+    percentage: 4.0
+    active: true
+    taste: 🍋 Citron|🫚 Gingembre
+  - beerName: Amitiés Amicales
+    style: NEIPA
+    percentage: 6.0
+    active: true
+  - beerName: Direction Pluton
+    style: Double NEIPA
+    percentage: 8.4
     active: true
 - brewery: La Riboterie
   city: Saint-Vivien (17)
