@@ -216,9 +216,19 @@ breweries:
 - brewery: La Riboterie
   city: Saint-Vivien (17)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: L'affamé
+    style: Blonde de Printemps
+    percentage: 5.9
+    taste: Fleur d'hibiscus
+    active: true
+  - beerName: La Mordue
+    style: Blonde
+    percentage: 7.0
+    taste: Gingembre
+    active: true
+  - beerName: La Vorace
+    style: Blanche
+    taste: Citron Vert|Basilic
     active: true
 - brewery: Landberry
   city: Anglet (64)
