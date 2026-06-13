@@ -75,9 +75,25 @@ breweries:
 - brewery: Callipyge
   city: Labastide-d'Armagnac (40)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: Red Cellar
+    style: Sour
+    percentage: 5.5
+    taste: Framboise|Mure|Cassis
+    active: true
+  - beerName: Couillon De La Lune
+    style: Gose
+    percentage: 5.5
+    taste: Mangue|Coco
+    active: true
+  - beerName: Muscle Ton Jeu Robert
+    style: Session IPA
+    percentage: 3.8
+    taste: Amarillo|Citra|Sabro
+    active: taste
+  - beerName: Marin d'eau Douce
+    style: NEIPA
+    percentage: 6.0
+    taste: Krush Cryo|Citra|Nelson Sauvin
     active: true
 - brewery: Chapote
   city: Civrac-de-Blaye (33)
