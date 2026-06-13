@@ -164,11 +164,17 @@ breweries:
     taste: 🍍 Ananas|🍋‍🟩 Citron Vert|🧂 Poivre
     active: true
 - brewery: La Fracasse Coquille
-  city: Libourne (33)
+  city: Bordeaux (33)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: French Breakfast
+    style: Grappe Ale
+    percentage: 6.5
+    taste: Sauvignon
+    active: true
+  - beerName: French Sauvignon
+    style: Grappe Ale
+    taste: Merlot
+    percentage: 6.5
     active: true
 - brewery: La Gang
   city: Biscarosse (40)
