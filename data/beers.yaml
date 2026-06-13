@@ -250,10 +250,21 @@ breweries:
 - brewery: Noktua Brama
   city: Saint-Estèphe (33)
   beers:
-  - beerName: Nom
-    style: Style
-    percentage: 0.0
+  - beerName: Anna
+    style: Pale Ale Feijoa
+    percentage: 4.0
+    taste: Fraise|Ananas
     active: true
+  - beerName: Lysea
+    style: Rauchbier
+    taste: Fumé
+    percentage: 5.3
+    active: true
+  - beerName: Porter
+    style: Porter
+    taste: Poivron
+    active: true
+    percentage: 5.9
 - brewery: Parallele
   city: Floirac (33)
   beers:
