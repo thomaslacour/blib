@@ -229,7 +229,7 @@ breweries:
   - beerName: La Vorace
     style: Blanche
     taste: Citron Vert|Basilic
-    active: true
+    active: false
 - brewery: Landberry
   city: Anglet (64)
   beers:
