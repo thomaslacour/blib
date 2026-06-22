@@ -1,40 +1,80 @@
-{{ $md := .Site.Params.body_is_markdown | default false }}
-
-{{ with .Site.Params.three }}
-{{ if .enable }}
+{{ $md := .Site.Params.body_is_markdown | default false }} {{ with
+.Site.Params.three }} {{ if .enable }}
 <section id="three" class="wrapper style3 special">
-	<div class="inner">
-		<header class="major">
-			<h2>{{ .title | safeHTML }}</h2>
-{{ partial "body_text.html" (dict "context" . "md" $md) }}
-		</header>
-		<ul class="features">
-{{ range (sort .feature "title") }}
-			<li class="icon {{ .icon }}">
-{{ if .logo }}
-				<div class="feature-item">
-					<div class="feature-image-wrapper">
-						<img src="{{ .logo }}" alt="Logo {{ .title }}" class="feature-image">
-					</div>
-					<div class="feature-content">
-						<!-- <h3>{{ .title | safeHTML }}</h3> -->
-						<h3><a href="{{ .link }}">{{ .title | safeHTML }}</a></h3>
-						<p>{{ .body | safeHTML }}</p>
-					</div>
-				</div>
-{{ else }}
-				<div class="feature-item">
-					<div class="feature-content-no-image">
-						<!-- <h3>{{ .title | safeHTML }}</h3> -->
-						<h3><a href="{{ .link }}">{{ .title | safeHTML }}</a></h3>
-						<p>{{ .body | safeHTML }}</p>
-					</div>
-				</div>
-{{ end }}
-			</li>
-{{ end }}
-		</ul>
-	</div>
+  <div class="inner">
+    <header class="major">
+      <h2>{{ .title | safeHTML }}</h2>
+      {{ partial "body_text.html" (dict "context" . "md" $md) }}
+    </header>
+
+    <!-- Affichage du carrousel (visible uniquement en desktop) -->
+    <div class="logo-carousel">
+      <div class="carousel-container">
+        <!-- Premier ensemble de logos pour le défilement -->
+        {{ range (sort .feature "title") }} {{ if .logo }}
+        <div class="carousel-item">
+          <a href="{{ .link }}" target="_blank">
+            <img
+              src="{{ .logo }}"
+              alt="Logo {{ .title }}"
+              class="partner-logo"
+            />
+            <div class="carousel-item-info">
+              <h3>{{ .title | safeHTML }}</h3>
+              <p>{{ .body | safeHTML }}</p>
+            </div>
+          </a>
+        </div>
+        {{ end }} {{ end }}
+
+        <!-- Duplication pour le défilement infini -->
+        {{ range (sort .feature "title") }} {{ if .logo }}
+        <div class="carousel-item">
+          <a href="{{ .link }}" target="_blank">
+            <img
+              src="{{ .logo }}"
+              alt="Logo {{ .title }}"
+              class="partner-logo"
+            />
+            <div class="carousel-item-info">
+              <h3>{{ .title | safeHTML }}</h3>
+              <p>{{ .body | safeHTML }}</p>
+            </div>
+          </a>
+        </div>
+        {{ end }} {{ end }}
+      </div>
+    </div>
+
+    <!-- Liste classique (visible uniquement en mobile) -->
+    <ul class="features features-list">
+      {{ range (sort .feature "title") }}
+      <li class="icon {{ .icon }}">
+        {{ if .logo }}
+        <div class="feature-item">
+          <div class="feature-image-wrapper">
+            <img
+              src="{{ .logo }}"
+              alt="Logo {{ .title }}"
+              class="feature-image"
+            />
+          </div>
+          <div class="feature-content">
+            <h3><a href="{{ .link }}">{{ .title | safeHTML }}</a></h3>
+            <p>{{ .body | safeHTML }}</p>
+          </div>
+        </div>
+        {{ else }}
+        <div class="feature-item">
+          <div class="feature-content-no-image">
+            <h3><a href="{{ .link }}">{{ .title | safeHTML }}</a></h3>
+            <p>{{ .body | safeHTML }}</p>
+          </div>
+        </div>
+        {{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </div>
 </section>
-{{ end }}
-{{ end }}
+{{ end }} {{ end }}
