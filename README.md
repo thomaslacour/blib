@@ -39,6 +39,14 @@ Host github.com
 EOF
 ```
 
+Add the key (public) on GitHub
+
+* Go to Settings (from your profile menu, top right)
+* Click SSH and GPG keys in the sidebar
+* Click New SSH key
+* Give it a title (e.g. "My laptop"), paste the key into the Key field, leave the type as "Authentication Key"
+* Click Add SSH key
+
 ### IONOS and github site
 
 See https://melissahie.com/blog/github-pages-custom-domain-ionos.
