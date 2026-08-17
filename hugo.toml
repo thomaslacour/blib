@@ -44,9 +44,9 @@ custom_css = "css/custom.css"
 url = '/'
 title = "Festival BLIB"
 
-[[params.menu.main]]
-url = '/posts/program2026'
-title = "Programme"
+#[[params.menu.main]]
+#url = '/posts/program2026'
+#title = "Programme"
 
 #[[params.menu.main]]
 #url = '/posts/h14'
@@ -65,9 +65,9 @@ title = "Devenir Bénévole"
 #url = '/beers'
 #title = "Bières à la Pression"
 
-[[params.menu.main]]
-url = '/comkit'
-title = "Kit de Communication"
+# [[params.menu.main]]
+# url = '/comkit'
+# title = "Kit de Communication"
 
 [[params.menu.main]]
 url = '/posts/galerie'
@@ -143,7 +143,7 @@ body = "Plusieurs lieux partenaires (brasserie, bar, cave, restaurant ...) s'ass
 img = "images/visuel_blib3.jpg"
 title = '30 exposants'
 body = '''
-Lors du grand final qui se déroulera cette année à la cité bleue, tous les exposants, des brasseries aux partenaires de la restauration, se retrouvent pour célébrer la bière craft
+Lors du grand final qui se déroulera cette année aux vivres de l'art, tous les exposants, des brasseries aux partenaires de la restauration, se retrouvent pour célébrer la bière craft
 '''
 
 ################################################################################
