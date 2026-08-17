@@ -153,7 +153,7 @@ Lors du grand final qui se déroulera cette année à la cité bleue, tous les e
 
 [params.three]
 enable = true
-title = 'Exposants 2026'
+title = 'Exposants 2027 (TBA)'
 body = '''
 '''
 
@@ -165,12 +165,12 @@ body = '''
 # todo (not supported within the template)
 #img = "..."
 
-[[params.three.feature]]
-title = "Azimut"
-body = "Bordeaux (33), France"
-link = "https://www.azimutbrasserie.com/"
-icon = "test"
-logo = "images/logos/azimut.png"
+# [[params.three.feature]]
+# title = "Azimut"
+# body = "Bordeaux (33), France"
+# link = "https://www.azimutbrasserie.com/"
+# icon = "test"
+# logo = "images/logos/azimut.png"
 
 #[[params.three.feature]]
 #title = "Bee King"
@@ -190,11 +190,11 @@ logo = "images/logos/azimut.png"
 #link = "https://www.instagram.com/brasseriekapsyl/"
 #logo = "images/logos/kapsyl.png"
 
-[[params.three.feature]]
-title = "Jukebox"
-body = "Cognac (16), France"
-link = "https://brasseriejukebox.com/"
-logo = "images/logos/jukebox.png"
+# [[params.three.feature]]
+# title = "Jukebox"
+# body = "Cognac (16), France"
+# link = "https://brasseriejukebox.com/"
+# logo = "images/logos/jukebox.png"
 
 #[[params.three.feature]]
 #title = "Effet Papillon"
@@ -208,11 +208,11 @@ logo = "images/logos/jukebox.png"
 #link = "https://maisonpip.com/"
 #logo = "images/logos/pip.png"
 
-[[params.three.feature]]
-title = "La Gang"
-body = "Biscarosse (40), France"
-link = "https://lagang.fr/"
-logo = "images/logos/gang.png"
+# [[params.three.feature]]
+# title = "La Gang"
+# body = "Biscarosse (40), France"
+# link = "https://lagang.fr/"
+# logo = "images/logos/gang.png"
 
 #[[params.three.feature]]
 #title = "Rosny"
@@ -244,11 +244,11 @@ logo = "images/logos/gang.png"
 #link = "https://brasseriezebra.fr/"
 #logo = "images/logos/zebra.png"
 
-[[params.three.feature]]
-title = "Burdigala"
-body = "Gradignan (33), France"
-link = "https://www.bieredebordeaux.com/"
-logo = "images/logos/burdigala.png"
+# [[params.three.feature]]
+# title = "Burdigala"
+# body = "Gradignan (33), France"
+# link = "https://www.bieredebordeaux.com/"
+# logo = "images/logos/burdigala.png"
 
 #[[params.three.feature]]
 #title = "Le bercail WUB"
@@ -310,11 +310,11 @@ logo = "images/logos/burdigala.png"
 #link = "https://brunack.com/"
 #logo = "images/logos/brunack.png"
 
-[[params.three.feature]]
-title = "Chubby Brew"
-body = "Bouafle (78), France"
-link = "https://www.instagram.com/chubbybrewing/"
-logo = "images/logos/chubbybrew.png"
+# [[params.three.feature]]
+# title = "Chubby Brew"
+# body = "Bouafle (78), France"
+# link = "https://www.instagram.com/chubbybrewing/"
+# logo = "images/logos/chubbybrew.png"
 
 #[[params.three.feature]]
 #title = "Drunk Beard"
@@ -340,11 +340,11 @@ logo = "images/logos/chubbybrew.png"
 #link = "https://www.gekkobeers.com/"
 #logo = "images/logos/gekko.png"
 
-[[params.three.feature]]
-title = "Gentlemen Pirates"
-body = "Nantes (44), France"
-link = "https://gentlemenpirates.my.canva.site/"
-logo = "images/logos/pirates.png"
+# [[params.three.feature]]
+# title = "Gentlemen Pirates"
+# body = "Nantes (44), France"
+# link = "https://gentlemenpirates.my.canva.site/"
+# logo = "images/logos/pirates.png"
 
 ## [[params.three.feature]]
 ## title = "Hoodo"
@@ -424,17 +424,17 @@ logo = "images/logos/pirates.png"
 #link = "https://little-atlantique-brewery.fr/"
 #logo = "images/logos/littleatlantique.png"
 
-[[params.three.feature]]
-title = "Noktua Brama"
-body = "Saint-Estèphe (33), France"
-link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
-logo = "images/logos/noktuabrama.png"
+# [[params.three.feature]]
+# title = "Noktua Brama"
+# body = "Saint-Estèphe (33), France"
+# link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
+# logo = "images/logos/noktuabrama.png"
 
-[[params.three.feature]]
-title = "La Fracasse Coquille"
-body = "Libourne (33), France"
-link = "https://la-fracasse-coquille.fr/"
-logo = "images/logos/fracasse.png"
+# [[params.three.feature]]
+# title = "La Fracasse Coquille"
+# body = "Libourne (33), France"
+# link = "https://la-fracasse-coquille.fr/"
+# logo = "images/logos/fracasse.png"
 
 #[[params.three.feature]]
 #title = "La Tute"
@@ -448,11 +448,11 @@ logo = "images/logos/fracasse.png"
 #link = "https://www.salamabrewing.com/"
 #logo = "images/logos/salama.png"
 
-[[params.three.feature]]
-title = "Landberry"
-body = "Anglet (64), France"
-link = "https://landberry.fr/"
-logo = "images/logos/landberry.png"
+# [[params.three.feature]]
+# title = "Landberry"
+# body = "Anglet (64), France"
+# link = "https://landberry.fr/"
+# logo = "images/logos/landberry.png"
 
 #[[params.three.feature]]
 #title = "Pyraser"
@@ -532,11 +532,11 @@ logo = "images/logos/landberry.png"
 #link = "https://moersleutel.com/"
 #logo = "images/logos/moersleutel.png"
 
-[[params.three.feature]]
-title = "Parallele"
-body = "Floirac (33), France"
-link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
-logo = "images/logos/parallele.png"
+# [[params.three.feature]]
+# title = "Parallele"
+# body = "Floirac (33), France"
+# link = "https://www.facebook.com/p/Micro-brasserie-Noktua-Brama-61565516728876/"
+# logo = "images/logos/parallele.png"
 
 #[[params.three.feature]]
 #title = "Schlag"
@@ -598,53 +598,53 @@ logo = "images/logos/parallele.png"
 #link = "http://www.bonelessbrewing.com/"
 #logo = "images/logos/boneless.png"
 
-[[params.three.feature]]
-title = "Saint-Rieul"
-body = "Trumilly (60), France"
-link = "http://www.st-rieul.com/"
-logo = "images/logos/saintrieul.png"
+# [[params.three.feature]]
+# title = "Saint-Rieul"
+# body = "Trumilly (60), France"
+# link = "http://www.st-rieul.com/"
+# logo = "images/logos/saintrieul.png"
 
-[[params.three.feature]]
-title = "3 Brasseurs Bordeaux"
-body = "Villenave-d'Ornon (33), France"
-link = "https://restaurants.3brasseurs.com/fr/france-FR/914/3-brasseurs-bordeaux-villenave-dornon/details"
-logo = "images/logos/3brasseurs.png"
+# [[params.three.feature]]
+# title = "3 Brasseurs Bordeaux"
+# body = "Villenave-d'Ornon (33), France"
+# link = "https://restaurants.3brasseurs.com/fr/france-FR/914/3-brasseurs-bordeaux-villenave-dornon/details"
+# logo = "images/logos/3brasseurs.png"
 
-[[params.three.feature]]
-title = "Tête Haute"
-body = "Le Cellier (44), France"
-link = "https://www.tete-haute.fr/"
-logo = "images/logos/tetehaute.png"
+# [[params.three.feature]]
+# title = "Tête Haute"
+# body = "Le Cellier (44), France"
+# link = "https://www.tete-haute.fr/"
+# logo = "images/logos/tetehaute.png"
 
-[[params.three.feature]]
-title = "Callipyge"
-body = "Labastide-d'Armagnac (40), France"
-link = "https://www.facebook.com/p/Callipyge-Brewing-61585813042602/"
-logo = "images/logos/callipyge.png"
+# [[params.three.feature]]
+# title = "Callipyge"
+# body = "Labastide-d'Armagnac (40), France"
+# link = "https://www.facebook.com/p/Callipyge-Brewing-61585813042602/"
+# logo = "images/logos/callipyge.png"
 
-[[params.three.feature]]
-title = "La Riboterie"
-body = "Saint-Vivien (17), France"
-link = "https://www.brasserie-lariboterie.com/"
-logo = "images/logos/riboterie.png"
+# [[params.three.feature]]
+# title = "La Riboterie"
+# body = "Saint-Vivien (17), France"
+# link = "https://www.brasserie-lariboterie.com/"
+# logo = "images/logos/riboterie.png"
 
-[[params.three.feature]]
-title = "Goguette cocktail vigneron"
-body = "Haux (33), France"
-link = "https://chateau-lamothe.com/la-goguette/"
-logo = "images/logos/goguette.png"
+# [[params.three.feature]]
+# title = "Goguette cocktail vigneron"
+# body = "Haux (33), France"
+# link = "https://chateau-lamothe.com/la-goguette/"
+# logo = "images/logos/goguette.png"
 
-[[params.three.feature]]
-title = "GMTX Brewery"
-body = "Montestruc-sur-Gers (32), France"
-link = "https://gmtx-brewery.sumupstore.com/"
-logo = "images/logos/gmtx.png"
+# [[params.three.feature]]
+# title = "GMTX Brewery"
+# body = "Montestruc-sur-Gers (32), France"
+# link = "https://gmtx-brewery.sumupstore.com/"
+# logo = "images/logos/gmtx.png"
 
-[[params.three.feature]]
-title = "Maison Guichard"
-body = "Saint Morillon (33), France"
-link = "https://www.maisonguichard.fr"
-logo = "images/logos/guichard.png"
+# [[params.three.feature]]
+# title = "Maison Guichard"
+# body = "Saint Morillon (33), France"
+# link = "https://www.maisonguichard.fr"
+# logo = "images/logos/guichard.png"
 
 #[[params.three.feature]]
 #title = "La Plume et l'Épi"
@@ -652,11 +652,11 @@ logo = "images/logos/guichard.png"
 #link = "https://plumepi.com/"
 #logo = "images/logos/plumepi.png"
 
-[[params.three.feature]]
-title = "Chapote"
-body = "Civrac-de-Blaye (33), France"
-link = "https://www.instagram.com/lachapote/"
-logo = "images/logos/chapote.png"
+# [[params.three.feature]]
+# title = "Chapote"
+# body = "Civrac-de-Blaye (33), France"
+# link = "https://www.instagram.com/lachapote/"
+# logo = "images/logos/chapote.png"
 
 ################################################################################
 # FOOD
