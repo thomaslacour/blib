@@ -151,11 +151,11 @@ Lors du grand final qui se déroulera cette année aux vivres de l'art, tous les
 ################################################################################
 # remove bg: https://www.remove.bg/fr/upload
 
-[params.three]
-enable = true
-title = 'Exposants 2027 (TBA)'
-body = '''
-'''
+# [params.three]
+# enable = true
+# title = 'Exposants 2027 (TBA)'
+# body = '''
+# '''
 
 # TEMPLATE
 #[[params.three.feature]]
