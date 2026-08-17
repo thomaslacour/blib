@@ -17,6 +17,7 @@ Clone the repository, and configure ssh instead of http
 ```bash
 git clone https://github.com/thomaslacour/blib.git
 cd blib
+git remote set-url origin git@github.com:thomaslacour/blib.git
 git config core.sshCommand "ssh -i ~/.ssh/github_blib"
 ```
 
