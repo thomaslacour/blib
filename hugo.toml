@@ -663,7 +663,7 @@ Lors du grand final qui se déroulera cette année aux vivres de l'art, tous les
 ################################################################################
 
 [params.food]
-enable = true
+enable = false
 title = 'Food'
 body = '''
 '''
